@@ -1,0 +1,1001 @@
+username,password,surname,name,dob,gender,race,occupation,street,suburb,city,phonenumber,email,medical,membershipnumber,medicalplan,diseases,authdoc,authpath,authgov,authphar
+9701169351081,f30aa7a662c728b7407c54ae6bfd27d1,Fourie,Edrich,1997-01-16,Male,White,BIGBOSS,8 Dwars Straat,Die Bult,Potchefstroom,0761936165,edrichfourie1@gmail.com,Gems,16144161,A,Immortal,0,0,0,0
+20200761936165,7c904eb6a463c5eca5bafe12e68e892f,Scholtz,Claudia,2020-05-17,Female,White,Patient,Orchid Single,Bloemfontein,Bloemfontein,0761936165,edrichfourie1@gmail.com,,,,None,1,1,1,1
+191002133581046,72f518ac3ae07ff3634309da4de8e76d,MEYER,JANCO STEFAN,1910-02-13,Female,Mixed-Race,Government,91 Maphongo street,Durban,Kwazulu-Natal,0833082631,JANCO STEFAN@gmail.com,SasolMed,277084956,Plan B,Cholera,0,1,0,0
+191004249367068,03eb87e8312ede2e8314c2a1dc8e25a9,REID,TSHIRELETSO BLESSING,1910-04-24,Male,White,Patient,1 Albert Luthuli drive,Vryburg,North-West,0797782316,TSHIRELETSO BLESSING@gmail.com,,,,None,1,1,1,1
+191009045109052,4d78862a759acb8e6567552cdce9a54e,MAPHETO,MICHEL BURGER,1910-09-04,Male,Asian,Medical,57 Maphongo street,Krugersdorp,Gauteng,,MICHEL BURGER@gmail.com,,,,Dengue Fever,0,0,0,0
+191009131155068,d4cefce65645a39bb266f710cf2b6c1a,LUCAS,PASEKA PADRICK,1910-09-13,Female,White ,Medical,85 Louwstraat,Johannesburg,Gauteng,0770920967,PASEKA PADRICK@gmail.com,,,,Cholera,0,0,0,0
+191101168496096,1dde044074d4a7baefdc0b9c331f76c8,MAPFEKA,RYAN JAMES,1911-01-16,Male,Mixed-Race,Medical,24 James Moroka drive,Bloemfontein,Vrystaat,0783585513,RYAN JAMES@gmail.com,,,,Ebola,0,0,0,0
+191101204190046,0a0d0ed9f7d873410c5dab5f514685e0,KLOPPER,LEE-LYNN,1911-01-20,Female,Black,Pharmacists,39 Kwena street,Bloemfontein,Vrystaat,0835177427,LEE-LYNN@gmail.com,Liberty,421762764,Plan E,Rabies,0,0,0,0
+191102029585015,32e0e006c3ef44ee038ac21816171df1,VERMAAK,LEHANDRI,1911-02-02,Male,Other,Patient,32 James Moroka drive,Port Elizabeth,Eastern Cape,,LEHANDRI@gmail.com,Genesis,147282713,Plan D,Dengue Fever,0,0,0,0
+191106241946081,72f518ac3ae07ff3634309da4de8e76d,MEYER,LOUIS FLORIS,1911-06-24,Female,Indian,Government,12 Jeppe street,,,0810755515,LOUIS FLORIS@gmail.com,,,,Rabies,0,0,0,0
+191109081362011,6dce7f33af080684521f0460d67dd841,QUSHEGA,ESTELLE,1911-09-08,Female,American,Medical,49 Totius straat,,,0834046208,ESTELLE@gmail.com,,,,Ebola,0,0,0,0
+191109122782087,6f7787d7b9c07511142c842c04e60735,BOTHA,FREDERIK JACOBUS,1911-09-12,Female,American,Pharmacists,96 Kwena street,Cape Town,Western Cape,0749295735,,Alliance-midmed,823601102,Plan E,Cholera,0,0,0,0
+191110059301051,0b4e3b7b816c8243fe7c731933828981,COETZER,WILLEM FREDERIK,1911-10-05,Male,Indian,Pathology,80 Pitso street,Kimberley,Northern Cape,0839549218,WILLEM FREDERIK@gmail.com,Bonitas,643110427,Plan E,Cholera,0,0,0,0
+191110085238021,d64364af94e0fd8dd869b5c727ff81c4,TSIWANA,HUGO JOHANN,1911-10-08,Male,Other,Government,80 Goetz straat,,,0794090814,HUGO JOHANN@gmail.com,,,,Cholera,0,0,0,0
+191110176850088,5aca1dedcd0531885ce7e5cca5417354,ROSSOUW,JACO GERHARDUS,1911-10-17,Male,Black,Pharmacists,66 Pretorius straat,Bethlehem,Vrystaat,0821336548,,GEMS,700554170,Plan E,Covid-19,0,0,0,0
+191110226165075,e9f2ed07c7f69c283c709f894a534312,DLADLA,OFENTSE,1911-10-22,Male,Other,Medical,13 Goetz straat,Randfontein,Gauteng,0772935831,OFENTSE@gmail.com,,,,,0,0,0,0
+191111141566071,2f709a28c6b666d743d965c0347b4ef3,TAYLOR,BANELE LUCKY,1911-11-14,Female,Other,Pathology,44 Mosidi street,Nelspruit,Mpumalanga,0814007881,BANELE LUCKY@gmail.com,,,,,0,0,0,0
+191111173905075,780ff237c66280072bd94a3e76f37f8a,MÖLLER,HENDRIK JOHANNES,1911-11-17,Female,Latino,Pathology,58 Maphongo street,Plokwane,Limpopo,0721253674,,,,,Dengue Fever,0,0,0,0
+191112094813055,b71faea208ee1b9fe732beb3d3360fad,STREICHER,LOUWRENS MARTHINUS,1911-12-09,Female,Indian,Medical,98 Maphongo street,Potchefstroom,North-West,0816630315,LOUWRENS MARTHINUS@gmail.com,,,,Covid-19,0,0,0,0
+191201171481083,ea27c5878cef3618806443f4398d8ebb,VAN DER MERWE,ENRICO,1912-01-17,Female,Indian,Patient,37 Jeppe street,,,,ENRICO@gmail.com,,,,Dengue Fever,0,0,0,0
+191201235852035,449d06f127bd243e58541b10fe5d14f2,SMITH,NANET,1912-01-23,Male,Latino,Patient,18 Pretorius straat,,,,NANET@gmail.com,Pharos,277809909,Plan A,,0,0,0,0
+191201237151084,d64364af94e0fd8dd869b5c727ff81c4,TSIWANA,ANRU,1912-01-23,Male,Other,Government,80 Goetz straat,Welkom,Vrystaat,0827665891,ANRU@gmail.com,,,,Cholera,0,0,0,0
+191202055164030,f76b751b80995af86d3b4a56f6d56a62,FORSYTH,STEPHANUS BUISINNE,1912-02-05,Male,Indian,Pharmacists,71 Goetz straat,,,0733761884,,Medimed,544892353,Plan A,Dengue Fever,0,0,0,0
+191202059999014,d9b31c6e38a5797d75ce18015432459a,OBISI,LOUIS DELANO,1912-02-05,Male,Latino,Medical,32 Eleazer straat,Bethlehem,Vrystaat,0763734094,LOUIS DELANO@gmail.com,,,,Ebola,0,0,0,0
+191202275021088,1a87a751ca02a364334889be831b41fe,PIETERSE,LEANN,1912-02-27,Male,Asian,Patient,54 Clark street,Plokwane,Limpopo,0819122075,LEANN@gmail.com,,,,Covid-19,0,0,0,0
+191203089675076,f7b9bd4e1a1505fe5abc4cc79d43c31d,MOTHOBI,SBONGILE,1912-03-08,Male,American,Patient,50 Pretorius straat,Zeerust,North-West,,SBONGILE@gmail.com,,,,Measles,0,0,0,0
+191203262251048,76e9a9b6564ed4b715f9342ca01c5276,GROBBELAAR,MORENA ANDY,1912-03-26,Female,American,Patient,17 Goetz straat,,,0806638719,MORENA ANDY@gmail.com,Profmed,408080644,Plan E,Cholera,0,0,0,0
+191204143607023,9b7c4cb620d9403e59c02336fea52c96,BOTMA,OLWAM LESEDI KHAYA,1912-04-14,Female,Indian,Government,41 Grimbeeck straat,Klerksdorp,North-West,0794254491,OLWAM LESEDI KHAYA@gmail.com,,,,Rabies,0,0,0,0
+191206298365074,774ff69368bef1b32f8d156ecbd4ea06,RAUBENHEIMER,DIRK,1912-06-29,Male,Black,Medical,55 Louwstraat,Bethlehem,Vrystaat,0814500367,DIRK@gmail.com,Profmed,805439518,Plan E,Rabies,0,0,0,0
+191208046918071,46e0e326c665a06a3865d29a46df6ecb,VAN DEVENTER,KENECHI MICHAEL,1912-08-04,Male,Black,Pharmacists,51 Ross street,Kimberley,Northern Cape,,KENECHI MICHAEL@gmail.com,,,,Dengue Fever,0,0,0,0
+191208195972048,32e0e006c3ef44ee038ac21816171df1,VERMAAK,HERMAN ALBERT,1912-08-19,Male,Other,Patient,32 James Moroka drive,,,0746884116,HERMAN ALBERT@gmail.com,Genesis,147282713,Plan D,Dengue Fever,0,0,0,0
+191208243278050,78e80cb593c448a25a13212eb4694ddd,SWART,MARIE-TINKA,1912-08-24,Female,White ,Government,36 Eleazer straat,,,0728994795,MARIE-TINKA@gmail.com,Barloworld medical,478185450,Plan B,Dengue Fever,0,0,0,0
+191209211117018,b7317b50693bac59880346cfb7d051ee,JOUBERT,ENRICO,1912-09-21,Female,Mixed-Race,Pathology,21 Pitso street,Welkom,Vrystaat,0777306511,ENRICO@gmail.com,,,,Ebola,0,0,0,0
+191210175542025,f70e01fd134560cd2356060fc42e0563,CROUS,CARLA,1912-10-17,Male,Other,Pathology,58 Goetz straat,East London,Eastern Cape,0795638098,CARLA@gmail.com,,,,Measles,0,0,0,0
+191211011386091,e39a0a8e59e5c0463dec7af08ee01008,KRYNAUW,BRETT KEVIN,1912-11-01,Female,Latino,Government,100 Maphongo street,Klerksdorp,North-West,0804912764,BRETT KEVIN@gmail.com,FedHealth,261270864,Plan E,,0,0,0,0
+191212217879053,2ab53d8524ad69725aaf83fb021395a3,MUNIAN,KEOTSHEPILE,1912-12-21,Male,Black,Government,63 Kwena street,,,0724384589,,,,,,0,0,0,0
+191212259649058,eb8983a636c9cf520964f444991c75d9,MARX,JOHANNES PETRUS,1912-12-25,Male,American,Government,84 Clark street,Mahikeng,North-West,0827689214,JOHANNES PETRUS@gmail.com,,,,,0,0,0,0
+191301188662027,8db256027533d8341cfecef1ad67e543,JANSEN VAN RENSBURG,RENIEL JAKOB,1913-01-18,Male,American,Pathology,48 Clark street,Pofadder,Northern Cape,0781477865,RENIEL JAKOB@gmail.com,,,,Dengue Fever,0,0,0,0
+191302262304032,c0e4904dc230ebb628caac4759497d74,MOTHIBE,JOHANNES JACOBUS,1913-02-26,Female,Asian,Pharmacists,87 James Moroka drive,,,0812790561,,,,,,0,0,0,0
+191303186213042,6e91212e254deb83fac5165ded7c084f,OLIVIER,NOKO ELVIS,1913-03-18,Male,Mixed-Race,Government,82 Pitso street,George,Western Cape,0828903060,NOKO ELVIS@gmail.com,SasolMed,915667527,Plan B,Ebola,0,0,0,0
+191303301547052,3227a48f5fb09586ea4bd17255262f5b,HAMMAN,JUSTIN PAUL MICHAEL,1913-03-30,Female,Mixed-Race,Pharmacists,61 Kwena street,,,0815275693,JUSTIN PAUL MICHAEL@gmail.com,,,,Measles,0,0,0,0
+191304294847099,843561eb47a810d179108c8fecd148a9,WALKER,MARINUS,1913-04-29,Female,Indian,Medical,55 Mosidi street,George,Western Cape,0800602398,,Compcare,921619838,Plan B,Rabies,0,0,0,0
+191304309254047,b8117871f9bf72e0aad0f8576eaf1fb5,MOHAMED DAULATH,HENRO,1913-04-30,Male,Asian,Patient,35 Totius straat,,,0769506287,,,,,Ebola,0,0,0,0
+191305032389034,6e91212e254deb83fac5165ded7c084f,OLIVIER,SYDNEY,1913-05-03,Female,Indian,Medical,23 Maphongo street,,,0801420376,SYDNEY@gmail.com,,,,Measles,0,0,0,0
+191305199884082,c1ccade21aa920089b6a30fcbf4de9bd,AFRICA,MARIE-TINKA,1913-05-19,Male,Asian,Government,93 Jeppe street,Johannesburg,Gauteng,0799446179,MARIE-TINKA@gmail.com,,,,,0,0,0,0
+191306287920059,a918cbcb4200c8321b7a7690879e0a95,JACOBS,SIPHO JERRY,1913-06-28,Male,Mixed-Race,Government,33 Louwstraat,Vryburg,North-West,0754107748,SIPHO JERRY@gmail.com,,,,,0,0,0,0
+191307042198018,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,ANJA,1913-07-04,Female,White ,Government,48 Goetz straat,Musina,Limpopo,0769293656,ANJA@gmail.com,,,,Cholera,0,0,0,0
+191308154922037,6ae7f5d1c0db67d43b94f8141d66df63,SCHUTTE,ISAK,1913-08-15,Female,White ,Pathology,62 James Moroka drive,Bloemfontein,Vrystaat,0766221401,ISAK@gmail.com,FedHealth,661328236,Plan C,Dengue Fever,0,0,0,0
+191310171501055,7db0aa32a36073e91c709ba124eacb15,WINTERSHOVEN,DZULANI ERIC,1913-10-17,Female,Mixed-Race,Government,15 Goetz straat,,,0792231552,DZULANI ERIC@gmail.com,,,,,0,0,0,0
+191312205706080,78e80cb593c448a25a13212eb4694ddd,SWART,DANIEL JOHANNES,1913-12-20,Male,White ,Pharmacists,55 Jeppe street,George,Western Cape,0768537219,DANIEL JOHANNES@gmail.com,,,,Rabies,0,0,0,0
+191312234447083,d08d08c7b1f7091b2ff4555660e58e25,VAN DER BERG,JOSHUA,1913-12-23,Female,Mixed-Race,Medical,72 Albert Luthuli drive,Richardsbaai,Kwazulu-Natal,0757002346,,,,,Dengue Fever,0,0,0,0
+191402113676032,b7a5c126a12cae270ac10399b32e63af,WEAKLEY,GERHARDUS WILLEM,1914-02-11,Female,White ,Medical,74 Ross street,,,0782589113,GERHARDUS WILLEM@gmail.com,Genesis,054256998,Plan C,Dengue Fever,0,0,0,0
+191404021077047,2de13695299503750d00087767e1bf9a,KOCK,TERTIUS,1914-04-02,Female,Asian,Pathology,73 Albert Luthuli drive,,,0756556806,TERTIUS@gmail.com,,,,Ebola,0,0,0,0
+191404108047026,23639f1070045159fb60fd659e061023,VAN SCHALKWYK,JEAN-PIERRE,1914-04-10,Male,Mixed-Race,Government,48 Pretorius straat,Kuruman,Northern Cape,0832308417,JEAN-PIERRE@gmail.com,,,,Covid-19,0,0,0,0
+191405034681098,3227a48f5fb09586ea4bd17255262f5b,HAMMAN,OWEN,1914-05-03,Female,Mixed-Race,Pharmacists,61 Kwena street,Mahikeng,North-West,0814486852,OWEN@gmail.com,,,,Measles,0,0,0,0
+191405081692065,16ad46588a68e860e1e1f3796c8831e6,KRIEK,CHRISNA,1914-05-08,Female,White ,Government,10 Ross street,Ermelo,Mpumalanga,0803133060,CHRISNA@gmail.com,,,,Measles,0,0,0,0
+191407087715021,e39a0a8e59e5c0463dec7af08ee01008,KRYNAUW,CORNELIUS RUDOLPH,1914-07-08,Male,Asian,Patient,6 Maphongo street,,,,CORNELIUS RUDOLPH@gmail.com,,,,Cholera,0,0,0,0
+191409106413093,ecfe500782a76c9b883a2873342e022a,ELOFF,WIKUS,1914-09-10,Male,White ,Medical,44 Grimbeeck straat,George,Western Cape,0778447703,WIKUS@gmail.com,,,,Ebola,0,0,0,0
+191501135887070,aef0f01c38315a1c1d2970173a3d1649,HAVENGA,DANIELLE,1915-01-13,Male,Black,Pathology,54 Albert Luthuli drive,East London,Eastern Cape,0818251137,DANIELLE@gmail.com,,,,Covid-19,0,0,0,0
+191502075414054,87ca8496b50621d02b0af7e925c23f81,SNYMAN,SEVANNAH DANELL,1915-02-07,Male,Asian,Government,90 Ross street,Pietermaritzburg,Kwazulu-Natal,0775803908,SEVANNAH DANELL@gmail.com,,,,,0,0,0,0
+191503015187061,4e76bbc12f447f9496ec1aa883b53364,STRYDOM,ANRI,1915-03-01,Male,Latino,Pathology,52 Ross street,,,0794060969,ANRI@gmail.com,,,,Dengue Fever,0,0,0,0
+191503143432089,f5d5494626d9d0684e8a2f4b13d236cc,LANDSBERG,RYAN JAMES,1915-03-14,Female,White ,Patient,60 Maphongo street,Nelspruit,Mpumalanga,0795080760,RYAN JAMES@gmail.com,,,,Measles,0,0,0,0
+191505066694030,6baa07f638cb3b1b26eed6225db767d3,GREYLING,DINETTE,1915-05-06,Male,Mixed-Race,Pharmacists,8 James Moroka drive,,,0745666381,DINETTE@gmail.com,,,,Covid-19,0,0,0,0
+191506297048025,390bd05648a6a27ccd50238dc18fbe80,GELDENHUYS,FERNANDO MANUEL,1915-06-29,Male,Indian,Patient,46 Grimbeeck straat,Pofadder,Northern Cape,0803735088,FERNANDO MANUEL@gmail.com,,,,Rabies,0,0,0,0
+191507041261042,b7a5c126a12cae270ac10399b32e63af,WEAKLEY,THATO,1915-07-04,Female,Latino,Pharmacists,82 Mosidi street,Durban,Kwazulu-Natal,0767677109,,,,,Ebola,0,0,0,0
+191508304062040,d4cefce65645a39bb266f710cf2b6c1a,LUCAS,ANRU,1915-08-30,Female,Indian,Pharmacists,54 Maphongo street,Krugersdorp,Gauteng,0798599135,ANRU@gmail.com,,,,Dengue Fever,0,0,0,0
+191509112911041,b0013b4ef88a77c10177a73a76014aa8,FOURIE,PALESA,1915-09-11,Female,American,Patient,56 Goetz straat,,,0758286848,,Medimed,899112329,Plan C,,0,0,0,0
+191509268746020,7e691e9a752a4732313e4551c4891026,GOOSEN,PATRICK HENDRIK,1915-09-26,Male,Latino,Medical,24 Mosidi street,,,0721087292,PATRICK HENDRIK@gmail.com,,,,Dengue Fever,0,0,0,0
+191512163299028,0e32ce877c244307c2a72f30ad468d26,FOUCHE,MACKAY LAIRD,1915-12-16,Female,Mixed-Race,Pharmacists,6 Kwena street,Mahikeng,North-West,,MACKAY LAIRD@gmail.com,,,,,0,0,0,0
+191602087123072,9583a57cb3a8affe4e978892dbd9615a,BESTER,MARTHINUS CHRISTOFFEL JOHANNES,1916-02-08,Male,White ,Medical,37 Grimbeeck straat,Richardsbaai,Kwazulu-Natal,,MARTHINUS CHRISTOFFEL JOHANNES@gmail.com,Liberty,324066762,Plan B,Cholera,0,0,0,0
+191602266239077,be5996236c66d268d2517c3e788010a5,LOUW,CHRISTIAAN JACOBUS,1916-02-26,Male,White ,Pharmacists,37 Ross street,Krugersdorp,Gauteng,0777792814,CHRISTIAAN JACOBUS@gmail.com,Barloworld medical,732290310,Plan E,,0,0,0,0
+191603028323061,78e80cb593c448a25a13212eb4694ddd,SWART,PEARL-ANN,1916-03-02,Male,Black,Pharmacists,95 Louwstraat,Kuruman,Northern Cape,0729061571,,,,,Cholera,0,0,0,0
+191604214445082,dbc58f7d44245b4788753d76a33bd624,NAUDE,MICHAEL ERNEST,1916-04-21,Female,Other,Patient,37 Maphongo street,,,,MICHAEL ERNEST@gmail.com,CAMAF,243029125,Plan D,,0,0,0,0
+191607308642012,4887c0483683f44a09673bd0c7927cf1,NEL,VICTOR,1916-07-30,Male,American,Pathology,53 Maphongo street,,,0746212351,VICTOR@gmail.com,,,,Ebola,0,0,0,0
+191608216625037,774ff69368bef1b32f8d156ecbd4ea06,RAUBENHEIMER,HENDRIK JOHANNES CHRISTOFFEL,1916-08-21,Male,Black,Pathology,67 Spruit straat,Pofadder,Northern Cape,0732322834,HENDRIK JOHANNES CHRISTOFFEL@gmail.com,Bankmed,342923488,Plan C,Rabies,0,0,0,0
+191610251497028,2e8b35d4debaf49831ce92dfbb1eea38,HEERALALL,FRANCO,1916-10-25,Female,Asian,Medical,57 Albert Luthuli drive,Richardsbaai,Kwazulu-Natal,0810313876,FRANCO@gmail.com,MedShield,890351325,Plan E,Dengue Fever,0,0,0,0
+191704027635090,85e77664d148fe8e1af677ccbc695f90,VAN ROOYEN,VICTOR ANDRÉ,1917-04-02,Male,Black,Government,78 Jeppe street,Welkom,Vrystaat,0831754456,VICTOR ANDRÉ@gmail.com,,,,,0,0,0,0
+191706076498051,a85dea2937f53039735e4ddbdc65a9c9,BURGER,RUBEN,1917-06-07,Male,Mixed-Race,Medical,37 Ross street,Plokwane,Limpopo,0800657573,RUBEN@gmail.com,,,,Ebola,0,0,0,0
+191706185862083,3f84d88cf544ced285aaadf11df68cae,JANSEN VAN VUUREN,CHRISTOFF,1917-06-18,Male,Asian,Pharmacists,18 Goetz straat,Vryburg,North-West,0776215495,CHRISTOFF@gmail.com,,,,Rabies,0,0,0,0
+191707163815086,78e80cb593c448a25a13212eb4694ddd,SWART,BOKANG KETUMILE,1917-07-16,Female,Mixed-Race,Pharmacists,55 Kwena street,,,0825519801,BOKANG KETUMILE@gmail.com,,,,Cholera,0,0,0,0
+191709223772090,2be57c2b4460ad832e9dbee76db6f1b4,OOSTHUIZEN,ALBERTUS,1917-09-22,Female,Black,Medical,78 Grimbeeck straat,Durban,Kwazulu-Natal,0829770739,ALBERTUS@gmail.com,Glencore medical,159576387,Plan E,,0,0,0,0
+191710256155064,4c70c41f9c91d44d189a4f5c88aff26a,STEYN,KEAGAN DANIEL,1917-10-25,Male,White ,Government,75 Pitso street,Bethlehem,Vrystaat,0790935619,KEAGAN DANIEL@gmail.com,,,,Cholera,0,0,0,0
+191712146092068,5e58a0afc1cc17faf8b0dc5fdb2e94de,ELIFAS,SEAN CAREW,1917-12-14,Male,Indian,Pathology,21 Ross street,,,0798816620,SEAN CAREW@gmail.com,,,,Rabies,0,0,0,0
+191712147031098,ca6a26c59633a20f212ba014ea8bb33e,ESBACH,ROCHELLE SUNÉ,1917-12-14,Male,Other,Pharmacists,24 Clark street,Ulundi,Kwazulu-Natal,0766508918,ROCHELLE SUNÉ@gmail.com,CAMAF,776024839,Plan B,Measles,0,0,0,0
+191802064893011,9583a57cb3a8affe4e978892dbd9615a,BESTER,MATTHYS MICHAEL,1918-02-06,Female,Indian,Pathology,12 Albert Luthuli drive,Klerksdorp,North-West,0761275624,MATTHYS MICHAEL@gmail.com,,,,Cholera,0,0,0,0
+191802284816072,6e91212e254deb83fac5165ded7c084f,OLIVIER,PIETER LUDWIG,1918-02-28,Female,Indian,Medical,23 Maphongo street,,,0781253425,,,,,Measles,0,0,0,0
+191805089830062,80e533604efb3c3072fd300dc4205f10,MARUPING,CLAUDIA,1918-05-08,Male,Asian,Medical,80 Kwena street,Springbok,Northern Cape,0726076100,CLAUDIA@gmail.com,,,,Measles,0,0,0,0
+191806112430047,da14c4500bbafc6efb51bad295244933,STRUWIG,ANRI,1918-06-11,Female,American,Pharmacists,20 Kwena street,Mahikeng,North-West,,,,,,Measles,0,0,0,0
+191809138696092,57af049efe357c60cb6b3d36240779cc,HUMAN,HENDRIK JOHANNES,1918-09-13,Male,Latino,Medical,19 Mosidi street,Bela-bela,Limpopo,0778659818,,,,,Dengue Fever,0,0,0,0
+191810197172046,6d427a48416fb79385df215420073042,GROBLER,HENDRIK STEPHANUS,1918-10-19,Male,American,Pharmacists,61 Maphongo street,Britstown,Northern Cape,0746086531,HENDRIK STEPHANUS@gmail.com,SelfMed,138328004,Plan B,Cholera,0,0,0,0
+191812244587086,4887c0483683f44a09673bd0c7927cf1,NEL,JOSHUA,1918-12-24,Female,American,Patient,13 Albert Luthuli drive,Randfontein,Gauteng,0751994563,JOSHUA@gmail.com,,,,Measles,0,0,0,0
+191901187773035,59bea88caeb0226549fe5d3b8a05c484,KEHITLHILE,JAN-HENDRIK,1919-01-18,Male,Latino,Medical,21 Goetz straat,Bela-bela,Limpopo,,JAN-HENDRIK@gmail.com,,,,,0,0,0,0
+191902031639053,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,JULIUS,1919-02-03,Female,Indian,Government,34 Maphongo street,Port Shepstone,Kwazulu-Natal,0813158107,JULIUS@gmail.com,,,,Covid-19,0,0,0,0
+191903046163095,46c6dcc9a19553146f430a87a60a2bde,SOLOMON,PIETER LUDWIG,1919-03-04,Male,Indian,Patient,54 Jeppe street,,,0802008851,PIETER LUDWIG@gmail.com,,,,Dengue Fever,0,0,0,0
+191904293395033,aceac8575cf73684a0481e7727ec821e,KEYSER,DANIËL WILHELMUS,1919-04-29,Female,Other,Patient,95 Mosidi street,Hanover,Northern Cape,,DANIËL WILHELMUS@gmail.com,Discovery,632320659,Plan C,,0,0,0,0
+191909073280093,56cd487ca69b345f2b1f658537203607,VAN DEN BERG,XANDER JACOBUS,1919-09-07,Female,Mixed-Race,Pharmacists,92 Mosidi street,,,,XANDER JACOBUS@gmail.com,,,,,0,0,0,0
+191909258252072,3f84d88cf544ced285aaadf11df68cae,JANSEN VAN VUUREN,STEFAN,1919-09-25,Male,Mixed-Race,Medical,8 Kwena street,Richardsbaai,Kwazulu-Natal,,STEFAN@gmail.com,Bonitas,391509336,Plan A,,0,0,0,0
+191911109481066,c0e4904dc230ebb628caac4759497d74,MOTHIBE,LESEGO,1919-11-10,Male,Asian,Pharmacists,87 James Moroka drive,,,0797476128,LESEGO@gmail.com,,,,,0,0,0,0
+192001222172038,058c5882718f40764d9f0d7427e1791a,SWANEPOEL,PETRUS JACOB,1920-01-22,Female,American,Pathology,100 Kwena street,,,0748837506,PETRUS JACOB@gmail.com,,,,,0,0,0,0
+192005096230075,2cfac200176f7ebb0a408e9fdc7bd595,VENTER,NOKO ELVIS,1920-05-09,Male,Other,Pharmacists,81 Pitso street,Nelspruit,Mpumalanga,0739627153,NOKO ELVIS@gmail.com,Keyhealth,476580916,Plan A,,0,0,0,0
+192007011573017,b7a5c126a12cae270ac10399b32e63af,WEAKLEY,ANRI,1920-07-01,Female,White ,Medical,74 Ross street,,,0764966742,ANRI@gmail.com,Genesis,054256998,Plan C,Dengue Fever,0,0,0,0
+192007061547071,f79c2273aca71d02adf90caf57931e38,SERIMA,ALBERTUS,1920-07-06,Female,Latino,Pharmacists,100 Louwstraat,Rustenburg,North-West,0779555957,ALBERTUS@gmail.com,,,,Cholera,0,0,0,0
+192009282551063,33cbb5c14c2f185169bad8f9932102b2,ELLIS,LIAN,1920-09-28,Female,Black,Pathology,75 Spruit straat,,,0743488570,LIAN@gmail.com,Cape medical plan,000409226,Plan E,Covid-19,0,0,0,0
+192009309847087,4a7c93154d083602dbeb2c9fb4a53117,MAKGALE,ALRI,1920-09-30,Male,Other,Government,100 Jeppe street,Bethlehem,Vrystaat,0768615492,ALRI@gmail.com,,,,Covid-19,0,0,0,0
+192012311845023,8b5b069b54b94e64688aaeb51642b4ff,VAN DER WALT,REMANDO,1920-12-31,Female,White ,Pathology,63 Ross street,Ulundi,Kwazulu-Natal,0758263826,REMANDO@gmail.com,,,,Cholera,0,0,0,0
+192105055263058,f66b4fa905fb2896f6b25b4b87f57c20,DE JAGER,LIZÉ,1921-05-05,Male,Black,Government,92 Pretorius straat,,,0833792745,LIZÉ@gmail.com,,,,Covid-19,0,0,0,0
+192106088959023,8db256027533d8341cfecef1ad67e543,JANSEN VAN RENSBURG,MONALLISA ANESU,1921-06-08,Male,American,Pathology,48 Clark street,,,,,,,,Dengue Fever,0,0,0,0
+192106139156098,46e0e326c665a06a3865d29a46df6ecb,VAN DEVENTER,EDRICH,1921-06-13,Male,Mixed-Race,Government,4 Kwena street,Klerksdorp,North-West,0817144642,EDRICH@gmail.com,,,,Dengue Fever,0,0,0,0
+192106281422087,2e7e027df94e620bb5eda25a04603045,GOUWS,ANDREW,1921-06-28,Female,Mixed-Race,Medical,12 James Moroka drive,Worcester,Western Cape,0758746121,ANDREW@gmail.com,FedHealth,985513899,Plan A,Rabies,0,0,0,0
+192106287107088,6e91212e254deb83fac5165ded7c084f,OLIVIER,TSHEPO SHERWELL,1921-06-28,Male,Other,Patient,16 Maphongo street,Pretoria,Gauteng,0750088519,TSHEPO SHERWELL@gmail.com,,,,,0,0,0,0
+192111035826088,2be57c2b4460ad832e9dbee76db6f1b4,OOSTHUIZEN,HENDRIK STEPHANUS,1921-11-03,Male,Black,Medical,77 Jeppe street,Kroonstad,Vrystaat,0834103195,HENDRIK STEPHANUS@gmail.com,,,,Measles,0,0,0,0
+192111155074020,9405eb9ed99b5e6f7a13860776dc78e1,TSHEHLA,ABRAHAM FERDINAND,1921-11-15,Male,Other,Patient,22 James Moroka drive,,,0785374383,ABRAHAM FERDINAND@gmail.com,Momentum,629518050,Plan E,Covid-19,0,0,0,0
+192201232072037,48d7b33c40bc166786405b74d223326e,MOSIKARE,HENRY,1922-01-23,Female,Asian,Pharmacists,17 Eleazer straat,,,0758889461,HENRY@gmail.com,,,,Rabies,0,0,0,0
+192201283336068,eddb7d4e1ca5f770f508e2401a507c13,VAN DER WESTHUIZEN,PAULUS STEPHANUS,1922-01-28,Female,Mixed-Race,Pharmacists,77 Goetz straat,,,0827782309,PAULUS STEPHANUS@gmail.com,,,,,0,0,0,0
+192204063759053,1ed2af096b50be59a14883c11d72240f,ESTERHUYSE,ZANDER,1922-04-06,Female,Black,Patient,11 Ross street,Worcester,Western Cape,0813139502,ZANDER@gmail.com,,,,Dengue Fever,0,0,0,0
+192204069884050,81b5f74021c613e4ddeee163a799f9a1,NKHWASHU,LEANDER,1922-04-06,Male,American,Pharmacists,85 Jeppe street,George,Western Cape,0802259369,LEANDER@gmail.com,,,,Cholera,0,0,0,0
+192205071931054,83f0f2567929ffdeacf54c7bd74eaab8,MOKHASINYANE,PETRUS MARTHINUS,1922-05-07,Female,White ,Pharmacists,3 Ross street,,,0827743259,PETRUS MARTHINUS@gmail.com,Keyhealth,308278559,Plan C,,0,0,0,0
+192211242961011,f76b751b80995af86d3b4a56f6d56a62,FORSYTH,CHRISTIAAN,1922-11-24,Female,Indian,Pharmacists,71 Goetz straat,,,0818337876,CHRISTIAAN@gmail.com,Medimed,544892353,Plan A,Dengue Fever,0,0,0,0
+192301016810034,d64364af94e0fd8dd869b5c727ff81c4,TSIWANA,MALAN,1923-01-01,Male,Other,Government,80 Goetz straat,,,,MALAN@gmail.com,,,,Cholera,0,0,0,0
+192301264459015,e4d4f1ea76e69d71cd464ada9ea9b31a,LINDEQUE,ROELOF STEPHANUS,1923-01-26,Female,Other,Pharmacists,55 Grimbeeck straat,Kuruman,Northern Cape,0779623270,ROELOF STEPHANUS@gmail.com,,,,Dengue Fever,0,0,0,0
+192301312688078,1ea4c1e2d6619c03f3a59a7c6666724e,VAN JAARSVELDT,IAN,1923-01-31,Female,Latino,Patient,26 Jeppe street,Mahikeng,North-West,0732285272,IAN@gmail.com,Genesis,122903074,Plan B,Cholera,0,0,0,0
+192302042349020,4bbf5885bb0a624aa19dad6fdbb5cd8c,DE VRIES,MARELIZE,1923-02-04,Female,White ,Pharmacists,30 Clark street,Britstown,Northern Cape,0783970527,MARELIZE@gmail.com,,,,Cholera,0,0,0,0
+192303057820070,6f7787d7b9c07511142c842c04e60735,BOTHA,MEGAN,1923-03-05,Male,Asian,Pathology,30 Pitso street,Hanover,Northern Cape,0817692376,MEGAN@gmail.com,,,,Cholera,0,0,0,0
+192307079487016,20f20fcad20a61d46c6e7051b7d9c791,HOLLENBACH,JEAN-PIERRE,1923-07-07,Male,Latino,Medical,75 Kwena street,Hanover,Northern Cape,0792198363,,,,,Dengue Fever,0,0,0,0
+192310138747028,43c3e2c3fba6997c6926fde346706d1d,BLIGNAUT,ANSOPHIE,1923-10-13,Male,White ,Pathology,16 Clark street,George,Western Cape,,ANSOPHIE@gmail.com,,,,Cholera,0,0,0,0
+192312149384047,20f20fcad20a61d46c6e7051b7d9c791,HOLLENBACH,PETRUS MARTHINUS,1923-12-14,Male,Latino,Medical,75 Kwena street,,,0787265787,,,,,Dengue Fever,0,0,0,0
+192402183293089,2be57c2b4460ad832e9dbee76db6f1b4,OOSTHUIZEN,REMANDO,1924-02-18,Female,Asian,Medical,95 Maphongo street,Klerksdorp,North-West,0825893096,REMANDO@gmail.com,,,,Dengue Fever,0,0,0,0
+192403037807035,9d8c9bfc9f8d9566ad82abfc444e82da,DE WET,ALRICH MÜLLER,1924-03-03,Male,Indian,Government,92 Louwstraat,Springbok,Northern Cape,0794108131,ALRICH MÜLLER@gmail.com,,,,Covid-19,0,0,0,0
+192403161597099,2de13695299503750d00087767e1bf9a,KOCK,ANDRIES,1924-03-16,Female,Asian,Patient,14 Clark street,Nelspruit,Mpumalanga,0733683999,ANDRIES@gmail.com,Discovery,592964640,Plan E,Rabies,0,0,0,0
+192404103769096,c770bbbaf33956e3809338ada378fe80,PRINSLOO,CHRISTIAAN CRONJÉ,1924-04-10,Female,Black,Pharmacists,99 Totius straat,,,0729476818,CHRISTIAAN CRONJÉ@gmail.com,,,,Cholera,0,0,0,0
+192407041414019,62c8be3101a8741cba5e80a675e1e24b,VAN ZYL,NICOLAAS JOHANNES LOUW,1924-07-04,Female,Black,Patient,79 Pitso street,Mosselbaai,Western Cape,0818224581,,,,,,0,0,0,0
+192407104094093,a3337e4f0e408b2ce01a763702f7b0c2,VAN NIEKERK,DAVID SIMBARASHE,1924-07-10,Female,Asian,Medical,66 Ross street,Pofadder,Northern Cape,0764121622,DAVID SIMBARASHE@gmail.com,Compcare,868357867,Plan E,Rabies,0,0,0,0
+192409161212010,447aa9932bff6043cd1db94da291db72,LE ROUX,DIAN,1924-09-16,Female,White ,Pathology,5 Totius straat,Mahikeng,North-West,0734420350,DIAN@gmail.com,,,,Cholera,0,0,0,0
+192410026744032,78e80cb593c448a25a13212eb4694ddd,SWART,KYLE ALOIS,1924-10-02,Male,Indian,Pathology,52 Pretorius straat,Kroonstad,Vrystaat,0720620180,KYLE ALOIS@gmail.com,,,,Covid-19,0,0,0,0
+192410064704010,f66b4fa905fb2896f6b25b4b87f57c20,DE JAGER,PASEKA PADRICK,1924-10-06,Female,Black,Government,51 James Moroka drive,George,Western Cape,0831264134,PASEKA PADRICK@gmail.com,,,,Ebola,0,0,0,0
+192501232975063,6e91212e254deb83fac5165ded7c084f,OLIVIER,PETRUS JACOBUS,1925-01-23,Female,Latino,Government,81 Clark street,Bethlehem,Vrystaat,0800541893,PETRUS JACOBUS@gmail.com,,,,Dengue Fever,0,0,0,0
+192503287089040,76e9a9b6564ed4b715f9342ca01c5276,GROBBELAAR,SALMA,1925-03-28,Male,American,Patient,17 Goetz straat,,,0789400972,SALMA@gmail.com,Profmed,408080644,Plan E,Cholera,0,0,0,0
+192505216801017,c770bbbaf33956e3809338ada378fe80,PRINSLOO,CHARLES REINHART,1925-05-21,Male,Other,Government,63 Eleazer straat,Ulundi,Kwazulu-Natal,0772998196,CHARLES REINHART@gmail.com,,,,,0,0,0,0
+192507029857044,a89fb5644d85e5a93a27c0c9083b2d0f,DE WAAL,ANNIKA,1925-07-02,Male,Mixed-Race,Patient,73 Pitso street,Mosselbaai,Western Cape,0838615327,,Momentum,266099434,Plan B,Dengue Fever,0,0,0,0
+192507239366073,6e91212e254deb83fac5165ded7c084f,OLIVIER,SBONGILE,1925-07-23,Male,Mixed-Race,Patient,40 Pitso street,,,0735389526,,,,,,0,0,0,0
+192507301548085,e9f2ed07c7f69c283c709f894a534312,DLADLA,LOUISE CECELIA,1925-07-30,Female,Mixed-Race,Government,49 Ross street,,,0732667682,LOUISE CECELIA@gmail.com,,,,Dengue Fever,0,0,0,0
+192508231095070,2be57c2b4460ad832e9dbee76db6f1b4,OOSTHUIZEN,MARIE-TINKA,1925-08-23,Female,White ,Pathology,3 Kwena street,Bloemfontein,Vrystaat,0736294837,MARIE-TINKA@gmail.com,,,,Cholera,0,0,0,0
+192509022484022,4a4c8fda6142717b67b9fe6831427fc5,BRITZ,REMANDO,1925-09-02,Female,Other,Pathology,32 Spruit straat,Musina,Limpopo,0724983499,,,,,,0,0,0,0
+192510101326080,df8c4228f96fe211961d78fd7cfe1c5f,WASSERMAN,RETHABILE EMMANUEL,1925-10-10,Female,Indian,Pharmacists,89 Pitso street,Kimberley,Northern Cape,0761884020,RETHABILE EMMANUEL@gmail.com,,,,Covid-19,0,0,0,0
+192601053293083,204deaa6013413ba37a765f6884a5c2e,GRIESEL,RUAN,1926-01-05,Female,Indian,Medical,24 Eleazer straat,Hanover,Northern Cape,0794418254,RUAN@gmail.com,,,,Dengue Fever,0,0,0,0
+192601217664069,c770bbbaf33956e3809338ada378fe80,PRINSLOO,JULIUS,1926-01-21,Male,Black,Pharmacists,99 Totius straat,Port Shepstone,Kwazulu-Natal,,,,,,Cholera,0,0,0,0
+192601311223083,a7753f4820d8936e3d97b56a1292c3d9,LEPADILE,JANCO CLOETE,1926-01-31,Female,Other,Pharmacists,44 Grimbeeck straat,Zeerust,North-West,0758213467,JANCO CLOETE@gmail.com,,,,Dengue Fever,0,0,0,0
+192603212243028,c4b514b2860e01d9a7c5c8a6390519f7,ALLAN,SBONGILE,1926-03-21,Female,White ,Medical,16 Goetz straat,Richardsbaai,Kwazulu-Natal,0723510549,SBONGILE@gmail.com,,,,Covid-19,0,0,0,0
+192604194039096,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,CHANDRI,1926-04-19,Female,Other,Pharmacists,3 Jeppe street,Bethlehem,Vrystaat,0758191033,CHANDRI@gmail.com,,,,Covid-19,0,0,0,0
+192605138406075,87ca8496b50621d02b0af7e925c23f81,SNYMAN,PIETER LUDWIG,1926-05-13,Male,Black,Patient,72 Kwena street,Mosselbaai,Western Cape,0787400767,PIETER LUDWIG@gmail.com,Anglo medical,141116263,Plan A,,0,0,0,0
+192606231410037,449d06f127bd243e58541b10fe5d14f2,SMITH,DANIËLLE,1926-06-23,Female,Indian,Government,13 Louwstraat,Durban,Kwazulu-Natal,0817562232,DANIËLLE@gmail.com,,,,Dengue Fever,0,0,0,0
+192608298070014,da14c4500bbafc6efb51bad295244933,STRUWIG,DUVAN DAMON,1926-08-29,Male,Mixed-Race,Government,21 Pretorius straat,,,0756632191,DUVAN DAMON@gmail.com,,,,Ebola,0,0,0,0
+192610138121029,07b84fb6177878d832a42f0d4400350b,GRANT,GIDEON JOHANNES JACOBUS,1926-10-13,Male,American,Pharmacists,82 Spruit straat,Kroonstad,Vrystaat,0720747535,GIDEON JOHANNES JACOBUS@gmail.com,,,,Covid-19,0,0,0,0
+192611175157047,dba7fba6aea7df8ab1f7ec935b65888a,ROSADO DIAZ,ALRICH MÜLLER,1926-11-17,Male,Latino,Medical,17 Pretorius straat,,,0834752047,ALRICH MÜLLER@gmail.com,,,,,0,0,0,0
+192612196884015,46a30db39243336718fdd5deddfaf355,GERBER,GIAN FRANCOIS,1926-12-19,Male,Asian,Pharmacists,10 Mosidi street,,,0797693621,GIAN FRANCOIS@gmail.com,,,,Cholera,0,0,0,0
+192701279445034,1e3aae7df84f5f01cd561fa1d0e2ab52,PULE,MARCO,1927-01-27,Male,White ,Patient,48 Pretorius straat,Ulundi,Kwazulu-Natal,0754087272,MARCO@gmail.com,,,,Rabies,0,0,0,0
+192702236497026,a3337e4f0e408b2ce01a763702f7b0c2,VAN NIEKERK,EMMANUEL TSHILIDZI,1927-02-23,Male,Latino,Patient,66 Pitso street,Beaufort West,Western Cape,0723393521,EMMANUEL TSHILIDZI@gmail.com,Pharos,428395377,Plan A,Measles,0,0,0,0
+192703274068024,f76b751b80995af86d3b4a56f6d56a62,FORSYTH,GERNO,1927-03-27,Female,Indian,Pharmacists,71 Goetz straat,,,0792661834,GERNO@gmail.com,Medimed,544892353,Plan A,Dengue Fever,0,0,0,0
+192705012493083,46802de0cfc3b95eefcce37683dba7e6,OELOFSE,JACO GERHARDUS,1927-05-01,Female,Indian,Pathology,84 Maphongo street,Pietermaritzburg,Kwazulu-Natal,0754004039,JACO GERHARDUS@gmail.com,,,,Measles,0,0,0,0
+192705034515047,7db0aa32a36073e91c709ba124eacb15,WINTERSHOVEN,MITCHELL,1927-05-03,Female,Mixed-Race,Government,15 Goetz straat,Pietermaritzburg,Kwazulu-Natal,0815261308,,,,,,0,0,0,0
+192705311634094,a85bc90c7d5b5dbc66d62a705db773ff,KHUNE,ABRAHAM JOHANNES,1927-05-31,Female,Black,Patient,57 Maphongo street,Mahikeng,North-West,0805871732,ABRAHAM JOHANNES@gmail.com,,,,Ebola,0,0,0,0
+192707148441058,fc6d1a0a506aeea68b3b33089852c9e1,RUST,ANDRIES JOHANNES,1927-07-14,Male,Mixed-Race,Patient,72 Kwena street,Musina,Limpopo,0723478180,ANDRIES JOHANNES@gmail.com,,,,Ebola,0,0,0,0
+192709033088048,62c8be3101a8741cba5e80a675e1e24b,VAN ZYL,DYLAN,1927-09-03,Female,Other,Government,8 Pretorius straat,Ermelo,Mpumalanga,0737314263,DYLAN@gmail.com,,,,,0,0,0,0
+192709289036064,e39a0a8e59e5c0463dec7af08ee01008,KRYNAUW,JEANDRE FRANS,1927-09-28,Male,Latino,Patient,5 Albert Luthuli drive,George,Western Cape,0757013710,JEANDRE FRANS@gmail.com,,,,Measles,0,0,0,0
+192712304715011,515a53bbc188bd57bc47250cfb159da6,JORDAAN,DAVID STEPHANUS,1927-12-30,Female,Mixed-Race,Pharmacists,94 Albert Luthuli drive,Klerksdorp,North-West,,DAVID STEPHANUS@gmail.com,,,,Measles,0,0,0,0
+192803023629066,643f93f63ffd1cb0b54282434f14a81d,HENDRIKSE,JEANDRÉ,1928-03-02,Female,Other,Pharmacists,54 Ross street,Welkom,Vrystaat,0770136340,JEANDRÉ@gmail.com,Alliance-midmed,707412176,Plan B,Dengue Fever,0,0,0,0
+192805093089040,6f7787d7b9c07511142c842c04e60735,BOTHA,MORENA ANDY,1928-05-09,Female,Other,Medical,47 Grimbeeck straat,Mosselbaai,Western Cape,0816299218,MORENA ANDY@gmail.com,,,,Measles,0,0,0,0
+192806265533041,96fa5ab63c2eb77c8b76a432ab4a1ce5,ERASMUS,DIAN,1928-06-26,Male,Indian,Government,24 Totius straat,Britstown,Northern Cape,0764722138,DIAN@gmail.com,,,,,0,0,0,0
+192808131423091,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,MARIUS JACOBUS,1928-08-13,Female,Other,Pharmacists,3 Jeppe street,,,0765557601,,,,,Covid-19,0,0,0,0
+192808251067095,b7a5c126a12cae270ac10399b32e63af,WEAKLEY,ESTIAN,1928-08-25,Female,White ,Medical,74 Ross street,Bloemfontein,Vrystaat,0768722739,ESTIAN@gmail.com,Genesis,054256998,Plan C,Dengue Fever,0,0,0,0
+192810118576066,1dde044074d4a7baefdc0b9c331f76c8,MAPFEKA,JAN WILLEM FREDERIK,1928-10-11,Male,Other,Medical,32 Albert Luthuli drive,,,0837519931,JAN WILLEM FREDERIK@gmail.com,Discovery,825632969,Plan C,,0,0,0,0
+192904131698079,6e91212e254deb83fac5165ded7c084f,OLIVIER,CORNELIA MARIA,1929-04-13,Female,American,Medical,21 Goetz straat,Pofadder,Northern Cape,,CORNELIA MARIA@gmail.com,,,,Ebola,0,0,0,0
+192908267440024,ea27c5878cef3618806443f4398d8ebb,VAN DER MERWE,FERNAND COENRAAD,1929-08-26,Male,Mixed-Race,Pharmacists,43 Maphongo street,,,0757265307,,,,,,0,0,0,0
+192909226799084,be5996236c66d268d2517c3e788010a5,LOUW,MARKO CORNELIUS,1929-09-22,Male,Indian,Patient,52 Kwena street,Nelspruit,Mpumalanga,0748642213,MARKO CORNELIUS@gmail.com,,,,Cholera,0,0,0,0
+192909289968062,2ab53d8524ad69725aaf83fb021395a3,MUNIAN,DANIËLLE,1929-09-28,Male,Black,Government,63 Kwena street,Randfontein,Gauteng,0815681285,DANIËLLE@gmail.com,,,,,0,0,0,0
+192910026213064,22d2d2068f4b0360d914ffa059f2219b,LEKOLOANE,ANRI,1929-10-02,Male,Other,Pharmacists,88 Totius straat,Port Elizabeth,Eastern Cape,0780346538,ANRI@gmail.com,Liberty Health,782278375,Plan D,Ebola,0,0,0,0
+192912239497068,c4b514b2860e01d9a7c5c8a6390519f7,ALLAN,RUAN,1929-12-23,Male,Mixed-Race,Pathology,12 Pitso street,,,0794752012,RUAN@gmail.com,SasolMed,950842001,Plan C,Ebola,0,0,0,0
+193005104680070,7928520b0ab92dee55623b0baca794e1,MATSOBANE,TAVONGA HANI,1930-05-10,Female,White ,Medical,16 Pitso street,Cape Town,Western Cape,0804467225,TAVONGA HANI@gmail.com,,,,,0,0,0,0
+193005211129012,204deaa6013413ba37a765f6884a5c2e,GRIESEL,WILLEM JACOBUS PETRUS,1930-05-21,Female,Asian,Patient,61 Louwstraat,,,0725343742,,,,,Rabies,0,0,0,0
+193006012247095,ece459b4abc4b8fc78a3e80edda767c9,MALOPE,RENIER NICOLAAS,1930-06-01,Female,White ,Pharmacists,27 Totius straat,Britstown,Northern Cape,0800805712,RENIER NICOLAAS@gmail.com,,,,Cholera,0,0,0,0
+193008217731048,3f84d88cf544ced285aaadf11df68cae,JANSEN VAN VUUREN,KAELO REMMOGO,1930-08-21,Male,Mixed-Race,Medical,8 Kwena street,,,0803093176,,Bonitas,391509336,Plan A,,0,0,0,0
+193009106049036,9583a57cb3a8affe4e978892dbd9615a,BESTER,HENDRIK JOHANNES,1930-09-10,Male,Black,Government,42 Albert Luthuli drive,,,0722652972,HENDRIK JOHANNES@gmail.com,Barloworld medical,288615227,Plan C,Measles,0,0,0,0
+193009172716091,2f7c35bbe505b0cee4f63bbe2bf65551,STEENKAMP,ARNOLD,1930-09-17,Female,Asian,Pathology,68 Kwena street,Durban,Kwazulu-Natal,0822986481,ARNOLD@gmail.com,,,,Covid-19,0,0,0,0
+193009231247089,965bfaf578f3c798c0d2f1331dcccc45,DE LA HARPE,WYNAND,1930-09-23,Female,Black,Patient,36 Mosidi street,,,0828409600,WYNAND@gmail.com,FedHealth,364130153,Plan B,Covid-19,0,0,0,0
+193012217835081,0b4e3b7b816c8243fe7c731933828981,COETZER,STEFAN,1930-12-21,Male,White ,Pathology,50 Totius straat,Krugersdorp,Gauteng,0731273090,STEFAN@gmail.com,FedHealth,530300127,Plan B,Ebola,0,0,0,0
+193012265937010,643f93f63ffd1cb0b54282434f14a81d,HENDRIKSE,NEIL WYNAND,1930-12-26,Male,Other,Pharmacists,54 Ross street,,,,NEIL WYNAND@gmail.com,Alliance-midmed,707412176,Plan B,Dengue Fever,0,0,0,0
+193101067269066,46c6dcc9a19553146f430a87a60a2bde,SOLOMON,JACQUES FRANCOIS,1931-01-06,Male,Indian,Patient,54 Jeppe street,Zeerust,North-West,0764411154,JACQUES FRANCOIS@gmail.com,,,,Dengue Fever,0,0,0,0
+193101216366068,85c3eb64c2f8460e7cef687561dc8f57,JANSE VAN RENSBURG,MORNÉ WEYERS,1931-01-21,Male,White ,Patient,59 Louwstraat,Ulundi,Kwazulu-Natal,,MORNÉ WEYERS@gmail.com,,,,Rabies,0,0,0,0
+193102042648085,6e91212e254deb83fac5165ded7c084f,OLIVIER,PETRUS,1931-02-04,Female,American,Patient,70 Louwstraat,Richardsbaai,Kwazulu-Natal,0815530841,PETRUS@gmail.com,Discovery,185101728,Plan E,Cholera,0,0,0,0
+193102159269011,7b146abf1aeae6edb05b01b3def3528a,BERGH,STEPHANUS HELGAARDT,1931-02-15,Male,White ,Pathology,20 Spruit straat,Potchefstroom,North-West,0768633904,STEPHANUS HELGAARDT@gmail.com,,,,Ebola,0,0,0,0
+193102175015012,78e80cb593c448a25a13212eb4694ddd,SWART,MPHO-MPHO,1931-02-17,Male,Mixed-Race,Pathology,72 Maphongo street,,,0810500433,MPHO-MPHO@gmail.com,,,,,0,0,0,0
+193103298645046,c770bbbaf33956e3809338ada378fe80,PRINSLOO,LESEGO,1931-03-29,Male,American,Government,48 Jeppe street,,,0808178890,LESEGO@gmail.com,Barloworld medical,146788833,Plan D,Measles,0,0,0,0
+193105171204010,c770bbbaf33956e3809338ada378fe80,PRINSLOO,JOHN ANTON,1931-05-17,Female,Black,Government,84 Maphongo street,Richardsbaai,Kwazulu-Natal,0754043890,,Bonitas,014040193,Plan A,Covid-19,0,0,0,0
+193107018886029,ea27c5878cef3618806443f4398d8ebb,VAN DER MERWE,PHILLIP,1931-07-01,Male,Indian,Patient,37 Jeppe street,,,0819225103,,,,,Dengue Fever,0,0,0,0
+193107073488040,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,ARMAND MENSAUW,1931-07-07,Female,Mixed-Race,Pharmacists,89 Goetz straat,,,0751964828,ARMAND MENSAUW@gmail.com,,,,Dengue Fever,0,0,0,0
+193109206927036,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,TIAAN,1931-09-20,Male,American,Government,85 Ross street,Kuruman,Northern Cape,0721722259,TIAAN@gmail.com,,,,Rabies,0,0,0,0
+193110121842028,73537c6719675258555454dfd099a87d,SANDENBERGH,IAN,1931-10-12,Female,Latino,Medical,20 Pitso street,Hanover,Northern Cape,,IAN@gmail.com,Barloworld medical,977957995,Plan B,Ebola,0,0,0,0
+193111097016037,c86b311682b3f5dea1caa088d4439686,MOSETLHA,LIZÉ,1931-11-09,Male,Asian,Medical,93 Spruit straat,Port Shepstone,Kwazulu-Natal,0826435454,LIZÉ@gmail.com,,,,,0,0,0,0
+193112197171021,1e3aae7df84f5f01cd561fa1d0e2ab52,PULE,LEON JOHAN,1931-12-19,Male,Black,Medical,82 Spruit straat,Upington,Northern Cape,0745056065,LEON JOHAN@gmail.com,SasolMed,869759549,Plan A,Measles,0,0,0,0
+193112198685085,33cbb5c14c2f185169bad8f9932102b2,ELLIS,LIAN,1931-12-19,Male,Asian,Medical,52 Albert Luthuli drive,Pofadder,Northern Cape,0827260411,LIAN@gmail.com,Compcare,619524994,Plan C,Rabies,0,0,0,0
+193202124874059,80c22745100b712089ff0896333772e2,VAN TONDER,DIONNE VERONIQUE,1932-02-12,Female,Latino,Pharmacists,25 Goetz straat,Kroonstad,Vrystaat,0737054131,,,,,Ebola,0,0,0,0
+193203139202039,f76b751b80995af86d3b4a56f6d56a62,FORSYTH,FERNANDO MANUEL,1932-03-13,Male,Indian,Pathology,38 Albert Luthuli drive,,,0782863436,FERNANDO MANUEL@gmail.com,Commed,910233921,Plan A,Rabies,0,0,0,0
+193204225930032,a85dea2937f53039735e4ddbdc65a9c9,BURGER,JUMARI,1932-04-22,Male,White ,Government,80 Kwena street,,,0748033623,JUMARI@gmail.com,,,,Ebola,0,0,0,0
+193205303872011,b2577ff48334fa18836586ec5cbf32fe,MOSTERT,RUAN,1932-05-30,Female,Latino,Pharmacists,86 Ross street,,,,RUAN@gmail.com,,,,Ebola,0,0,0,0
+193208051910089,6705d2d6ec50a1b9f1ffe1bbe2bb2a8f,LUUS,EDWARD MOLAPISI,1932-08-05,Female,Mixed-Race,Government,67 Totius straat,,,0807734018,EDWARD MOLAPISI@gmail.com,,,,Measles,0,0,0,0
+193209117812070,5e58a0afc1cc17faf8b0dc5fdb2e94de,ELIFAS,ALRI,1932-09-11,Male,Indian,Pathology,21 Ross street,,,0799906966,ALRI@gmail.com,,,,Rabies,0,0,0,0
+193210218119019,534e3ce321e884d0e55d61316bac25b9,RAS,ALBERTUS,1932-10-21,Male,White ,Government,52 Grimbeeck straat,Kuruman,Northern Cape,0774121328,ALBERTUS@gmail.com,,,,Rabies,0,0,0,0
+193211275893010,b0013b4ef88a77c10177a73a76014aa8,FOURIE,HANNO JOUBERT,1932-11-27,Male,American,Patient,56 Goetz straat,Kroonstad,Vrystaat,0823878315,HANNO JOUBERT@gmail.com,Medimed,899112329,Plan C,,0,0,0,0
+193212266563058,843561eb47a810d179108c8fecd148a9,WALKER,MARCEL HERMAN,1932-12-26,Male,Latino,Medical,58 Kwena street,,,0787492944,MARCEL HERMAN@gmail.com,Anglo medical,689595697,Plan E,Cholera,0,0,0,0
+193301147138013,c2645208a769208080d50bc49d347d33,GILFILLAN,JACOBUS JOHANNES,1933-01-14,Male,Other,Government,96 Grimbeeck straat,Kuruman,Northern Cape,,JACOBUS JOHANNES@gmail.com,,,,,0,0,0,0
+193302237221039,8932728d89a8a714804fb497da1eba0b,WIID,STEFAN,1933-02-23,Male,Black,Medical,74 Louwstraat,,,0782521198,STEFAN@gmail.com,,,,Cholera,0,0,0,0
+193303152325042,ebfedb08b18a8f737a45958ac6f521ff,COETSEE,JAN ERASMUS,1933-03-15,Female,Latino,Patient,25 Spruit straat,East London,Eastern Cape,0739354933,,,,,Cholera,0,0,0,0
+193304023249097,80e533604efb3c3072fd300dc4205f10,MARUPING,JEAN-PIERRE,1933-04-02,Female,Indian,Pharmacists,66 Maphongo street,Mahikeng,North-West,0819148487,JEAN-PIERRE@gmail.com,Medihelp,841833284,Plan D,Ebola,0,0,0,0
+193304138512057,f5d5494626d9d0684e8a2f4b13d236cc,LANDSBERG,NANET,1933-04-13,Male,Latino,Medical,48 Clark street,Johannesburg,Gauteng,0829477245,NANET@gmail.com,,,,Dengue Fever,0,0,0,0
+193304185035055,f76b751b80995af86d3b4a56f6d56a62,FORSYTH,FAITH BOIKARABELO,1933-04-18,Male,Indian,Pathology,38 Albert Luthuli drive,,,0802417881,FAITH BOIKARABELO@gmail.com,Commed,910233921,Plan A,Rabies,0,0,0,0
+193305037112047,62c8be3101a8741cba5e80a675e1e24b,VAN ZYL,ZANDER,1933-05-03,Male,Latino,Pathology,43 Totius straat,Beaufort West,Western Cape,0748792573,,,,,Rabies,0,0,0,0
+193305272998030,bbeb706e7d68b686a22bffd8bdb6e89d,DU PLOOY,DIRK,1933-05-27,Female,American,Pharmacists,4 Pretorius straat,,,0821943726,DIRK@gmail.com,Medimed,029393377,Plan E,Dengue Fever,0,0,0,0
+193312033955012,3e151694da285b1cac40752b6731cab3,MALAN,MARTHINUS CHRISTOFFEL JOHANNES,1933-12-03,Female,Black,Patient,58 Albert Luthuli drive,Musina,Limpopo,,MARTHINUS CHRISTOFFEL JOHANNES@gmail.com,,,,Rabies,0,0,0,0
+193401053088064,c0f14491ec88a7f4ec07f1b4cbd306d4,DE LANGE,MPHO-MPHO,1934-01-05,Female,Mixed-Race,Pharmacists,65 Spruit straat,Mosselbaai,Western Cape,0819658453,MPHO-MPHO@gmail.com,,,,Cholera,0,0,0,0
+193401069048010,2cfac200176f7ebb0a408e9fdc7bd595,VENTER,ESTELLE,1934-01-06,Male,Indian,Pharmacists,97 Spruit straat,Kimberley,Northern Cape,0797204655,,,,,Measles,0,0,0,0
+193401136325054,b7a5c126a12cae270ac10399b32e63af,WEAKLEY,JOHANNES PETRUS,1934-01-13,Male,White ,Medical,74 Ross street,,,0784005328,JOHANNES PETRUS@gmail.com,Genesis,054256998,Plan C,Dengue Fever,0,0,0,0
+193403045319092,59bea88caeb0226549fe5d3b8a05c484,KEHITLHILE,JULIUS,1934-03-04,Male,Latino,Medical,21 Goetz straat,,,0759057055,JULIUS@gmail.com,,,,,0,0,0,0
+193404079790077,f062feecbafbeeed2b9bb9b95af9b603,FREY,SCHALK,1934-04-07,Male,Other,Pharmacists,46 Grimbeeck straat,,,0807566236,SCHALK@gmail.com,,,,Cholera,0,0,0,0
+193407029441073,2030b8227e7fb47779921a85703d3c3a,SIEBRITS,LEON,1934-07-02,Male,American,Pharmacists,71 James Moroka drive,Hanover,Northern Cape,0782773050,LEON@gmail.com,,,,,0,0,0,0
+193408238547083,1dde044074d4a7baefdc0b9c331f76c8,MAPFEKA,GIAN FRANCOIS,1934-08-23,Male,Asian,Pathology,44 Totius straat,,,0836872212,GIAN FRANCOIS@gmail.com,Liberty,838263034,Plan A,,0,0,0,0
+193409035177043,06df0b1d2e0fb40009ea78dc7b937079,STRIPP,TSEPO SAMUEL,1934-09-03,Male,White ,Patient,29 Spruit straat,Pofadder,Northern Cape,0736249355,,,,,Covid-19,0,0,0,0
+193409122894048,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,ELÖISE,1934-09-12,Female,American,Pathology,66 Spruit straat,Bela-bela,Limpopo,0744288766,,,,,Dengue Fever,0,0,0,0
+193411032452059,b1287ef18d7dd25ad9e6e0e05f85b288,DU TOIT,AKABONGWE SIBUSISO JUNIOR,1934-11-03,Female,Indian,Pathology,83 Grimbeeck straat,Port Shepstone,Kwazulu-Natal,0771677054,,,,,Covid-19,0,0,0,0
+193412153629064,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,WYNAND,1934-12-15,Female,American,Pathology,66 Spruit straat,,,0775489731,WYNAND@gmail.com,,,,Dengue Fever,0,0,0,0
+193412196596063,4a1ace8c8b993aa5ff7857064ddab7d1,VAN EEDEN,MARELIZE,1934-12-19,Male,Black,Pathology,90 Jeppe street,Bloemfontein,Vrystaat,0771562001,MARELIZE@gmail.com,,,,,0,0,0,0
+193502209160025,32c3f4eca571927f313e5dba970bb278,NYAKUTSE,MOLEFI BOITUMELO,1935-02-20,Male,Indian,Patient,40 Spruit straat,,,0758757185,MOLEFI BOITUMELO@gmail.com,,,,Ebola,0,0,0,0
+193503284095016,5d766cd85e630e67f7170d659d0a79ad,BRITS,MINNEKE,1935-03-28,Female,Latino,Medical,99 Jeppe street,Britstown,Northern Cape,,,,,,Dengue Fever,0,0,0,0
+193504028784074,a8596e0820889f80f3b39878421246ea,VAN RHEEDE VAN OUDTSHOORN,ASHLEY,1935-04-02,Male,American,Pharmacists,45 Louwstraat,Richardsbaai,Kwazulu-Natal,0734436643,,,,,,0,0,0,0
+193506164084013,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,COERT JACOBUS MULLER,1935-06-16,Female,Black,Pharmacists,5 Pretorius straat,Pofadder,Northern Cape,,COERT JACOBUS MULLER@gmail.com,,,,Covid-19,0,0,0,0
+193506187659094,43c3e2c3fba6997c6926fde346706d1d,BLIGNAUT,ANDREA,1935-06-18,Male,Other,Pharmacists,78 Ross street,Krugersdorp,Gauteng,0804899550,ANDREA@gmail.com,BestMed,446798400,Plan C,,0,0,0,0
+193507245973073,5f20c48951748c5b5d85d57fec505a49,MAGUBANE,ERWIN ANDREAS,1935-07-24,Male,Mixed-Race,Pharmacists,65 Grimbeeck straat,,,,,Commed,618393180,Plan C,Cholera,0,0,0,0
+193508191536016,dba7fba6aea7df8ab1f7ec935b65888a,ROSADO DIAZ,PHILANI NTANDO,1935-08-19,Female,Latino,Medical,17 Pretorius straat,Upington,Northern Cape,0720396209,,,,,,0,0,0,0
+193509173153054,ed188ec59ea206d31ce6f016d4c340c0,MEIRING,NELIZE,1935-09-17,Female,Other,Medical,15 Clark street,,,0752426805,NELIZE@gmail.com,,,,Cholera,0,0,0,0
+193510165859052,85aa7de9a9ac807f6294cc5b2abc79cf,BARNARD,DUVAN DAMON,1935-10-16,Male,Indian,Pathology,63 Mosidi street,Johannesburg,Gauteng,0797112769,DUVAN DAMON@gmail.com,Pharos,758173587,Plan A,Ebola,0,0,0,0
+193510202798082,ed188ec59ea206d31ce6f016d4c340c0,MEIRING,ZANDRÉ,1935-10-20,Female,Other,Medical,15 Clark street,,,0750386583,,,,,Cholera,0,0,0,0
+193604161838037,56cd487ca69b345f2b1f658537203607,VAN DEN BERG,REINHARDT REGARDT,1936-04-16,Female,Asian,Pathology,92 Eleazer straat,,,0813956865,REINHARDT REGARDT@gmail.com,,,,Measles,0,0,0,0
+193605169846092,7b0d958cf52eb087e78ec8bccdc2d823,STORM,LEON DIRK,1936-05-16,Male,Mixed-Race,Medical,64 Goetz straat,Bethlehem,Vrystaat,0756402395,LEON DIRK@gmail.com,,,,Dengue Fever,0,0,0,0
+193607054644036,9583a57cb3a8affe4e978892dbd9615a,BESTER,ESTIAN,1936-07-05,Female,Black,Pathology,10 Ross street,Ermelo,Mpumalanga,0777272422,ESTIAN@gmail.com,,,,Covid-19,0,0,0,0
+193608123750094,9583a57cb3a8affe4e978892dbd9615a,BESTER,JONATHAN,1936-08-12,Female,Black,Government,42 Albert Luthuli drive,,,0806837944,JONATHAN@gmail.com,Barloworld medical,288615227,Plan C,Measles,0,0,0,0
+193609106776067,4887c0483683f44a09673bd0c7927cf1,NEL,KAYLA,1936-09-10,Male,Indian,Government,82 Albert Luthuli drive,,,0777712699,,,,,Dengue Fever,0,0,0,0
+193609131423014,12bc6a0f50bcee68661ab4ca4f4e0f6e,KOWAHANE,RUAN,1936-09-13,Female,White ,Pharmacists,40 Spruit straat,Britstown,Northern Cape,0743297237,RUAN@gmail.com,,,,Ebola,0,0,0,0
+193609157806011,6baa07f638cb3b1b26eed6225db767d3,GREYLING,DINEO MARIA,1936-09-15,Male,Mixed-Race,Medical,22 Jeppe street,,,0832647335,,Bankmed,623429664,Plan B,Cholera,0,0,0,0
+193702132687077,c30c8078f527f885cfc152e977b76bf4,MLAMBO,DIAN,1937-02-13,Female,Black,Government,75 Grimbeeck straat,Bloemfontein,Vrystaat,0802335766,DIAN@gmail.com,BestMed,744579524,Plan B,Measles,0,0,0,0
+193702229650016,07b84fb6177878d832a42f0d4400350b,GRANT,VEENAN REECE,1937-02-22,Male,Latino,Patient,83 Maphongo street,Zeerust,North-West,0803597913,VEENAN REECE@gmail.com,Momentum,025616372,Plan D,,0,0,0,0
+193703085074090,d4ef6ef5df0aa106e30b2dc7285fd20f,THEKISO,JUAN LOUIS,1937-03-08,Male,Mixed-Race,Government,91 James Moroka drive,East London,Eastern Cape,0816719178,JUAN LOUIS@gmail.com,,,,Rabies,0,0,0,0
+193703177528084,a85dea2937f53039735e4ddbdc65a9c9,BURGER,MICHAEL RICHARD,1937-03-17,Male,Mixed-Race,Patient,95 Albert Luthuli drive,George,Western Cape,,MICHAEL RICHARD@gmail.com,,,,Ebola,0,0,0,0
+193703198131026,3cef6a20642592a9ad4bac6d0d09722f,SHARP,ADRIAAN,1937-03-19,Male,Indian,Pharmacists,81 James Moroka drive,Klerksdorp,North-West,0774759641,ADRIAAN@gmail.com,,,,Covid-19,0,0,0,0
+193704031045046,bebf7460ec5adba6bcf21724ec677063,PODGES,HENDRIK JOHANNES,1937-04-03,Female,Asian,Medical,71 Mosidi street,George,Western Cape,0781443184,HENDRIK JOHANNES@gmail.com,,,,Measles,0,0,0,0
+193705149117087,ea27c5878cef3618806443f4398d8ebb,VAN DER MERWE,DANIEL JOHANNES,1937-05-14,Male,Mixed-Race,Pharmacists,43 Maphongo street,Randfontein,Gauteng,0808991819,DANIEL JOHANNES@gmail.com,,,,,0,0,0,0
+193706043133082,85c3eb64c2f8460e7cef687561dc8f57,JANSE VAN RENSBURG,KARABO GLADYS,1937-06-04,Female,Black,Medical,17 Maphongo street,Johannesburg,Gauteng,0803133778,KARABO GLADYS@gmail.com,,,,Covid-19,0,0,0,0
+193706165955015,85e77664d148fe8e1af677ccbc695f90,VAN ROOYEN,SCHALK,1937-06-16,Male,American,Medical,40 Mosidi street,Welkom,Vrystaat,0818747590,SCHALK@gmail.com,,,,Rabies,0,0,0,0
+193707254808040,1ea4c1e2d6619c03f3a59a7c6666724e,VAN JAARSVELDT,REGINALD BREYTON,1937-07-25,Female,Asian,Government,79 Albert Luthuli drive,Upington,Northern Cape,0829004021,REGINALD BREYTON@gmail.com,,,,Measles,0,0,0,0
+193708205159033,6ae7f5d1c0db67d43b94f8141d66df63,SCHUTTE,LESHENDRA TONY,1937-08-20,Male,Mixed-Race,Patient,28 Jeppe street,Cape Town,Western Cape,0813600338,,,,,Dengue Fever,0,0,0,0
+193708298805013,1ea770a0c808503ed49d5c2f44e65af5,MAPOLA,PHILIPPUS STEFANUS,1937-08-29,Male,Latino,Patient,96 Pitso street,Kimberley,Northern Cape,0735094683,PHILIPPUS STEFANUS@gmail.com,MedShield,819288975,Plan C,Rabies,0,0,0,0
+193709088550058,ebc5d12802637ef3204fcd33de9f8015,MHLONGO,VICTOR,1937-09-08,Male,Indian,Government,18 Eleazer straat,Pofadder,Northern Cape,0740581260,VICTOR@gmail.com,,,,Cholera,0,0,0,0
+193711152709046,1a6f7ceef06a15b0479463dc7d9e290b,CHAMBERS,MAIAR MAMDUH MOSTAFA,1937-11-15,Female,Asian,Government,1 Albert Luthuli drive,,,,MAIAR MAMDUH MOSTAFA@gmail.com,Bonitas,488923359,Plan D,Covid-19,0,0,0,0
+193711308453090,46a30db39243336718fdd5deddfaf355,GERBER,JOSHUA,1937-11-30,Male,Asian,Pharmacists,10 Mosidi street,,,0728133239,,,,,Cholera,0,0,0,0
+193803111854095,ccebbd979b66291a53d92f7668f3b2c9,VISSER,JUAN LOUIS,1938-03-11,Female,Latino,Pathology,18 Kwena street,Welkom,Vrystaat,0763596840,JUAN LOUIS@gmail.com,,,,,0,0,0,0
+193804154423027,07b84fb6177878d832a42f0d4400350b,GRANT,ERIC PAUL,1938-04-15,Female,Mixed-Race,Patient,21 Clark street,,,0816970249,,,,,Ebola,0,0,0,0
+193807022387094,6e91212e254deb83fac5165ded7c084f,OLIVIER,RENIEL JAKOB,1938-07-02,Female,Mixed-Race,Government,82 Pitso street,,,0753872850,RENIEL JAKOB@gmail.com,SasolMed,915667527,Plan B,Ebola,0,0,0,0
+193810139803078,f66b4fa905fb2896f6b25b4b87f57c20,DE JAGER,MATTHYS MICHAEL,1938-10-13,Male,Black,Government,92 Pretorius straat,Randfontein,Gauteng,0839286223,MATTHYS MICHAEL@gmail.com,,,,Covid-19,0,0,0,0
+193812047402092,4d78862a759acb8e6567552cdce9a54e,MAPHETO,JOHANNES FRANCOIS,1938-12-04,Male,Asian,Medical,57 Maphongo street,,,0722585769,,,,,Dengue Fever,0,0,0,0
+193812128191093,b7a5c126a12cae270ac10399b32e63af,WEAKLEY,CHRISTIAAN GERALD,1938-12-12,Male,Mixed-Race,Government,7 Spruit straat,Welkom,Vrystaat,,CHRISTIAAN GERALD@gmail.com,,,,Measles,0,0,0,0
+193902083318072,2f84aa21de7cf3b0b2466019ae762e74,MAREE,CHINEAD,1939-02-08,Female,Other,Medical,92 Eleazer straat,,,0801567688,CHINEAD@gmail.com,,,,,0,0,0,0
+193902194087011,48bcf3d44084d524c72e1e405c175e89,VAN DYK,ABRIE ERNEST,1939-02-19,Female,Indian,Pharmacists,49 Pitso street,,,,ABRIE ERNEST@gmail.com,Keyhealth,886669461,Plan B,Cholera,0,0,0,0
+193905212607082,9405eb9ed99b5e6f7a13860776dc78e1,TSHEHLA,FRANCOIS,1939-05-21,Female,Latino,Medical,53 Clark street,,,0739737221,FRANCOIS@gmail.com,Alliance-midmed,861488803,Plan E,Measles,0,0,0,0
+193906274642055,3f84d88cf544ced285aaadf11df68cae,JANSEN VAN VUUREN,JOHAN CHRISTIAAN,1939-06-27,Female,Mixed-Race,Medical,8 Kwena street,,,0787115485,,Bonitas,391509336,Plan A,,0,0,0,0
+193908218534089,4e76bbc12f447f9496ec1aa883b53364,STRYDOM,JUAN LOUIS,1939-08-21,Male,Latino,Pathology,52 Ross street,,,,JUAN LOUIS@gmail.com,,,,Dengue Fever,0,0,0,0
+193908312592026,058c5882718f40764d9f0d7427e1791a,SWANEPOEL,JACO,1939-08-31,Female,Asian,Patient,28 Jeppe street,Bela-bela,Limpopo,0769295530,JACO@gmail.com,,,,Dengue Fever,0,0,0,0
+193909156948082,1dde044074d4a7baefdc0b9c331f76c8,MAPFEKA,JUSTIN SIMON,1939-09-15,Male,Other,Medical,32 Albert Luthuli drive,,,0817934057,JUSTIN SIMON@gmail.com,Discovery,825632969,Plan C,,0,0,0,0
+193909195392097,b7884a949042f9eeaff9937ef9f6918d,ODENDAAL,ARNOLD,1939-09-19,Male,Mixed-Race,Government,3 Pretorius straat,Beaufort West,Western Cape,0764027807,ARNOLD@gmail.com,,,,Cholera,0,0,0,0
+193910127080089,fbd3f4dfae05d6fb014b0378b0d6ac07,MATHE,CHRISTIAAN,1939-10-12,Male,Asian,Pathology,87 James Moroka drive,Plokwane,Limpopo,0806278830,CHRISTIAAN@gmail.com,,,,,0,0,0,0
+193911076656048,6e91212e254deb83fac5165ded7c084f,OLIVIER,JOHANNES PETRUS,1939-11-07,Male,Indian,Pathology,69 Jeppe street,Ulundi,Kwazulu-Natal,0811482055,,,,,,0,0,0,0
+193911155977091,4dd69361f07a0021b3c79c173c9be769,WAGENER,DANIELLE,1939-11-15,Male,Mixed-Race,Medical,77 Clark street,Springbok,Northern Cape,,DANIELLE@gmail.com,,,,Rabies,0,0,0,0
+194001251232093,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,DIRK JOHANNES,1940-01-25,Female,American,Government,85 Ross street,,,0770713591,DIRK JOHANNES@gmail.com,,,,Rabies,0,0,0,0
+194002088195066,449d06f127bd243e58541b10fe5d14f2,SMITH,REINHARDT REGARDT,1940-02-08,Male,Latino,Patient,18 Pretorius straat,East London,Eastern Cape,0834257208,REINHARDT REGARDT@gmail.com,Pharos,277809909,Plan A,,0,0,0,0
+194002204577086,5c59f1052c7e518992275e05ccbd9f3e,CORNELIUS,ALBERTUS,1940-02-20,Female,Black,Pharmacists,35 Mosidi street,,,0810683237,ALBERTUS@gmail.com,,,,,0,0,0,0
+194005157437041,fcd3c2fd3062dca63301b2e4150dab23,VISAGIE,JOHN ANTON,1940-05-15,Male,Black,Medical,84 Ross street,Springbok,Northern Cape,0794445039,,,,,Dengue Fever,0,0,0,0
+194006045618064,6f7787d7b9c07511142c842c04e60735,BOTHA,RENÉE,1940-06-04,Male,Other,Medical,47 Grimbeeck straat,,,0832138350,RENÉE@gmail.com,,,,Measles,0,0,0,0
+194006122801088,6f7787d7b9c07511142c842c04e60735,BOTHA,CORNE,1940-06-12,Female,American,Medical,27 Ross street,Potchefstroom,North-West,0821056197,CORNE@gmail.com,,,,Dengue Fever,0,0,0,0
+194009097500067,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,OFENTSE,1940-09-09,Male,Mixed-Race,Patient,7 Spruit straat,,,0807070001,,,,,Cholera,0,0,0,0
+194009108959033,6b9b30cbeaa15b5a464892fdbdc90f56,VAN DER RYST,RYNO,1940-09-10,Male,Asian,Pathology,41 Jeppe street,Welkom,Vrystaat,0742543790,,Commed,966167565,Plan E,Covid-19,0,0,0,0
+194010092198096,8b5b069b54b94e64688aaeb51642b4ff,VAN DER WALT,EDRICH,1940-10-09,Female,Latino,Pathology,52 Spruit straat,Port Shepstone,Kwazulu-Natal,0723572381,,Compcare,627741394,Plan C,Measles,0,0,0,0
+194010103367082,b1287ef18d7dd25ad9e6e0e05f85b288,DU TOIT,CORNELIUS RUDOLPH,1940-10-10,Female,Other,Medical,47 James Moroka drive,,,0726128078,CORNELIUS RUDOLPH@gmail.com,,,,Dengue Fever,0,0,0,0
+194012107774040,2ab53d8524ad69725aaf83fb021395a3,MUNIAN,CORLIEUS,1940-12-10,Male,Black,Government,63 Kwena street,,,0758274910,CORLIEUS@gmail.com,,,,,0,0,0,0
+194012223829043,9583a57cb3a8affe4e978892dbd9615a,BESTER,STÉHAN,1940-12-22,Female,Other,Pathology,60 Jeppe street,,,,STÉHAN@gmail.com,,,,Ebola,0,0,0,0
+194101265658023,c770bbbaf33956e3809338ada378fe80,PRINSLOO,MATTHYS JOHANNES,1941-01-26,Male,American,Government,48 Jeppe street,Klerksdorp,North-West,0815915938,,Barloworld medical,146788833,Plan D,Measles,0,0,0,0
+194102058285019,23639f1070045159fb60fd659e061023,VAN SCHALKWYK,JACQUES BAREND,1941-02-05,Male,Mixed-Race,Government,48 Pretorius straat,,,,JACQUES BAREND@gmail.com,,,,Covid-19,0,0,0,0
+194103029718040,a0de1296c78389dd40f32ea6675e2bc7,KOK,ERHARD FREDERIK,1941-03-02,Male,Latino,Government,15 Grimbeeck straat,Bloemfontein,Vrystaat,0820467019,ERHARD FREDERIK@gmail.com,,,,Measles,0,0,0,0
+194105217106043,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,WIKUS MARINUS,1941-05-21,Male,Other,Pharmacists,3 Jeppe street,,,0814880008,WIKUS MARINUS@gmail.com,,,,Covid-19,0,0,0,0
+194106131470062,0a0d0ed9f7d873410c5dab5f514685e0,KLOPPER,DAMIAN COLE,1941-06-13,Female,Black,Pharmacists,39 Kwena street,,,0726991528,DAMIAN COLE@gmail.com,Liberty,421762764,Plan E,Rabies,0,0,0,0
+194106304135020,7e691e9a752a4732313e4551c4891026,GOOSEN,FRANCOIS PETRUS,1941-06-30,Female,Black,Pharmacists,90 Albert Luthuli drive,,,0782511793,FRANCOIS PETRUS@gmail.com,Medimed,716106347,Plan A,Measles,0,0,0,0
+194107106245089,62c8be3101a8741cba5e80a675e1e24b,VAN ZYL,CARLA,1941-07-10,Male,Latino,Medical,62 Grimbeeck straat,Ulundi,Kwazulu-Natal,0835552375,CARLA@gmail.com,,,,Cholera,0,0,0,0
+194107225811023,3ef7ed0f02327526ceeb04fb8084457c,SHABANGU,HENDRIK JOHANNES CHRISTOFFEL,1941-07-22,Male,Other,Patient,51 Pitso street,Plokwane,Limpopo,,HENDRIK JOHANNES CHRISTOFFEL@gmail.com,,,,,0,0,0,0
+194109027474098,4887c0483683f44a09673bd0c7927cf1,NEL,MAIAR MAMDUH MOSTAFA,1941-09-02,Male,American,Pathology,53 Maphongo street,Musina,Limpopo,0732394395,MAIAR MAMDUH MOSTAFA@gmail.com,,,,Ebola,0,0,0,0
+194110301933026,8891dd9c8f59ad5387ce7570f850e4fe,CRUMPLIN,GARRETT JOSHUA,1941-10-30,Female,Black,Pharmacists,1 Grimbeeck straat,Bethlehem,Vrystaat,0780941483,GARRETT JOSHUA@gmail.com,Medihelp,173395980,Plan E,Measles,0,0,0,0
+194111217703099,43c3e2c3fba6997c6926fde346706d1d,BLIGNAUT,BAREND CORNELIUS,1941-11-21,Male,Indian,Medical,36 Albert Luthuli drive,Worcester,Western Cape,0796808485,BAREND CORNELIUS@gmail.com,,,,Ebola,0,0,0,0
+194111308636095,3e151694da285b1cac40752b6731cab3,MALAN,KARABO,1941-11-30,Male,Indian,Patient,94 Mosidi street,Springbok,Northern Cape,0758840667,KARABO@gmail.com,Pharos,608402990,Plan E,Ebola,0,0,0,0
+194202061654075,b8117871f9bf72e0aad0f8576eaf1fb5,MOHAMED DAULATH,GEORGE FREDERIK,1942-02-06,Female,Asian,Patient,35 Totius straat,Springbok,Northern Cape,0800976239,,,,,Ebola,0,0,0,0
+194204183091095,62c8be3101a8741cba5e80a675e1e24b,VAN ZYL,MARCO,1942-04-18,Female,American,Medical,83 Spruit straat,,,,MARCO@gmail.com,,,,Measles,0,0,0,0
+194204268714042,46802de0cfc3b95eefcce37683dba7e6,OELOFSE,GIDEON JOHANNES JACOBUS,1942-04-26,Male,Asian,Patient,36 Eleazer straat,Kuruman,Northern Cape,0800968713,GIDEON JOHANNES JACOBUS@gmail.com,,,,Ebola,0,0,0,0
+194205074514083,420d18dfa7ed2e84c0987e21f52a5284,BOWLES,NELIZE,1942-05-07,Female,Asian,Pharmacists,8 Totius straat,Randfontein,Gauteng,0836346974,,Medihelp,624150207,Plan E,Cholera,0,0,0,0
+194206084480018,2ab53d8524ad69725aaf83fb021395a3,MUNIAN,HENRY,1942-06-08,Female,Black,Government,63 Kwena street,,,0724023679,HENRY@gmail.com,,,,,0,0,0,0
+194206104981047,a8596e0820889f80f3b39878421246ea,VAN RHEEDE VAN OUDTSHOORN,RINUS JOHAN,1942-06-10,Female,Asian,Pathology,21 Spruit straat,,,0803859756,,,,,Cholera,0,0,0,0
+194206192055060,8932728d89a8a714804fb497da1eba0b,WIID,JAN ERASMUS,1942-06-19,Female,Asian,Pharmacists,46 Pitso street,Durban,Kwazulu-Natal,0746983479,JAN ERASMUS@gmail.com,,,,Dengue Fever,0,0,0,0
+194207293722031,6b9b30cbeaa15b5a464892fdbdc90f56,VAN DER RYST,CHRISTIAN,1942-07-29,Female,Mixed-Race,Government,8 Maphongo street,Pietermaritzburg,Kwazulu-Natal,0830379262,CHRISTIAN@gmail.com,,,,Cholera,0,0,0,0
+194207301550062,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,PHILIPPUS JACOBUS,1942-07-30,Female,American,Patient,17 Albert Luthuli drive,Springbok,Northern Cape,0795410175,PHILIPPUS JACOBUS@gmail.com,,,,Dengue Fever,0,0,0,0
+194209308289053,1e3aae7df84f5f01cd561fa1d0e2ab52,PULE,TSHEPO SHERWELL,1942-09-30,Male,Black,Government,27 Grimbeeck straat,Richardsbaai,Kwazulu-Natal,,TSHEPO SHERWELL@gmail.com,,,,Rabies,0,0,0,0
+194210299490087,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,ABRIE ERNEST,1942-10-29,Male,Mixed-Race,Patient,7 Spruit straat,Welkom,Vrystaat,0782276450,ABRIE ERNEST@gmail.com,,,,Cholera,0,0,0,0
+194211086613061,4bbf5885bb0a624aa19dad6fdbb5cd8c,DE VRIES,WILLEM FREDERIK,1942-11-08,Male,Other,Pathology,39 Pretorius straat,Pofadder,Northern Cape,0752915577,WILLEM FREDERIK@gmail.com,,,,Covid-19,0,0,0,0
+194211153836020,56cd487ca69b345f2b1f658537203607,VAN DEN BERG,JANCO STEFAN,1942-11-15,Female,American,Patient,81 James Moroka drive,Musina,Limpopo,0736310844,JANCO STEFAN@gmail.com,Momentum,721931990,Plan B,Measles,0,0,0,0
+194304129233018,20f20fcad20a61d46c6e7051b7d9c791,HOLLENBACH,HENRIETTE,1943-04-12,Male,Asian,Medical,5 Eleazer straat,Potchefstroom,North-West,0773467363,,,,,Ebola,0,0,0,0
+194304212807090,0c57254b271c446e47186c94a5cde7fc,MONAISA,LESHENDRA TONY,1943-04-21,Female,Latino,Medical,54 Albert Luthuli drive,,,0759752012,LESHENDRA TONY@gmail.com,Pharos,034703760,Plan C,,0,0,0,0
+194305189714085,23639f1070045159fb60fd659e061023,VAN SCHALKWYK,JACOBUS JOHANNES,1943-05-18,Male,Mixed-Race,Government,48 Pretorius straat,,,0740610875,JACOBUS JOHANNES@gmail.com,,,,Covid-19,0,0,0,0
+194305265099041,a85dea2937f53039735e4ddbdc65a9c9,BURGER,WILLIAM DAVID,1943-05-26,Male,Indian,Government,49 Clark street,Ermelo,Mpumalanga,,WILLIAM DAVID@gmail.com,,,,Covid-19,0,0,0,0
+194306129815099,c2645208a769208080d50bc49d347d33,GILFILLAN,HENRY,1943-06-12,Male,Asian,Patient,54 Totius straat,Kimberley,Northern Cape,0738589659,HENRY@gmail.com,,,,Covid-19,0,0,0,0
+194307116155090,f7bc7694fd8d9855e65108c54e4a2562,GARESEITSE,NYELETI AMUKELANI,1943-07-11,Male,Other,Pathology,15 Louwstraat,Ermelo,Mpumalanga,0817532060,NYELETI AMUKELANI@gmail.com,Momentum,124286130,Plan C,,0,0,0,0
+194309177125033,9583a57cb3a8affe4e978892dbd9615a,BESTER,KEEGAN,1943-09-17,Male,Black,Government,43 Kwena street,Pofadder,Northern Cape,0835543833,KEEGAN@gmail.com,FedHealth,829729144,Plan D,,0,0,0,0
+194310102385034,10f9ce62f956003192050274617ff8c5,LABUSCHAGNE,SEAN CAREW,1943-10-10,Female,Black,Pathology,18 Grimbeeck straat,George,Western Cape,0736644896,SEAN CAREW@gmail.com,Keyhealth,879430567,Plan E,Measles,0,0,0,0
+194310264230063,0bce9fc12ad0b929848b2085b96db023,NAUDÉ,PASEKA PADRICK,1943-10-26,Female,Asian,Patient,96 Totius straat,Britstown,Northern Cape,,PASEKA PADRICK@gmail.com,,,,Cholera,0,0,0,0
+194401142482054,46c6dcc9a19553146f430a87a60a2bde,SOLOMON,PATRICK HENDRIK,1944-01-14,Female,Indian,Patient,54 Jeppe street,,,0773653520,PATRICK HENDRIK@gmail.com,,,,Dengue Fever,0,0,0,0
+194402284324064,eb8983a636c9cf520964f444991c75d9,MARX,LUKE,1944-02-28,Female,American,Government,84 Clark street,,,0833627727,LUKE@gmail.com,,,,,0,0,0,0
+194403033039053,90ea6ca5e95f1ca9e0bad26d4cfc3e7b,BYLEVELDT,BRETT KEVIN,1944-03-03,Female,Mixed-Race,Pharmacists,73 Pitso street,Pietermaritzburg,Kwazulu-Natal,0803204988,BRETT KEVIN@gmail.com,,,,Cholera,0,0,0,0
+194405204365058,4e76bbc12f447f9496ec1aa883b53364,STRYDOM,LLEWELLYN,1944-05-20,Female,White ,Medical,81 Mosidi street,Hanover,Northern Cape,0833857725,LLEWELLYN@gmail.com,Pharos,404806827,Plan A,Measles,0,0,0,0
+194406256104035,6baa07f638cb3b1b26eed6225db767d3,GREYLING,DANIEL JOHANNES,1944-06-25,Male,Mixed-Race,Pharmacists,8 James Moroka drive,Middelburg,Mpumalanga,0807081311,DANIEL JOHANNES@gmail.com,,,,Covid-19,0,0,0,0
+194407101550056,8245d6193b534ef19d29d1b3ac240033,THULO,MIRESCHEN,1944-07-10,Female,Black,Medical,82 Goetz straat,,,0825967638,,SelfMed,462137774,Plan A,Covid-19,0,0,0,0
+194408272568019,403f8005faed3076600349927802324d,HORAK,JEAN-PIERRE,1944-08-27,Female,Black,Patient,6 Mosidi street,,,0830713651,JEAN-PIERRE@gmail.com,CAMAF,274057119,Plan E,,0,0,0,0
+194409101580082,b2577ff48334fa18836586ec5cbf32fe,MOSTERT,FERNANDO MANUEL,1944-09-10,Female,Indian,Patient,22 Spruit straat,Potchefstroom,North-West,,,,,,,0,0,0,0
+194409299675033,b7317b50693bac59880346cfb7d051ee,JOUBERT,EMILE,1944-09-29,Male,Other,Pathology,46 Clark street,Port Shepstone,Kwazulu-Natal,,EMILE@gmail.com,,,,,0,0,0,0
+194410195326011,51c469a0c52a149fe645080f2a68fa1c,MASWANGANYI,CHARL,1944-10-19,Male,Indian,Patient,32 Jeppe street,Johannesburg,Gauteng,0739970232,CHARL@gmail.com,SAMWUMED,811450410,Plan A,Rabies,0,0,0,0
+194410275341058,c74d77f0abec126d4f067e14cf2faa89,KLOPPERS,KARABO,1944-10-27,Male,Latino,Pharmacists,64 Mosidi street,Plokwane,Limpopo,0737803661,KARABO@gmail.com,,,,Covid-19,0,0,0,0
+194410318618059,56cd487ca69b345f2b1f658537203607,VAN DEN BERG,ANINA,1944-10-31,Male,Indian,Government,74 Pretorius straat,,,,ANINA@gmail.com,,,,Rabies,0,0,0,0
+194501229450071,a7753f4820d8936e3d97b56a1292c3d9,LEPADILE,KARABO,1945-01-22,Male,Other,Patient,24 Totius straat,,,0752262255,KARABO@gmail.com,,,,,0,0,0,0
+194504273896068,af4de4c1479b0f3a5f7477c3d86d1e38,MATUMBA,WIKUS MARINUS,1945-04-27,Female,White ,Pharmacists,53 Ross street,,,0833574078,WIKUS MARINUS@gmail.com,SelfMed,557599943,Plan E,Rabies,0,0,0,0
+194506131337045,f76b751b80995af86d3b4a56f6d56a62,FORSYTH,EDWARD MOLAPISI,1945-06-13,Female,Indian,Pharmacists,71 Goetz straat,,,0833965157,EDWARD MOLAPISI@gmail.com,Medimed,544892353,Plan A,Dengue Fever,0,0,0,0
+194506288865033,df8c4228f96fe211961d78fd7cfe1c5f,WASSERMAN,CHARA,1945-06-28,Male,Latino,Patient,56 Kwena street,Beaufort West,Western Cape,0837108078,CHARA@gmail.com,Anglo medical,055577094,Plan A,Rabies,0,0,0,0
+194508269138040,1222a25459fdddf2d3f6dc1b60514025,GOUS,HUGO JOHANN,1945-08-26,Male,Black,Pathology,92 Mosidi street,Plokwane,Limpopo,0732296756,HUGO JOHANN@gmail.com,Medimed,244999484,Plan D,,0,0,0,0
+194509097313042,0bf2cdea7a3dc7e84f5bd17320c787dd,KEAMEDITSE,GIDEON FRANCOIS,1945-09-09,Male,American,Patient,80 Spruit straat,Upington,Northern Cape,0748535658,GIDEON FRANCOIS@gmail.com,,,,Cholera,0,0,0,0
+194509207838064,2806bb1996e561485fd4a8009fe89107,PIEK,LIAN,1945-09-20,Male,White ,Pharmacists,9 Maphongo street,Nelspruit,Mpumalanga,0722358977,LIAN@gmail.com,,,,Dengue Fever,0,0,0,0
+194512193564046,1a87a751ca02a364334889be831b41fe,PIETERSE,JAN ERASMUS,1945-12-19,Female,Asian,Patient,54 Clark street,,,0817624841,JAN ERASMUS@gmail.com,,,,Covid-19,0,0,0,0
+194602123431036,9405eb9ed99b5e6f7a13860776dc78e1,TSHEHLA,MULLER SAMUAL,1946-02-12,Female,Other,Patient,22 James Moroka drive,Bela-bela,Limpopo,0782346551,MULLER SAMUAL@gmail.com,Momentum,629518050,Plan E,Covid-19,0,0,0,0
+194603301932010,a193533cd876d7f412e9674c227999cf,VAN ONSELEN,MARINUS MARNUS,1946-03-30,Female,Asian,Patient,85 Grimbeeck straat,Ermelo,Mpumalanga,0837219047,MARINUS MARNUS@gmail.com,Momentum,979183081,Plan E,Rabies,0,0,0,0
+194604258506032,0170d2b5cb2477245f08ce6d27c3ee25,GREEFF,VIDA-MARIÉ,1946-04-25,Male,Mixed-Race,Government,100 Totius straat,Kuruman,Northern Cape,0833098727,VIDA-MARIÉ@gmail.com,Glencore medical,891177972,Plan D,Ebola,0,0,0,0
+194606234900072,0e32ce877c244307c2a72f30ad468d26,FOUCHE,LESHENDRA TONY,1946-06-23,Female,Other,Pharmacists,43 Eleazer straat,Springbok,Northern Cape,0757199811,LESHENDRA TONY@gmail.com,,,,Dengue Fever,0,0,0,0
+194612127316038,07b84fb6177878d832a42f0d4400350b,GRANT,CHRISTIAN,1946-12-12,Male,Mixed-Race,Patient,21 Clark street,Mahikeng,North-West,0760253202,,,,,Ebola,0,0,0,0
+194612186019034,a7753f4820d8936e3d97b56a1292c3d9,LEPADILE,MKATEKO,1946-12-18,Male,Other,Pharmacists,44 Grimbeeck straat,,,0799624227,MKATEKO@gmail.com,,,,Dengue Fever,0,0,0,0
+194701027849012,c74d77f0abec126d4f067e14cf2faa89,KLOPPERS,GIDEON JOHANNES JACOBUS,1947-01-02,Male,Asian,Patient,87 Mosidi street,Bela-bela,Limpopo,0800383770,GIDEON JOHANNES JACOBUS@gmail.com,,,,,0,0,0,0
+194702042451032,35ad94fc07babd080fcb10db3fd75085,TSOTETSI,ANRO,1947-02-04,Female,American,Pathology,29 Grimbeeck straat,Springbok,Northern Cape,0721797338,ANRO@gmail.com,Commed,238821520,Plan D,,0,0,0,0
+194702054257029,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,MICHEL BURGER,1947-02-05,Female,Mixed-Race,Medical,12 Ross street,,,,MICHEL BURGER@gmail.com,Alliance-midmed,709935149,Plan B,Cholera,0,0,0,0
+194702225865091,9583a57cb3a8affe4e978892dbd9615a,BESTER,MICHAEL IAN,1947-02-22,Male,Black,Government,42 Albert Luthuli drive,Durban,Kwazulu-Natal,0811218784,MICHAEL IAN@gmail.com,Barloworld medical,288615227,Plan C,Measles,0,0,0,0
+194707127848053,62c8be3101a8741cba5e80a675e1e24b,VAN ZYL,JACQUES,1947-07-12,Male,American,Pharmacists,60 Pretorius straat,Bela-bela,Limpopo,0721342077,JACQUES@gmail.com,Alliance-midmed,598540876,Plan D,Cholera,0,0,0,0
+194711219640058,85e77664d148fe8e1af677ccbc695f90,VAN ROOYEN,JACQUES FRANCOIS,1947-11-21,Male,American,Medical,40 Mosidi street,,,,JACQUES FRANCOIS@gmail.com,,,,Rabies,0,0,0,0
+194711229703066,3f84d88cf544ced285aaadf11df68cae,JANSEN VAN VUUREN,ROELOF STEPHANUS,1947-11-22,Male,Mixed-Race,Medical,8 Kwena street,,,0802040270,ROELOF STEPHANUS@gmail.com,Bonitas,391509336,Plan A,,0,0,0,0
+194711243183059,48bcf3d44084d524c72e1e405c175e89,VAN DYK,THABO,1947-11-24,Female,American,Government,89 Ross street,Randfontein,Gauteng,0780348266,THABO@gmail.com,,,,Rabies,0,0,0,0
+194801313420098,1db648c85615d34475c30e6a1b269eae,HOLTZHAUSEN,JOHANNES JACOBUS,1948-01-31,Female,Other,Pathology,10 Jeppe street,Mahikeng,North-West,0735996758,JOHANNES JACOBUS@gmail.com,Bonitas,031454298,Plan C,Rabies,0,0,0,0
+194802181289046,20f20fcad20a61d46c6e7051b7d9c791,HOLLENBACH,LEBOGANG,1948-02-18,Female,Indian,Patient,93 Totius straat,Bela-bela,Limpopo,0827968453,LEBOGANG@gmail.com,Alliance-midmed,444685011,Plan C,,0,0,0,0
+194806045559089,b2577ff48334fa18836586ec5cbf32fe,MOSTERT,PIETER STEPHANUS,1948-06-04,Male,Latino,Pharmacists,93 Clark street,Kimberley,Northern Cape,0740009337,PIETER STEPHANUS@gmail.com,,,,,0,0,0,0
+194806298283030,e9f2ed07c7f69c283c709f894a534312,DLADLA,RETHABILE EMMANUEL,1948-06-29,Male,Asian,Medical,80 Pretorius straat,,,0743794619,RETHABILE EMMANUEL@gmail.com,,,,Ebola,0,0,0,0
+194807045148086,843561eb47a810d179108c8fecd148a9,WALKER,KRISTINE JOHANNA,1948-07-04,Male,Mixed-Race,Pharmacists,39 Maphongo street,George,Western Cape,0751699700,,,,,Rabies,0,0,0,0
+194808013362086,0170d2b5cb2477245f08ce6d27c3ee25,GREEFF,MORGAN,1948-08-01,Female,Latino,Medical,14 Goetz straat,Ulundi,Kwazulu-Natal,0759333092,MORGAN@gmail.com,,,,Rabies,0,0,0,0
+194808098989065,ea27c5878cef3618806443f4398d8ebb,VAN DER MERWE,TRISTEN,1948-08-09,Male,Mixed-Race,Pharmacists,43 Maphongo street,,,0830128491,TRISTEN@gmail.com,,,,,0,0,0,0
+194808104053035,cd301f5f111b7727aa7bc2fa45659a9d,PILANE,ESTELLE,1948-08-10,Female,Indian,Government,92 Maphongo street,Pofadder,Northern Cape,0826880466,ESTELLE@gmail.com,FedHealth,753830968,Plan E,Cholera,0,0,0,0
+194808157271093,9405eb9ed99b5e6f7a13860776dc78e1,TSHEHLA,WIANN WIKUS,1948-08-15,Male,Latino,Medical,53 Clark street,Potchefstroom,North-West,0761193361,,Alliance-midmed,861488803,Plan E,Measles,0,0,0,0
+194809198580098,6f7787d7b9c07511142c842c04e60735,BOTHA,NADIA MARY,1948-09-19,Male,Latino,Government,82 Goetz straat,,,,,Compcare,856248040,Plan E,Ebola,0,0,0,0
+194809285375061,a3337e4f0e408b2ce01a763702f7b0c2,VAN NIEKERK,MARILETTE,1948-09-28,Male,Asian,Pathology,77 Totius straat,Pietermaritzburg,Kwazulu-Natal,0742863740,MARILETTE@gmail.com,,,,Cholera,0,0,0,0
+194810065085037,c74d77f0abec126d4f067e14cf2faa89,KLOPPERS,LANA ERNA,1948-10-06,Male,Latino,Pharmacists,64 Mosidi street,,,0735115563,LANA ERNA@gmail.com,,,,Covid-19,0,0,0,0
+194812095015078,eb8983a636c9cf520964f444991c75d9,MARX,HENRY,1948-12-09,Male,White ,Pharmacists,59 Pretorius straat,,,0777034609,HENRY@gmail.com,,,,Ebola,0,0,0,0
+194812109131064,78e80cb593c448a25a13212eb4694ddd,SWART,LIZE,1948-12-10,Male,White ,Pharmacists,84 Clark street,,,0767842445,LIZE@gmail.com,Profmed,627982235,Plan B,Dengue Fever,0,0,0,0
+194902212788027,1222a25459fdddf2d3f6dc1b60514025,GOUS,ANDRÉ GEORGE,1949-02-21,Female,Other,Patient,61 Clark street,Bloemfontein,Vrystaat,0806869879,ANDRÉ GEORGE@gmail.com,,,,Measles,0,0,0,0
+194903143584075,5e58a0afc1cc17faf8b0dc5fdb2e94de,ELIFAS,SENYO THATO,1949-03-14,Female,Indian,Pathology,21 Ross street,,,0810190881,SENYO THATO@gmail.com,,,,Rabies,0,0,0,0
+194903165007020,54bac677f7cedcfba91178e10e948bf8,RHEEDER,BANELE LUCKY,1949-03-16,Male,Indian,Pathology,2 Totius straat,,,0837085968,BANELE LUCKY@gmail.com,,,,Cholera,0,0,0,0
+194905172157057,ccebbd979b66291a53d92f7668f3b2c9,VISSER,JEANDRE FRANS,1949-05-17,Female,Latino,Government,97 James Moroka drive,,,0839612455,JEANDRE FRANS@gmail.com,,,,,0,0,0,0
+194906252464050,449d06f127bd243e58541b10fe5d14f2,SMITH,STEPHEN HOLLOWAY,1949-06-25,Female,Black,Government,3 Louwstraat,Bela-bela,Limpopo,0758012072,STEPHEN HOLLOWAY@gmail.com,Fish-med,661362131,Plan C,,0,0,0,0
+194908093453049,10f9ce62f956003192050274617ff8c5,LABUSCHAGNE,MARCO JOHANNES,1949-08-09,Female,American,Patient,22 Louwstraat,Bela-bela,Limpopo,0790098444,MARCO JOHANNES@gmail.com,,,,Covid-19,0,0,0,0
+194909034459042,80c22745100b712089ff0896333772e2,VAN TONDER,DANITA,1949-09-03,Female,Mixed-Race,Medical,90 Totius straat,Bela-bela,Limpopo,0812052832,DANITA@gmail.com,FedHealth,803187488,Plan A,Rabies,0,0,0,0
+194909224850017,843561eb47a810d179108c8fecd148a9,WALKER,ANDRIES JOHANNES,1949-09-22,Female,White ,Government,47 Spruit straat,,,0790438795,ANDRIES JOHANNES@gmail.com,Liberty,094785180,Plan E,Dengue Fever,0,0,0,0
+194911144507074,72f518ac3ae07ff3634309da4de8e76d,MEYER,PHENYO,1949-11-14,Female,Indian,Government,12 Jeppe street,Durban,Kwazulu-Natal,0827442405,PHENYO@gmail.com,,,,Rabies,0,0,0,0
+194912181778014,f76b751b80995af86d3b4a56f6d56a62,FORSYTH,HENDRIK PETRUS,1949-12-18,Female,Indian,Pharmacists,71 Goetz straat,Zeerust,North-West,0728971111,HENDRIK PETRUS@gmail.com,Medimed,544892353,Plan A,Dengue Fever,0,0,0,0
+195002014603098,ea27c5878cef3618806443f4398d8ebb,VAN DER MERWE,CHARL JUAN,1950-02-01,Female,Other,Pharmacists,94 Spruit straat,George,Western Cape,0776226283,,Medimed,619042138,Plan B,,0,0,0,0
+195002284234097,18c7353c63b67c2298162caf060c31db,DE VILLIERS,WIKUS,1950-02-28,Female,White ,Patient,78 Pitso street,Richardsbaai,Kwazulu-Natal,,WIKUS@gmail.com,,,,Covid-19,0,0,0,0
+195003229883091,6705d2d6ec50a1b9f1ffe1bbe2bb2a8f,LUUS,TERTIUS,1950-03-22,Male,Mixed-Race,Government,67 Totius straat,Upington,Northern Cape,0723155789,,,,,Measles,0,0,0,0
+195006059169032,e9f2ed07c7f69c283c709f894a534312,DLADLA,DAVID TIM,1950-06-05,Male,Asian,Medical,80 Pretorius straat,Krugersdorp,Gauteng,0820562856,DAVID TIM@gmail.com,,,,Ebola,0,0,0,0
+195006159431011,f39a152f2d181a4238c5dc0b741e68ae,RÖNTGEN,MAIAR MAMDUH MOSTAFA,1950-06-15,Male,Mixed-Race,Pharmacists,38 Louwstraat,Johannesburg,Gauteng,0821460765,MAIAR MAMDUH MOSTAFA@gmail.com,,,,Cholera,0,0,0,0
+195007054233081,46e0e326c665a06a3865d29a46df6ecb,VAN DEVENTER,WIAN,1950-07-05,Female,Other,Pharmacists,51 Kwena street,Rustenburg,North-West,0759663718,WIAN@gmail.com,,,,,0,0,0,0
+195008087138067,a8596e0820889f80f3b39878421246ea,VAN RHEEDE VAN OUDTSHOORN,LESHENDRA TONY,1950-08-08,Male,Asian,Government,56 Totius straat,Krugersdorp,Gauteng,0747389487,,,,,Ebola,0,0,0,0
+195009206907034,bebf7460ec5adba6bcf21724ec677063,PODGES,GJ,1950-09-20,Male,Asian,Medical,71 Mosidi street,,,0827845739,GJ@gmail.com,,,,Measles,0,0,0,0
+195011291099038,2de13695299503750d00087767e1bf9a,KOCK,LEON DIRK,1950-11-29,Female,Mixed-Race,Patient,93 Totius straat,Musina,Limpopo,0778507313,,,,,Measles,0,0,0,0
+195012317940054,f38422309bca5f4a25eddd7feaef44b0,KOTZE,FEZILE,1950-12-31,Male,Asian,Patient,50 Goetz straat,,,,FEZILE@gmail.com,,,,Measles,0,0,0,0
+195101095415049,6f7787d7b9c07511142c842c04e60735,BOTHA,THATO,1951-01-09,Male,Black,Pathology,18 Kwena street,,,0745902721,THATO@gmail.com,,,,,0,0,0,0
+195101264702075,1a87a751ca02a364334889be831b41fe,PIETERSE,FRANCOIS,1951-01-26,Female,Black,Patient,48 James Moroka drive,Johannesburg,Gauteng,0758447583,FRANCOIS@gmail.com,,,,Rabies,0,0,0,0
+195101285176016,32c3f4eca571927f313e5dba970bb278,NYAKUTSE,OFENTSE,1951-01-28,Male,Black,Pathology,37 Grimbeeck straat,Britstown,Northern Cape,,OFENTSE@gmail.com,,,,Dengue Fever,0,0,0,0
+195104172368095,20f20fcad20a61d46c6e7051b7d9c791,HOLLENBACH,CHARL JUAN,1951-04-17,Female,American,Government,45 Jeppe street,Nelspruit,Mpumalanga,0795307740,,,,,Dengue Fever,0,0,0,0
+195107032800033,6f7787d7b9c07511142c842c04e60735,BOTHA,JAN-DANIËL,1951-07-03,Female,Asian,Pathology,30 Pitso street,,,0749232036,JAN-DANIËL@gmail.com,,,,Cholera,0,0,0,0
+195112143072037,403f8005faed3076600349927802324d,HORAK,LEE-LYNN,1951-12-14,Female,Black,Patient,6 Mosidi street,Pretoria,Gauteng,,LEE-LYNN@gmail.com,CAMAF,274057119,Plan E,,0,0,0,0
+195201013802068,4a1ace8c8b993aa5ff7857064ddab7d1,VAN EEDEN,ANJA,1952-01-01,Female,Other,Pathology,58 James Moroka drive,Springbok,Northern Cape,0824205391,ANJA@gmail.com,,,,,0,0,0,0
+195203016433096,f38422309bca5f4a25eddd7feaef44b0,KOTZE,ARINA FACQUELINE,1952-03-01,Male,Asian,Patient,50 Goetz straat,Upington,Northern Cape,0827746541,ARINA FACQUELINE@gmail.com,,,,Measles,0,0,0,0
+195205084004039,9583a57cb3a8affe4e978892dbd9615a,BESTER,CHRISTIAAN CHRISTOFFEL,1952-05-08,Female,White ,Pharmacists,97 Pretorius straat,Potchefstroom,North-West,0726102022,CHRISTIAAN CHRISTOFFEL@gmail.com,,,,,0,0,0,0
+195206031586073,4356f971f02aa038350bf6e2af4faee7,CLOETE,FRANCISCUS JOHANNES,1952-06-03,Female,American,Medical,18 Kwena street,East London,Eastern Cape,0753753923,FRANCISCUS JOHANNES@gmail.com,,,,Measles,0,0,0,0
+195206189551017,b8117871f9bf72e0aad0f8576eaf1fb5,MOHAMED DAULATH,KRISTINE JOHANNA,1952-06-18,Male,Asian,Patient,35 Totius straat,,,0770759858,,,,,Ebola,0,0,0,0
+195207117479017,57af049efe357c60cb6b3d36240779cc,HUMAN,IAN JAMES,1952-07-11,Male,Asian,Government,97 Eleazer straat,Worcester,Western Cape,0773516016,IAN JAMES@gmail.com,,,,Ebola,0,0,0,0
+195208049203024,c4b514b2860e01d9a7c5c8a6390519f7,ALLAN,ABRIE ERNEST,1952-08-04,Male,Mixed-Race,Pathology,12 Pitso street,Pofadder,Northern Cape,0748827407,,SasolMed,950842001,Plan C,Ebola,0,0,0,0
+195211248106038,bb14f9f0bcba525e23800524f1c41c02,MUNNIK,EDRICH,1952-11-24,Male,Other,Patient,78 Pretorius straat,Port Shepstone,Kwazulu-Natal,,EDRICH@gmail.com,,,,Measles,0,0,0,0
+195302069240086,f76b751b80995af86d3b4a56f6d56a62,FORSYTH,MPHO-MPHO,1953-02-06,Male,Indian,Pharmacists,71 Goetz straat,,,0820388979,MPHO-MPHO@gmail.com,Medimed,544892353,Plan A,Dengue Fever,0,0,0,0
+195304024695053,6f7787d7b9c07511142c842c04e60735,BOTHA,DANIEL JACOBUS,1953-04-02,Female,Asian,Pathology,72 James Moroka drive,Vryburg,North-West,0727468573,DANIEL JACOBUS@gmail.com,Medimed,487624250,Plan D,,0,0,0,0
+195304182260051,1ffef13a69bf063f76bed8d7488b5dd9,GROENEWALD,ARINA FACQUELINE,1953-04-18,Female,Asian,Patient,44 Ross street,Randfontein,Gauteng,0744174413,ARINA FACQUELINE@gmail.com,,,,,0,0,0,0
+195307031520051,78e80cb593c448a25a13212eb4694ddd,SWART,HENRIETTE,1953-07-03,Female,Black,Pharmacists,95 Louwstraat,,,,HENRIETTE@gmail.com,,,,Cholera,0,0,0,0
+195307231864033,1a475083716d706859efdb4e0faf3aac,THOMSON,CORNELIUS FRANCOIS,1953-07-23,Female,Indian,Medical,11 Spruit straat,Kimberley,Northern Cape,0752125473,CORNELIUS FRANCOIS@gmail.com,,,,Dengue Fever,0,0,0,0
+195310198094096,43c3e2c3fba6997c6926fde346706d1d,BLIGNAUT,ELIAS GOITSEMODIMO,1953-10-19,Male,Black,Pharmacists,69 Grimbeeck straat,Mahikeng,North-West,0831439068,ELIAS GOITSEMODIMO@gmail.com,Discovery,096661006,Plan E,,0,0,0,0
+195311181664022,965bfaf578f3c798c0d2f1331dcccc45,DE LA HARPE,MEGAN,1953-11-18,Female,Black,Patient,36 Mosidi street,,,0789700367,MEGAN@gmail.com,FedHealth,364130153,Plan B,Covid-19,0,0,0,0
+195312069867025,df8c4228f96fe211961d78fd7cfe1c5f,WASSERMAN,ARINA FACQUELINE,1953-12-06,Male,Indian,Government,4 Spruit straat,Randfontein,Gauteng,0743585836,,,,,Cholera,0,0,0,0
+195312261353077,6f7787d7b9c07511142c842c04e60735,BOTHA,SCHUYLER,1953-12-26,Female,Other,Patient,22 James Moroka drive,,,0785013427,SCHUYLER@gmail.com,Genesis,479744891,Plan D,Measles,0,0,0,0
+195402202248026,8bc619bf16ab148059e5c72020d62ac8,SEKHUTE,DIAN,1954-02-20,Female,American,Patient,96 Grimbeeck straat,Kuruman,Northern Cape,0765881333,DIAN@gmail.com,,,,Ebola,0,0,0,0
+195406232228018,58b1d08ee84290cf62b89538fdda0137,VAN DER LINDE,CORLI,1954-06-23,Female,Mixed-Race,Medical,16 Albert Luthuli drive,Ulundi,Kwazulu-Natal,0750034549,CORLI@gmail.com,,,,Measles,0,0,0,0
+195408176764031,583b7af526c8880677f74982dcad85e1,STADLER,JACQUES GIDEON,1954-08-17,Male,Asian,Pharmacists,87 Totius straat,Zeerust,North-West,0824550350,JACQUES GIDEON@gmail.com,,,,Measles,0,0,0,0
+195410069900019,7b50409ab5413b8a42f2441b25f38862,BEUKE,DIMPHO,1954-10-06,Male,Latino,Patient,29 Mosidi street,Pietermaritzburg,Kwazulu-Natal,0763188124,DIMPHO@gmail.com,,,,Rabies,0,0,0,0
+195410304806035,b8af2ccdf02681c3332c7dcd8693c7bf,COETZEE,CHRISTIAAN GREISH,1954-10-30,Female,Indian,Pharmacists,48 Kwena street,Welkom,Vrystaat,0782175811,CHRISTIAAN GREISH@gmail.com,Genesis,802154302,Plan C,Dengue Fever,0,0,0,0
+195412143102058,72f518ac3ae07ff3634309da4de8e76d,MEYER,JOHANNES JACOBUS,1954-12-14,Female,Indian,Government,12 Jeppe street,,,0733589081,JOHANNES JACOBUS@gmail.com,,,,Rabies,0,0,0,0
+195501226633036,6f7787d7b9c07511142c842c04e60735,BOTHA,HENDRIK JOHANNES CHRISTOFFEL,1955-01-22,Male,White ,Government,21 Eleazer straat,Middelburg,Mpumalanga,0771823968,HENDRIK JOHANNES CHRISTOFFEL@gmail.com,SasolMed,572412705,Plan B,Measles,0,0,0,0
+195502212712075,3e151694da285b1cac40752b6731cab3,MALAN,HANDRO,1955-02-21,Female,Latino,Government,76 Mosidi street,,,,,SelfMed,620250454,Plan E,Covid-19,0,0,0,0
+195502217659075,aceac8575cf73684a0481e7727ec821e,KEYSER,RULEEN,1955-02-21,Male,Other,Patient,95 Mosidi street,,,,RULEEN@gmail.com,Discovery,632320659,Plan C,,0,0,0,0
+195504014984024,f66b4fa905fb2896f6b25b4b87f57c20,DE JAGER,RINUS JOHAN,1955-04-01,Female,Asian,Medical,67 Louwstraat,Port Shepstone,Kwazulu-Natal,0816470519,RINUS JOHAN@gmail.com,Commed,768288807,Plan C,Dengue Fever,0,0,0,0
+195508261764066,7e691e9a752a4732313e4551c4891026,GOOSEN,ERWIN ANDREAS,1955-08-26,Female,Latino,Medical,24 Mosidi street,Plokwane,Limpopo,0785421611,ERWIN ANDREAS@gmail.com,,,,Dengue Fever,0,0,0,0
+195509194923036,90ea6ca5e95f1ca9e0bad26d4cfc3e7b,BYLEVELDT,LOUISE CECELIA,1955-09-19,Female,Mixed-Race,Pathology,28 Louwstraat,Worcester,Western Cape,0760946085,,,,,,0,0,0,0
+195511284206080,46a30db39243336718fdd5deddfaf355,GERBER,ELIPHUS,1955-11-28,Female,Black,Government,68 Albert Luthuli drive,Durban,Kwazulu-Natal,0822357043,ELIPHUS@gmail.com,,,,Covid-19,0,0,0,0
+195512056434084,a85dea2937f53039735e4ddbdc65a9c9,BURGER,LUKE,1955-12-05,Male,Indian,Government,49 Clark street,,,0791045355,LUKE@gmail.com,,,,Covid-19,0,0,0,0
+195601241352024,4887c0483683f44a09673bd0c7927cf1,NEL,DINEO MARIA,1956-01-24,Female,Other,Pathology,66 Jeppe street,Bloemfontein,Vrystaat,,DINEO MARIA@gmail.com,,,,Dengue Fever,0,0,0,0
+195603023743012,fcd3c2fd3062dca63301b2e4150dab23,VISAGIE,DINETTE,1956-03-02,Female,Asian,Patient,4 Spruit straat,Potchefstroom,North-West,0759936425,,,,,Rabies,0,0,0,0
+195603153615048,156abcc351aba71adb63161e8880cb68,VORSTER,DINEO MARIA,1956-03-15,Female,White ,Government,74 Eleazer straat,,,0830491958,DINEO MARIA@gmail.com,,,,Dengue Fever,0,0,0,0
+195604097645012,10f9ce62f956003192050274617ff8c5,LABUSCHAGNE,CORNELIUS RUDOLPH,1956-04-09,Male,Mixed-Race,Pharmacists,82 Albert Luthuli drive,Welkom,Vrystaat,,CORNELIUS RUDOLPH@gmail.com,Bonitas,451817159,Plan A,Measles,0,0,0,0
+195605263131052,1a87a751ca02a364334889be831b41fe,PIETERSE,ANDRIES JACOBUS,1956-05-26,Female,Asian,Government,29 Spruit straat,Randfontein,Gauteng,0807286923,ANDRIES JACOBUS@gmail.com,,,,Rabies,0,0,0,0
+195606269259080,fcd3c2fd3062dca63301b2e4150dab23,VISAGIE,CHRISTIAAN,1956-06-26,Male,Black,Patient,25 Pitso street,Beaufort West,Western Cape,0809393949,CHRISTIAAN@gmail.com,,,,Measles,0,0,0,0
+195608271559043,78e80cb593c448a25a13212eb4694ddd,SWART,LEON DIRK,1956-08-27,Female,White ,Government,36 Eleazer straat,Bethlehem,Vrystaat,0753578896,LEON DIRK@gmail.com,Barloworld medical,478185450,Plan B,Dengue Fever,0,0,0,0
+195608298553038,cd43bf65b6047a83c4cc44c82962fb24,WINKELMANN,DEVAN,1956-08-29,Male,Latino,Pharmacists,33 Kwena street,Pofadder,Northern Cape,0744593732,DEVAN@gmail.com,,,,,0,0,0,0
+195609254667038,be5996236c66d268d2517c3e788010a5,LOUW,THABO,1956-09-25,Female,White ,Medical,99 Albert Luthuli drive,Ulundi,Kwazulu-Natal,0810840478,THABO@gmail.com,,,,,0,0,0,0
+195612225961043,15cfb6effe1318d4bcab055e9133fbb7,SMIT,SCHALK,1956-12-22,Male,Indian,Pharmacists,39 Pretorius straat,Mahikeng,North-West,0742208972,SCHALK@gmail.com,,,,,0,0,0,0
+195702023385052,6ae7f5d1c0db67d43b94f8141d66df63,SCHUTTE,THABISO,1957-02-02,Female,Latino,Pharmacists,71 Jeppe street,Bela-bela,Limpopo,0738501554,THABISO@gmail.com,SelfMed,131657086,Plan E,Covid-19,0,0,0,0
+195702244162059,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,ROELOF STEPHANUS,1957-02-24,Female,American,Government,85 Ross street,,,0794228677,,,,,Rabies,0,0,0,0
+195703043037067,78e80cb593c448a25a13212eb4694ddd,SWART,SEVANNAH DANELL,1957-03-04,Female,Mixed-Race,Pharmacists,55 Kwena street,Ulundi,Kwazulu-Natal,0836209056,SEVANNAH DANELL@gmail.com,,,,Cholera,0,0,0,0
+195703064649085,3ce493283b944aef48809bded2cad172,SELOGILWE,DANIEL JOHANNES,1957-03-06,Female,Black,Pathology,93 Louwstraat,,,,DANIEL JOHANNES@gmail.com,,,,Ebola,0,0,0,0
+195703124389027,48bcf3d44084d524c72e1e405c175e89,VAN DYK,CHARL JUAN,1957-03-12,Female,Mixed-Race,Pharmacists,42 Mosidi street,Pofadder,Northern Cape,0749039096,CHARL JUAN@gmail.com,,,,Measles,0,0,0,0
+195705247895020,c74d77f0abec126d4f067e14cf2faa89,KLOPPERS,FRANCISCUS JOHANNES,1957-05-24,Male,Asian,Patient,87 Mosidi street,,,0776209316,FRANCISCUS JOHANNES@gmail.com,,,,,0,0,0,0
+195706244294015,2f84aa21de7cf3b0b2466019ae762e74,MAREE,JOHAN,1957-06-24,Female,White ,Pathology,38 Grimbeeck straat,Worcester,Western Cape,0802538631,,,,,,0,0,0,0
+195708075714067,32c3f4eca571927f313e5dba970bb278,NYAKUTSE,MICHAEL IAN,1957-08-07,Male,Indian,Patient,40 Spruit straat,Zeerust,North-West,0728928800,MICHAEL IAN@gmail.com,,,,Ebola,0,0,0,0
+195709191861035,a3337e4f0e408b2ce01a763702f7b0c2,VAN NIEKERK,REINHARDT REGARDT,1957-09-19,Female,Mixed-Race,Pharmacists,74 Mosidi street,George,Western Cape,,REINHARDT REGARDT@gmail.com,,,,Ebola,0,0,0,0
+195709201113089,8b5b069b54b94e64688aaeb51642b4ff,VAN DER WALT,RUDINÉ,1957-09-20,Female,Other,Pharmacists,63 Totius straat,,,,RUDINÉ@gmail.com,Momentum,368439239,Plan E,,0,0,0,0
+195709267078063,e65975e3ba4fd77e70b7150f0987d4af,MOKGOSI,DIRK JOHANNES,1957-09-26,Male,Mixed-Race,Pathology,28 Jeppe street,,,0735547461,DIRK JOHANNES@gmail.com,,,,Covid-19,0,0,0,0
+195710191705090,c86b311682b3f5dea1caa088d4439686,MOSETLHA,JACO GERHARDUS,1957-10-19,Female,Asian,Medical,93 Spruit straat,,,0808192156,JACO GERHARDUS@gmail.com,,,,,0,0,0,0
+195711013437049,f744de98af09f83067f2e69f68fb64eb,CONRADIE,HENDRIK WILLEM,1957-11-01,Female,Indian,Pathology,93 Jeppe street,Cape Town,Western Cape,0793252271,,Anglo medical,061362914,Plan B,Rabies,0,0,0,0
+195711173522044,7db0aa32a36073e91c709ba124eacb15,WINTERSHOVEN,ERIC PAUL,1957-11-17,Female,Mixed-Race,Government,15 Goetz straat,,,0805077697,ERIC PAUL@gmail.com,,,,,0,0,0,0
+195802214817038,27a043ac69b70f6c0ac0cf458fe47ccd,CHANGWARA,ESTELLE,1958-02-21,Female,Asian,Government,75 James Moroka drive,Middelburg,Mpumalanga,,ESTELLE@gmail.com,MedShield,986213146,Plan A,Rabies,0,0,0,0
+195805119725068,6baa07f638cb3b1b26eed6225db767d3,GREYLING,LEE-LYNN,1958-05-11,Male,Indian,Pharmacists,48 Pitso street,Cape Town,Western Cape,0769741575,LEE-LYNN@gmail.com,,,,Cholera,0,0,0,0
+195807164174049,a918cbcb4200c8321b7a7690879e0a95,JACOBS,JACQUES,1958-07-16,Female,Mixed-Race,Government,33 Louwstraat,,,0769979031,,,,,,0,0,0,0
+195809143901066,5ed8d8f8b4e79deb74fca7f58abb2661,STOLS,PAUL JACOBUS,1958-09-14,Female,Indian,Pathology,46 Pitso street,Britstown,Northern Cape,0795900771,PAUL JACOBUS@gmail.com,,,,Ebola,0,0,0,0
+195810053247061,8b5b069b54b94e64688aaeb51642b4ff,VAN DER WALT,JUANITA,1958-10-05,Female,Other,Patient,75 Louwstraat,,,0732422821,JUANITA@gmail.com,,,,,0,0,0,0
+195811082284083,a8596e0820889f80f3b39878421246ea,VAN RHEEDE VAN OUDTSHOORN,ARMAND MENSAUW,1958-11-08,Female,Black,Medical,33 Goetz straat,Pretoria,Gauteng,0795580481,ARMAND MENSAUW@gmail.com,Momentum,467186877,Plan C,Dengue Fever,0,0,0,0
+195812276154089,b8117871f9bf72e0aad0f8576eaf1fb5,MOHAMED DAULATH,THABO,1958-12-27,Male,Latino,Government,94 James Moroka drive,Kuruman,Northern Cape,0740139036,,,,,Ebola,0,0,0,0
+195812309708063,da4e6f54e76577ac6e4762f2704d5ab8,ARNOLDI,WILLEM JACOBUS PETRUS,1958-12-30,Male,Latino,Pathology,72 Albert Luthuli drive,Randfontein,Gauteng,0727773387,WILLEM JACOBUS PETRUS@gmail.com,,,,,0,0,0,0
+195901059142032,3e151694da285b1cac40752b6731cab3,MALAN,JACQUES GIDEON,1959-01-05,Male,Mixed-Race,Government,42 Jeppe street,Klerksdorp,North-West,0735497110,JACQUES GIDEON@gmail.com,SelfMed,813436884,Plan C,Covid-19,0,0,0,0
+195903075143022,1a475083716d706859efdb4e0faf3aac,THOMSON,ABRAHAM JACOBUS,1959-03-07,Male,Other,Pharmacists,59 Pretorius straat,Bela-bela,Limpopo,0780903449,,,,,Dengue Fever,0,0,0,0
+195903174435071,9583a57cb3a8affe4e978892dbd9615a,BESTER,CHRISTOFF,1959-03-17,Female,Indian,Patient,89 Pretorius straat,Middelburg,Mpumalanga,,,,,,Covid-19,0,0,0,0
+195904242977027,b7a5c126a12cae270ac10399b32e63af,WEAKLEY,FARAI,1959-04-24,Female,Mixed-Race,Government,7 Spruit straat,,,0733333532,FARAI@gmail.com,,,,Measles,0,0,0,0
+195906042984093,f744de98af09f83067f2e69f68fb64eb,CONRADIE,SUNE,1959-06-04,Female,Asian,Pathology,57 Jeppe street,Rustenburg,North-West,0787449263,SUNE@gmail.com,Commed,014281492,Plan B,Dengue Fever,0,0,0,0
+195907065214025,ea27c5878cef3618806443f4398d8ebb,VAN DER MERWE,ARINA FACQUELINE,1959-07-06,Male,Indian,Patient,37 Jeppe street,,,0812695971,ARINA FACQUELINE@gmail.com,,,,Dengue Fever,0,0,0,0
+195907225718093,ea27c5878cef3618806443f4398d8ebb,VAN DER MERWE,CHRISTIAAN,1959-07-22,Male,White ,Pathology,64 Maphongo street,Nelspruit,Mpumalanga,0811900671,CHRISTIAAN@gmail.com,,,,Covid-19,0,0,0,0
+195909208337048,be5996236c66d268d2517c3e788010a5,LOUW,KEOTSHEPILE,1959-09-20,Male,Indian,Medical,7 Pretorius straat,Nelspruit,Mpumalanga,0721637543,KEOTSHEPILE@gmail.com,Pharos,623718072,Plan D,,0,0,0,0
+195910092003093,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,JEANDRÉ,1959-10-09,Female,White ,Government,86 Spruit straat,Welkom,Vrystaat,0796347234,,CAMAF,969347713,Plan A,,0,0,0,0
+195911189196032,0c57254b271c446e47186c94a5cde7fc,MONAISA,MEGHAN,1959-11-18,Male,Latino,Medical,54 Albert Luthuli drive,Middelburg,Mpumalanga,0831649147,,Pharos,034703760,Plan C,,0,0,0,0
+195911299466032,3cef6a20642592a9ad4bac6d0d09722f,SHARP,MINNEKE,1959-11-29,Male,Indian,Pharmacists,81 James Moroka drive,,,0739584638,MINNEKE@gmail.com,,,,Covid-19,0,0,0,0
+196003212644045,38b76774174c7de6ae0aae1f1a217fd3,MARIRI,RUAN PIETER,1960-03-21,Female,American,Pharmacists,38 Pretorius straat,Middelburg,Mpumalanga,0780447020,RUAN PIETER@gmail.com,SelfMed,318690001,Plan A,,0,0,0,0
+196004251265021,595eb747565e85d531de75828e954538,DE KOCK,FHULUFHEDZANI CHRISTOPHER,1960-04-25,Female,Black,Pharmacists,21 Ross street,,,0796961335,FHULUFHEDZANI CHRISTOPHER@gmail.com,,,,Rabies,0,0,0,0
+196005051228031,62c8be3101a8741cba5e80a675e1e24b,VAN ZYL,RUAN,1960-05-05,Female,Black,Patient,6 Kwena street,Potchefstroom,North-West,0727727127,RUAN@gmail.com,Bonitas,664847381,Plan A,Cholera,0,0,0,0
+196006194217087,5c59f1052c7e518992275e05ccbd9f3e,CORNELIUS,ALMERI ZURIKA,1960-06-19,Female,American,Patient,95 Maphongo street,Kimberley,Northern Cape,0834902810,ALMERI ZURIKA@gmail.com,,,,Measles,0,0,0,0
+196007297340024,48bcf3d44084d524c72e1e405c175e89,VAN DYK,TSEPO SAMUEL,1960-07-29,Male,Indian,Pharmacists,49 Pitso street,Bloemfontein,Vrystaat,0785879878,TSEPO SAMUEL@gmail.com,Keyhealth,886669461,Plan B,Cholera,0,0,0,0
+196010142007071,b1287ef18d7dd25ad9e6e0e05f85b288,DU TOIT,ANDREA,1960-10-14,Female,Other,Medical,47 James Moroka drive,Kimberley,Northern Cape,0751634742,ANDREA@gmail.com,,,,Dengue Fever,0,0,0,0
+196011091416063,80861297e5c8f33469f55fc10f2b3fcf,MYBURGH,JACOBA MAGRIETHA,1960-11-09,Female,Black,Patient,4 Pitso street,Klerksdorp,North-West,,,,,,Ebola,0,0,0,0
+196012214095044,8bc619bf16ab148059e5c72020d62ac8,SEKHUTE,SIBONISO,1960-12-21,Female,Other,Medical,3 Spruit straat,Zeerust,North-West,0796708871,,Barloworld medical,052771028,Plan C,Measles,0,0,0,0
+196103125917075,c8a2c1bd2655c9f46d08cad521973894,BEUKES,MARIUS LUCAS,1961-03-12,Male,Black,Pharmacists,52 Totius straat,Mosselbaai,Western Cape,0779623053,,,,,Ebola,0,0,0,0
+196104172840042,b391365c0257a745110cd9e5bace2e3f,SPENCER,WILLEM FREDERIK,1961-04-17,Female,Latino,Patient,33 Pitso street,Bela-bela,Limpopo,0767798539,WILLEM FREDERIK@gmail.com,,,,Covid-19,0,0,0,0
+196104186797082,a8596e0820889f80f3b39878421246ea,VAN RHEEDE VAN OUDTSHOORN,RUBEN WILLEM,1961-04-18,Male,Asian,Pathology,21 Spruit straat,,,0831889970,RUBEN WILLEM@gmail.com,,,,Cholera,0,0,0,0
+196104188174023,eb8983a636c9cf520964f444991c75d9,MARX,ALMERI ZURIKA,1961-04-18,Male,White ,Pharmacists,59 Pretorius straat,Klerksdorp,North-West,0759901375,,,,,Ebola,0,0,0,0
+196104289832016,ccebbd979b66291a53d92f7668f3b2c9,VISSER,CHINEAD,1961-04-28,Male,Latino,Government,97 James Moroka drive,Beaufort West,Western Cape,0755984883,CHINEAD@gmail.com,,,,,0,0,0,0
+196106159246078,dd5f0b01b490d1fca01938e1a8015078,MAROPOLA,RENIER NICOLAAS,1961-06-15,Male,Black,Pathology,80 Goetz straat,Ulundi,Kwazulu-Natal,0813782749,RENIER NICOLAAS@gmail.com,,,,Cholera,0,0,0,0
+196106264778070,ce46e92cdc256a2740dcf44a74090dde,SEAKHOA,CARLA,1961-06-26,Female,Black,Medical,10 Pretorius straat,,,0742698557,,,,,Rabies,0,0,0,0
+196107162452018,8b5b069b54b94e64688aaeb51642b4ff,VAN DER WALT,HANDRÉ AUBERY,1961-07-16,Female,Other,Pharmacists,63 Totius straat,Krugersdorp,Gauteng,0826248169,HANDRÉ AUBERY@gmail.com,Momentum,368439239,Plan E,,0,0,0,0
+196108015395027,4887c0483683f44a09673bd0c7927cf1,NEL,GERNOT WILFRID,1961-08-01,Male,Indian,Government,82 Albert Luthuli drive,Mosselbaai,Western Cape,0757688624,GERNOT WILFRID@gmail.com,,,,Dengue Fever,0,0,0,0
+196111289557089,ea27c5878cef3618806443f4398d8ebb,VAN DER MERWE,CATJA,1961-11-28,Male,Latino,Medical,71 Maphongo street,Ermelo,Mpumalanga,0781824446,CATJA@gmail.com,,,,Ebola,0,0,0,0
+196112151915020,35fa9ffcf66142e7eb81dfb30ee06ba9,SMALL,SCHUYLER,1961-12-15,Female,Latino,Medical,100 Clark street,Rustenburg,North-West,0774999387,SCHUYLER@gmail.com,Genesis,596631955,Plan E,Covid-19,0,0,0,0
+196112173099032,df8c4228f96fe211961d78fd7cfe1c5f,WASSERMAN,CORNE,1961-12-17,Female,Asian,Pharmacists,94 Goetz straat,,,0836689444,CORNE@gmail.com,,,,,0,0,0,0
+196202031697047,5e58a0afc1cc17faf8b0dc5fdb2e94de,ELIFAS,EDWARD MOLAPISI,1962-02-03,Female,Indian,Pathology,21 Ross street,,,0781145348,EDWARD MOLAPISI@gmail.com,,,,Rabies,0,0,0,0
+196205125313098,de3bbbaff3630e63eafad7155963aed1,MATIBIDI,RENIER NICOLAAS,1962-05-12,Male,Asian,Pathology,70 Louwstraat,Kimberley,Northern Cape,0784256342,,,,,,0,0,0,0
+196208231674073,83ef1ee03f5fcf78a21ee8c89b253aa4,SEROALO,NICOLE LUISE,1962-08-23,Female,Black,Pathology,5 Grimbeeck straat,Pretoria,Gauteng,0763257591,NICOLE LUISE@gmail.com,,,,Measles,0,0,0,0
+196208303637015,76e9a9b6564ed4b715f9342ca01c5276,GROBBELAAR,MARELIZE,1962-08-30,Female,American,Patient,17 Goetz straat,Pretoria,Gauteng,0725274849,MARELIZE@gmail.com,Profmed,408080644,Plan E,Cholera,0,0,0,0
+196209116584056,6baa07f638cb3b1b26eed6225db767d3,GREYLING,PASEKA PADRICK,1962-09-11,Male,Mixed-Race,Medical,22 Jeppe street,Bela-bela,Limpopo,0824443468,,Bankmed,623429664,Plan B,Cholera,0,0,0,0
+196209232023035,c86e522b2ef8c7715cd1a2e60085d821,RANKIN,LIZE,1962-09-23,Female,Mixed-Race,Pharmacists,23 Eleazer straat,Welkom,Vrystaat,0731450752,LIZE@gmail.com,,,,Ebola,0,0,0,0
+196210132242091,46e0e326c665a06a3865d29a46df6ecb,VAN DEVENTER,OBIJAR,1962-10-13,Female,Mixed-Race,Medical,62 Spruit straat,Worcester,Western Cape,0784327473,OBIJAR@gmail.com,,,,Ebola,0,0,0,0
+196210202132097,62c8be3101a8741cba5e80a675e1e24b,VAN ZYL,SIPHIWE SIPHO,1962-10-20,Female,Black,Patient,6 Kwena street,,,0805949215,SIPHIWE SIPHO@gmail.com,Bonitas,664847381,Plan A,Cholera,0,0,0,0
+196212278112089,b7317b50693bac59880346cfb7d051ee,JOUBERT,HENDRIK WILLEM,1962-12-27,Male,Latino,Pathology,77 Goetz straat,Ulundi,Kwazulu-Natal,0766249093,,,,,Rabies,0,0,0,0
+196212309152057,1ea4c1e2d6619c03f3a59a7c6666724e,VAN JAARSVELDT,LANA ERNA,1962-12-30,Male,Asian,Government,79 Albert Luthuli drive,,,,LANA ERNA@gmail.com,,,,Measles,0,0,0,0
+196305068104024,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,NICO DAWID,1963-05-06,Male,American,Pathology,15 Albert Luthuli drive,Mosselbaai,Western Cape,0750763476,NICO DAWID@gmail.com,SasolMed,039339353,Plan A,,0,0,0,0
+196305072440056,10f9ce62f956003192050274617ff8c5,LABUSCHAGNE,STEFAN,1963-05-07,Female,Mixed-Race,Pharmacists,82 Albert Luthuli drive,,,0790434741,,Bonitas,451817159,Plan A,Measles,0,0,0,0
+196306202165080,a056521bb1e65f922097182bab70e7a3,SEREO,JACOBUS,1963-06-20,Female,Latino,Government,33 Goetz straat,,,0764917090,JACOBUS@gmail.com,,,,Measles,0,0,0,0
+196308175865096,e9f2ed07c7f69c283c709f894a534312,DLADLA,BONGO BOKOA,1963-08-17,Male,Asian,Patient,31 Totius straat,Rustenburg,North-West,0799884152,BONGO BOKOA@gmail.com,SelfMed,681822146,Plan C,Measles,0,0,0,0
+196308303773080,3168ad59e7dd6c3d2ca39563e7c9b0bc,MABASO,SELLO,1963-08-30,Female,Other,Patient,19 Goetz straat,Middelburg,Mpumalanga,0733367773,SELLO@gmail.com,CAMAF,843372180,Plan A,Covid-19,0,0,0,0
+196401105093026,476e79eac51c8d4368fab077d1a90d75,WARREN,CORNELIUS RUDOLPH,1964-01-10,Male,Latino,Pathology,79 Pretorius straat,Kuruman,Northern Cape,,CORNELIUS RUDOLPH@gmail.com,Genesis,457799657,Plan C,Dengue Fever,0,0,0,0
+196402022727085,da14c4500bbafc6efb51bad295244933,STRUWIG,CHRISTIAAN JACOBUS,1964-02-02,Female,Black,Medical,24 Eleazer straat,Port Shepstone,Kwazulu-Natal,0738934986,CHRISTIAAN JACOBUS@gmail.com,,,,Rabies,0,0,0,0
+196402085358068,62c8be3101a8741cba5e80a675e1e24b,VAN ZYL,HANDRÉ AUBERY,1964-02-08,Male,American,Medical,83 Spruit straat,,,0805220579,HANDRÉ AUBERY@gmail.com,,,,Measles,0,0,0,0
+196403132676089,6e91212e254deb83fac5165ded7c084f,OLIVIER,CHARLES PETER,1964-03-13,Female,Indian,Medical,23 Maphongo street,Kimberley,Northern Cape,0754479922,CHARLES PETER@gmail.com,,,,Measles,0,0,0,0
+196404066581040,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,FREDERIK JACOBUS,1964-04-06,Male,Mixed-Race,Medical,12 Ross street,,,,,Alliance-midmed,709935149,Plan B,Cholera,0,0,0,0
+196404182673057,0bce9fc12ad0b929848b2085b96db023,NAUDÉ,HOPEWELL,1964-04-18,Female,Latino,Pharmacists,3 Grimbeeck straat,Britstown,Northern Cape,0760079279,HOPEWELL@gmail.com,,,,,0,0,0,0
+196405126706049,0170d2b5cb2477245f08ce6d27c3ee25,GREEFF,TRISTEN,1964-05-12,Male,Black,Medical,100 Grimbeeck straat,Kuruman,Northern Cape,0830395037,TRISTEN@gmail.com,Bonitas,383959750,Plan D,Ebola,0,0,0,0
+196405202908065,56cd487ca69b345f2b1f658537203607,VAN DEN BERG,VIDA-MARIÉ,1964-05-20,Female,Indian,Government,74 Pretorius straat,Welkom,Vrystaat,,VIDA-MARIÉ@gmail.com,,,,Rabies,0,0,0,0
+196406132018063,e9f2ed07c7f69c283c709f894a534312,DLADLA,GIDEON NOETH,1964-06-13,Female,Asian,Patient,31 Totius straat,,,0802580885,,SelfMed,681822146,Plan C,Measles,0,0,0,0
+196406203378081,583b7af526c8880677f74982dcad85e1,STADLER,JOHANNES JOACHIM,1964-06-20,Female,Black,Government,72 Totius straat,,,0811812953,JOHANNES JOACHIM@gmail.com,,,,,0,0,0,0
+196406209327091,4887c0483683f44a09673bd0c7927cf1,NEL,BEA,1964-06-20,Male,Other,Government,38 James Moroka drive,Kuruman,Northern Cape,,,Alliance-midmed,781648886,Plan E,Rabies,0,0,0,0
+196410019668028,85aa7de9a9ac807f6294cc5b2abc79cf,BARNARD,LLEWELLYN,1964-10-01,Male,Latino,Pathology,55 Maphongo street,Richardsbaai,Kwazulu-Natal,,LLEWELLYN@gmail.com,,,,Measles,0,0,0,0
+196410317266055,af4de4c1479b0f3a5f7477c3d86d1e38,MATUMBA,LAMBERT HENDRIK,1964-10-31,Male,Asian,Pathology,20 Jeppe street,,,0755607122,LAMBERT HENDRIK@gmail.com,,,,Rabies,0,0,0,0
+196411196462039,c1ccade21aa920089b6a30fcbf4de9bd,AFRICA,PHILLIP,1964-11-19,Male,Black,Pathology,81 Louwstraat,Springbok,Northern Cape,0799583517,PHILLIP@gmail.com,Cape medical plan,415540392,Plan C,Rabies,0,0,0,0
+196501166088069,3168ad59e7dd6c3d2ca39563e7c9b0bc,MABASO,LEHANDRI,1965-01-16,Male,Mixed-Race,Patient,93 Clark street,Potchefstroom,North-West,0807097978,LEHANDRI@gmail.com,,,,Measles,0,0,0,0
+196504141894070,6e91212e254deb83fac5165ded7c084f,OLIVIER,PIETER WILLEM,1965-04-14,Female,Mixed-Race,Patient,40 Pitso street,Mosselbaai,Western Cape,,PIETER WILLEM@gmail.com,,,,,0,0,0,0
+196505272881030,83f0f2567929ffdeacf54c7bd74eaab8,MOKHASINYANE,JAN ERASMUS,1965-05-27,Female,Black,Medical,63 Pitso street,Plokwane,Limpopo,0757207110,JAN ERASMUS@gmail.com,Liberty Health,962600469,Plan B,Ebola,0,0,0,0
+196506052204058,83f0f2567929ffdeacf54c7bd74eaab8,MOKHASINYANE,PEARL-ANN,1965-06-05,Female,White ,Pharmacists,3 Ross street,Hanover,Northern Cape,0786065811,PEARL-ANN@gmail.com,Keyhealth,308278559,Plan C,,0,0,0,0
+196507047996060,20f20fcad20a61d46c6e7051b7d9c791,HOLLENBACH,PIETER WILLEM,1965-07-04,Male,Black,Pharmacists,29 Pretorius straat,Plokwane,Limpopo,0739633462,PIETER WILLEM@gmail.com,,,,Dengue Fever,0,0,0,0
+196508292317090,449d06f127bd243e58541b10fe5d14f2,SMITH,TOMAS PANDULENI,1965-08-29,Female,Latino,Pathology,55 Maphongo street,Bethlehem,Vrystaat,0756043916,TOMAS PANDULENI@gmail.com,,,,,0,0,0,0
+196510084802067,bb14f9f0bcba525e23800524f1c41c02,MUNNIK,KARABO GLADYS,1965-10-08,Female,White ,Pharmacists,40 Spruit straat,Johannesburg,Gauteng,,,Cape medical plan,525350761,Plan A,Cholera,0,0,0,0
+196510094317069,51c469a0c52a149fe645080f2a68fa1c,MASWANGANYI,WOUTER,1965-10-09,Female,Indian,Medical,4 Ross street,Hanover,Northern Cape,0787674027,WOUTER@gmail.com,,,,,0,0,0,0
+196601211973032,6e91212e254deb83fac5165ded7c084f,OLIVIER,JOHN ANTON,1966-01-21,Female,Other,Government,5 Mosidi street,,,0750741867,JOHN ANTON@gmail.com,,,,Ebola,0,0,0,0
+196602239222090,b8af2ccdf02681c3332c7dcd8693c7bf,COETZEE,MICHAEL IAN,1966-02-23,Male,American,Pharmacists,57 Albert Luthuli drive,Mosselbaai,Western Cape,0816241281,MICHAEL IAN@gmail.com,,,,Rabies,0,0,0,0
+196604079574049,8fbf0f9bfcec4fb9d4db1f8c31fd3979,EHLERS,KARABO GLADYS,1966-04-07,Male,American,Patient,11 Kwena street,Randfontein,Gauteng,0796962228,,Alliance-midmed,632864365,Plan E,,0,0,0,0
+196605277736015,c1ccade21aa920089b6a30fcbf4de9bd,AFRICA,ADRIAAN JACOBUS THEODORUS,1966-05-27,Male,White ,Pathology,27 Ross street,Mahikeng,North-West,0739087095,ADRIAAN JACOBUS THEODORUS@gmail.com,,,,Dengue Fever,0,0,0,0
+196606293383048,57e3c48091a7897d91eadde3dd3de4bf,KRUGER,WIKUS,1966-06-29,Female,Mixed-Race,Pharmacists,39 Jeppe street,Vryburg,North-West,0782070715,WIKUS@gmail.com,,,,Ebola,0,0,0,0
+196607093755088,b1287ef18d7dd25ad9e6e0e05f85b288,DU TOIT,XANDER CAROLUS,1966-07-09,Female,Black,Government,64 Totius straat,Mahikeng,North-West,0788317916,,,,,Measles,0,0,0,0
+196607252161037,8f81513d42cfe62bf451553f640fb682,BEESLAAR,JEANDRE FRANS,1966-07-25,Female,Other,Pharmacists,24 Maphongo street,Pietermaritzburg,Kwazulu-Natal,0819125968,,,,,Covid-19,0,0,0,0
+196609018766028,ea27c5878cef3618806443f4398d8ebb,VAN DER MERWE,GARRETT JOSHUA,1966-09-01,Male,Other,Medical,9 Maphongo street,Vryburg,North-West,,GARRETT JOSHUA@gmail.com,,,,,0,0,0,0
+196609049923042,5c49cf3bf6a5819135de34d329d5d00f,SCHOLTZ,HENDRIK JOHANNES CHRISTOFFEL,1966-09-04,Male,Asian,Government,93 Goetz straat,Bethlehem,Vrystaat,0802520449,,,,,,0,0,0,0
+196611178669066,595eb747565e85d531de75828e954538,DE KOCK,XANDER CAROLUS,1966-11-17,Male,White ,Government,62 Jeppe street,Upington,Northern Cape,0829352361,XANDER CAROLUS@gmail.com,FedHealth,683785165,Plan D,Rabies,0,0,0,0
+196611242378017,1ea4c1e2d6619c03f3a59a7c6666724e,VAN JAARSVELDT,THABO,1966-11-24,Female,Asian,Government,79 Albert Luthuli drive,,,0816696760,THABO@gmail.com,,,,Measles,0,0,0,0
+196702076494094,da14c4500bbafc6efb51bad295244933,STRUWIG,RENIER NICOLAAS,1967-02-07,Male,Other,Government,25 Grimbeeck straat,Durban,Kwazulu-Natal,0839706034,RENIER NICOLAAS@gmail.com,,,,Ebola,0,0,0,0
+196704092270065,ccebbd979b66291a53d92f7668f3b2c9,VISSER,CHINEAD,1967-04-09,Female,Latino,Government,82 James Moroka drive,Welkom,Vrystaat,0754591848,,,,,Dengue Fever,0,0,0,0
+196706078614049,33cbb5c14c2f185169bad8f9932102b2,ELLIS,MULLER SAMUAL,1967-06-07,Male,Black,Pathology,75 Spruit straat,Cape Town,Western Cape,0779866502,MULLER SAMUAL@gmail.com,Cape medical plan,000409226,Plan E,Covid-19,0,0,0,0
+196708169359082,1ed2af096b50be59a14883c11d72240f,ESTERHUYSE,TRISTAN MICHIEL,1967-08-16,Male,Latino,Patient,12 Goetz straat,Randfontein,Gauteng,0820787329,,,,,Dengue Fever,0,0,0,0
+196710267240012,af4de4c1479b0f3a5f7477c3d86d1e38,MATUMBA,DAWID JACOBUS,1967-10-26,Male,White ,Pharmacists,53 Ross street,Richardsbaai,Kwazulu-Natal,0811425052,DAWID JACOBUS@gmail.com,SelfMed,557599943,Plan E,Rabies,0,0,0,0
+196711017481045,a85dea2937f53039735e4ddbdc65a9c9,BURGER,NICOLAAS JOHANNES LOUW,1967-11-01,Male,White ,Patient,38 Pitso street,Worcester,Western Cape,0838671828,NICOLAAS JOHANNES LOUW@gmail.com,CAMAF,820824403,Plan E,Measles,0,0,0,0
+196712103800081,4e76bbc12f447f9496ec1aa883b53364,STRYDOM,PIETER LUDWIG,1967-12-10,Female,Latino,Pathology,52 Ross street,Hanover,Northern Cape,0835389278,,,,,Dengue Fever,0,0,0,0
+196801264136067,a193533cd876d7f412e9674c227999cf,VAN ONSELEN,ETHAN QUINTUS,1968-01-26,Female,Indian,Patient,63 Eleazer straat,Richardsbaai,Kwazulu-Natal,,,,,,Measles,0,0,0,0
+196805085843085,76e9a9b6564ed4b715f9342ca01c5276,GROBBELAAR,REGINALD BREYTON,1968-05-08,Male,American,Patient,17 Goetz straat,,,0727823337,REGINALD BREYTON@gmail.com,Profmed,408080644,Plan E,Cholera,0,0,0,0
+196805181925018,ed188ec59ea206d31ce6f016d4c340c0,MEIRING,JACQUES FRANCOIS,1968-05-18,Female,Other,Medical,15 Clark street,Ermelo,Mpumalanga,0754937993,JACQUES FRANCOIS@gmail.com,,,,Cholera,0,0,0,0
+196805244599070,9b7c4cb620d9403e59c02336fea52c96,BOTMA,MARCO CORNELIUS,1968-05-24,Female,Mixed-Race,Pharmacists,40 Jeppe street,Plokwane,Limpopo,,MARCO CORNELIUS@gmail.com,Pharos,836069917,Plan D,Covid-19,0,0,0,0
+196806293724050,e65975e3ba4fd77e70b7150f0987d4af,MOKGOSI,RENIER NICOLAAS,1968-06-29,Female,Mixed-Race,Pathology,28 Jeppe street,,,0756681573,RENIER NICOLAAS@gmail.com,,,,Covid-19,0,0,0,0
+196807268679035,38b4a62c541e83538404c069d6b626bd,AHMED,MACKAY LAIRD,1968-07-26,Male,Other,Pharmacists,63 Maphongo street,Bela-bela,Limpopo,0754871140,MACKAY LAIRD@gmail.com,,,,,0,0,0,0
+196807279318065,4bbf5885bb0a624aa19dad6fdbb5cd8c,DE VRIES,ABRIE ERNEST,1968-07-27,Male,White ,Pharmacists,30 Clark street,,,0817669889,ABRIE ERNEST@gmail.com,,,,Cholera,0,0,0,0
+196807297203078,e9f2ed07c7f69c283c709f894a534312,DLADLA,HENDRIK WILLEM NICOLAAS,1968-07-29,Male,Mixed-Race,Government,49 Ross street,Nelspruit,Mpumalanga,0741240492,HENDRIK WILLEM NICOLAAS@gmail.com,,,,Dengue Fever,0,0,0,0
+196811255165031,ecfe500782a76c9b883a2873342e022a,ELOFF,RETHABILE EMMANUEL,1968-11-25,Male,White ,Government,24 Spruit straat,Springbok,Northern Cape,,,Liberty,343466257,Plan E,Cholera,0,0,0,0
+196812066279053,81b5f74021c613e4ddeee163a799f9a1,NKHWASHU,HANNO JOUBERT,1968-12-06,Male,Other,Pharmacists,38 Pretorius straat,,,0794907003,,,,,Dengue Fever,0,0,0,0
+196812183245038,dc4bcb9fa7ea0883700d37d6dec57cde,MOTSATSE,CHRISTIAAN JACOBUS,1968-12-18,Female,American,Pharmacists,68 Maphongo street,,,0819394043,CHRISTIAAN JACOBUS@gmail.com,,,,Cholera,0,0,0,0
+196902215471032,da4e6f54e76577ac6e4762f2704d5ab8,ARNOLDI,PIETER STEPHANUS,1969-02-21,Male,Latino,Pathology,72 Albert Luthuli drive,,,0838572808,PIETER STEPHANUS@gmail.com,,,,,0,0,0,0
+196907184489050,1ed2af096b50be59a14883c11d72240f,ESTERHUYSE,ARIADNE HELENE,1969-07-18,Female,Indian,Government,18 Pitso street,Bethlehem,Vrystaat,0793389101,,Liberty Health,796928644,Plan C,Rabies,0,0,0,0
+196907301482014,eddb7d4e1ca5f770f508e2401a507c13,VAN DER WESTHUIZEN,JANCO STEFAN,1969-07-30,Female,Mixed-Race,Pharmacists,77 Goetz straat,Kroonstad,Vrystaat,0816695420,,,,,,0,0,0,0
+196908101423051,b4a1893d010c63a484130e7dbc648454,OTTO,DANIKA,1969-08-10,Female,Mixed-Race,Medical,38 Clark street,,,0750017216,DANIKA@gmail.com,,,,,0,0,0,0
+196908112549019,420d18dfa7ed2e84c0987e21f52a5284,BOWLES,CHRISTIAAN JACOBUS,1969-08-11,Female,Asian,Pharmacists,8 Totius straat,,,,CHRISTIAAN JACOBUS@gmail.com,Medihelp,624150207,Plan E,Cholera,0,0,0,0
+196908235172079,46a30db39243336718fdd5deddfaf355,GERBER,DIRK,1969-08-23,Male,Asian,Pharmacists,10 Mosidi street,Port Elizabeth,Eastern Cape,0745852039,DIRK@gmail.com,,,,Cholera,0,0,0,0
+196910091160038,c8a2c1bd2655c9f46d08cad521973894,BEUKES,LEANDER,1969-10-09,Female,American,Pathology,89 Ross street,Pofadder,Northern Cape,0750755870,LEANDER@gmail.com,Genesis,290102312,Plan D,Measles,0,0,0,0
+196910225599046,c74d77f0abec126d4f067e14cf2faa89,KLOPPERS,THABO,1969-10-22,Male,Black,Government,4 Clark street,Plokwane,Limpopo,0814356222,,,,,,0,0,0,0
+196911036103071,f7b9bd4e1a1505fe5abc4cc79d43c31d,MOTHOBI,ZANELE,1969-11-03,Male,American,Patient,50 Pretorius straat,,,0755075034,ZANELE@gmail.com,,,,Measles,0,0,0,0
+197003133059011,b71faea208ee1b9fe732beb3d3360fad,STREICHER,NYELETI AMUKELANI,1970-03-13,Female,Black,Pharmacists,98 Jeppe street,Springbok,Northern Cape,0793591523,NYELETI AMUKELANI@gmail.com,,,,Covid-19,0,0,0,0
+197004231674038,a89fb5644d85e5a93a27c0c9083b2d0f,DE WAAL,ANDREW JOHN,1970-04-23,Female,Mixed-Race,Patient,73 Pitso street,,,0803268206,ANDREW JOHN@gmail.com,Momentum,266099434,Plan B,Dengue Fever,0,0,0,0
+197006017982064,ea27c5878cef3618806443f4398d8ebb,VAN DER MERWE,DAVID SIMBARASHE,1970-06-01,Male,Latino,Medical,35 Mosidi street,,,0817899534,DAVID SIMBARASHE@gmail.com,,,,,0,0,0,0
+197007316403017,dbc58f7d44245b4788753d76a33bd624,NAUDE,JACQUES,1970-07-31,Male,Other,Patient,37 Maphongo street,,,0808491194,JACQUES@gmail.com,CAMAF,243029125,Plan D,,0,0,0,0
+197009039653082,50cbdb7d158714f31eccfdf296a5e536,DE REUCK,FRANCOIS,1970-09-03,Male,Asian,Medical,41 Goetz straat,Ulundi,Kwazulu-Natal,0743479416,FRANCOIS@gmail.com,,,,Measles,0,0,0,0
+197011185239048,80861297e5c8f33469f55fc10f2b3fcf,MYBURGH,LUKE,1970-11-18,Male,Latino,Pharmacists,38 Mosidi street,Richardsbaai,Kwazulu-Natal,0780155654,LUKE@gmail.com,,,,,0,0,0,0
+197012068355059,f062feecbafbeeed2b9bb9b95af9b603,FREY,ENRICO,1970-12-06,Male,Other,Pharmacists,46 Grimbeeck straat,Pofadder,Northern Cape,0824061906,ENRICO@gmail.com,,,,Cholera,0,0,0,0
+197012221311023,da14c4500bbafc6efb51bad295244933,STRUWIG,OLWAM LESEDI KHAYA,1970-12-22,Female,Mixed-Race,Government,21 Pretorius straat,,,0728393581,OLWAM LESEDI KHAYA@gmail.com,,,,Ebola,0,0,0,0
+197101038252035,2806bb1996e561485fd4a8009fe89107,PIEK,DARCIO,1971-01-03,Male,White ,Pharmacists,41 Kwena street,Krugersdorp,Gauteng,0752336198,DARCIO@gmail.com,Medihelp,391716215,Plan B,,0,0,0,0
+197105126176033,b7a5c126a12cae270ac10399b32e63af,WEAKLEY,JAN ERASMUS,1971-05-12,Male,Mixed-Race,Government,7 Spruit straat,,,0797259395,JAN ERASMUS@gmail.com,,,,Measles,0,0,0,0
+197105271306021,f7b9bd4e1a1505fe5abc4cc79d43c31d,MOTHOBI,PIETER WILLEM,1971-05-27,Female,American,Patient,50 Pretorius straat,,,0805402092,PIETER WILLEM@gmail.com,,,,Measles,0,0,0,0
+197107257505049,3ce493283b944aef48809bded2cad172,SELOGILWE,BANELE LUCKY,1971-07-25,Male,Black,Pathology,93 Louwstraat,Richardsbaai,Kwazulu-Natal,0738993962,BANELE LUCKY@gmail.com,,,,Ebola,0,0,0,0
+197108044159086,c6e4dae67a88545edaed102ff0c4eba9,MADALANE,ADRIAAN,1971-08-04,Female,Black,Pathology,20 Goetz straat,Britstown,Northern Cape,0838706615,ADRIAAN@gmail.com,CAMAF,498767965,Plan D,,0,0,0,0
+197109094891036,85e77664d148fe8e1af677ccbc695f90,VAN ROOYEN,LOUWRENS MARTHINUS,1971-09-09,Female,Asian,Patient,7 Grimbeeck straat,Klerksdorp,North-West,0729292267,LOUWRENS MARTHINUS@gmail.com,Liberty Health,488635924,Plan B,Cholera,0,0,0,0
+197202036269095,843561eb47a810d179108c8fecd148a9,WALKER,XANDER,1972-02-03,Male,Indian,Medical,55 Mosidi street,,,0824104545,XANDER@gmail.com,Compcare,921619838,Plan B,Rabies,0,0,0,0
+197204227798041,aef0f01c38315a1c1d2970173a3d1649,HAVENGA,WERNICH,1972-04-22,Male,Latino,Patient,30 Jeppe street,Port Shepstone,Kwazulu-Natal,0760066118,WERNICH@gmail.com,,,,Measles,0,0,0,0
+197205254281029,6e91212e254deb83fac5165ded7c084f,OLIVIER,PHETOGO,1972-05-25,Female,Other,Government,5 Mosidi street,Klerksdorp,North-West,0816353010,PHETOGO@gmail.com,,,,Ebola,0,0,0,0
+197208016702061,583b7af526c8880677f74982dcad85e1,STADLER,CLAUDIA,1972-08-01,Male,Black,Government,72 Totius straat,,,0798108015,CLAUDIA@gmail.com,,,,,0,0,0,0
+197208024899040,fcd3c2fd3062dca63301b2e4150dab23,VISAGIE,DAVID STEPHANUS,1972-08-02,Female,Black,Government,17 Jeppe street,Britstown,Northern Cape,0741650076,DAVID STEPHANUS@gmail.com,,,,Rabies,0,0,0,0
+197209014180083,965bfaf578f3c798c0d2f1331dcccc45,DE LA HARPE,WILLIE NICO,1972-09-01,Female,Black,Patient,36 Mosidi street,Plokwane,Limpopo,0822445006,WILLIE NICO@gmail.com,FedHealth,364130153,Plan B,Covid-19,0,0,0,0
+197211285533064,47f26733f7b58c7938a136641ca9883e,SCHULTZ,GARRETT JOSHUA,1972-11-28,Male,American,Government,38 Spruit straat,Nelspruit,Mpumalanga,0778026467,,,,,,0,0,0,0
+197211309365038,d9b31c6e38a5797d75ce18015432459a,OBISI,DWAYNE,1972-11-30,Male,Asian,Medical,95 Mosidi street,,,0773266220,DWAYNE@gmail.com,,,,Cholera,0,0,0,0
+197212097610021,a0500a5621305db6ea0d0c28f9a29555,SIDWELL,INGE,1972-12-09,Male,Mixed-Race,Pathology,63 Pitso street,Krugersdorp,Gauteng,0831222224,INGE@gmail.com,,,,Ebola,0,0,0,0
+197301014537038,583b7af526c8880677f74982dcad85e1,STADLER,NOKO ELVIS,1973-01-01,Female,Black,Government,72 Totius straat,Zeerust,North-West,,,,,,,0,0,0,0
+197301203427060,62c8be3101a8741cba5e80a675e1e24b,VAN ZYL,ARIADNE HELENE,1973-01-20,Female,Other,Pharmacists,40 Jeppe street,Kuruman,Northern Cape,0827408736,ARIADNE HELENE@gmail.com,,,,Covid-19,0,0,0,0
+197302233493025,ea27c5878cef3618806443f4398d8ebb,VAN DER MERWE,MARYNA,1973-02-23,Female,Latino,Medical,35 Mosidi street,Klerksdorp,North-West,0777246755,MARYNA@gmail.com,,,,,0,0,0,0
+197302278565014,8bc619bf16ab148059e5c72020d62ac8,SEKHUTE,CARLA,1973-02-27,Male,Indian,Pharmacists,80 Albert Luthuli drive,Zeerust,North-West,0732257114,CARLA@gmail.com,,,,Rabies,0,0,0,0
+197304178026046,58b1d08ee84290cf62b89538fdda0137,VAN DER LINDE,NANET,1973-04-17,Male,Mixed-Race,Medical,16 Albert Luthuli drive,,,,NANET@gmail.com,,,,Measles,0,0,0,0
+197307022238085,80e533604efb3c3072fd300dc4205f10,MARUPING,COERT JACOBUS MULLER,1973-07-02,Female,Asian,Medical,80 Kwena street,,,0762862040,,,,,Measles,0,0,0,0
+197310296871017,1a87a751ca02a364334889be831b41fe,PIETERSE,GUDANI JUSTICE,1973-10-29,Male,Asian,Patient,54 Clark street,,,0824332462,GUDANI JUSTICE@gmail.com,,,,Covid-19,0,0,0,0
+197310308490091,ccebbd979b66291a53d92f7668f3b2c9,VISSER,WILLEM JOHANNES,1973-10-30,Male,Mixed-Race,Patient,49 Pitso street,Port Elizabeth,Eastern Cape,0806478498,WILLEM JOHANNES@gmail.com,,,,Cholera,0,0,0,0
+197311045893024,2de13695299503750d00087767e1bf9a,KOCK,SEAN CAREW,1973-11-04,Male,Asian,Pathology,73 Albert Luthuli drive,Potchefstroom,North-West,0802315241,SEAN CAREW@gmail.com,,,,Ebola,0,0,0,0
+197311273470089,eb8983a636c9cf520964f444991c75d9,MARX,RINUS JOHAN,1973-11-27,Female,Mixed-Race,Pharmacists,15 Louwstraat,George,Western Cape,,,,,,,0,0,0,0
+197401093399083,1ea4c1e2d6619c03f3a59a7c6666724e,VAN JAARSVELDT,JACO,1974-01-09,Female,Latino,Patient,26 Jeppe street,,,0737316941,JACO@gmail.com,Genesis,122903074,Plan B,Cholera,0,0,0,0
+197401298519040,5c59f1052c7e518992275e05ccbd9f3e,CORNELIUS,DARREN,1974-01-29,Male,Black,Pharmacists,35 Mosidi street,Welkom,Vrystaat,0755500856,DARREN@gmail.com,,,,,0,0,0,0
+197403025064080,4d78862a759acb8e6567552cdce9a54e,MAPHETO,MORGAN,1974-03-02,Male,Black,Pharmacists,93 James Moroka drive,Ulundi,Kwazulu-Natal,0737123521,,,,,Dengue Fever,0,0,0,0
+197403056688021,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,MEGHAN,1974-03-05,Male,Mixed-Race,Pharmacists,89 Goetz straat,Durban,Kwazulu-Natal,0780066618,MEGHAN@gmail.com,,,,Dengue Fever,0,0,0,0
+197403252825094,515a53bbc188bd57bc47250cfb159da6,JORDAAN,NIEL,1974-03-25,Female,Latino,Medical,7 Eleazer straat,Potchefstroom,North-West,0747130568,NIEL@gmail.com,,,,Dengue Fever,0,0,0,0
+197404043926083,50cbdb7d158714f31eccfdf296a5e536,DE REUCK,JACOBA MAGRIETHA,1974-04-04,Female,Asian,Medical,41 Goetz straat,,,0758067471,,,,,Measles,0,0,0,0
+197406214417091,390bd05648a6a27ccd50238dc18fbe80,GELDENHUYS,ERWIN ANDREAS,1974-06-21,Female,Indian,Patient,46 Grimbeeck straat,,,0762195115,ERWIN ANDREAS@gmail.com,,,,Rabies,0,0,0,0
+197408136799065,23639f1070045159fb60fd659e061023,VAN SCHALKWYK,MICHAEL RICHARD,1974-08-13,Male,Latino,Patient,63 Grimbeeck straat,,,0758928723,MICHAEL RICHARD@gmail.com,,,,Cholera,0,0,0,0
+197409067396084,3e151694da285b1cac40752b6731cab3,MALAN,LESIBA THOMAS,1974-09-06,Male,American,Pathology,55 James Moroka drive,Randfontein,Gauteng,0831419644,LESIBA THOMAS@gmail.com,,,,Ebola,0,0,0,0
+197411188493068,b8af2ccdf02681c3332c7dcd8693c7bf,COETZEE,MITCHELL,1974-11-18,Male,Other,Government,53 Ross street,Kimberley,Northern Cape,0766153884,MITCHELL@gmail.com,,,,Dengue Fever,0,0,0,0
+197412231401097,15539a3da074eb6989eeee1130102c4d,BALOYI,ERHARD FREDERIK,1974-12-23,Female,Latino,Patient,67 Ross street,Kuruman,Northern Cape,0747254283,,,,,Rabies,0,0,0,0
+197501171917068,3f84d88cf544ced285aaadf11df68cae,JANSEN VAN VUUREN,MICHAEL ERNEST,1975-01-17,Female,Asian,Pharmacists,18 Goetz straat,,,0831282178,MICHAEL ERNEST@gmail.com,,,,Rabies,0,0,0,0
+197504141783076,1ea4c1e2d6619c03f3a59a7c6666724e,VAN JAARSVELDT,SBONGILE,1975-04-14,Female,Asian,Government,79 Albert Luthuli drive,,,0834439461,SBONGILE@gmail.com,,,,Measles,0,0,0,0
+197504158396059,46e0e326c665a06a3865d29a46df6ecb,VAN DEVENTER,ERHARD FREDERIK,1975-04-15,Male,Mixed-Race,Government,4 Kwena street,,,0793236945,ERHARD FREDERIK@gmail.com,,,,Dengue Fever,0,0,0,0
+197504248885094,1ed2af096b50be59a14883c11d72240f,ESTERHUYSE,MEGAN,1975-04-24,Male,Asian,Pathology,85 Grimbeeck straat,Johannesburg,Gauteng,0741811702,MEGAN@gmail.com,Momentum,776617141,Plan E,Cholera,0,0,0,0
+197510134192084,92c207d9cbac46db886752c290550869,LANGEVELDT,ALBERTUS,1975-10-13,Female,American,Pathology,22 Jeppe street,Rustenburg,North-West,,ALBERTUS@gmail.com,Keyhealth,920261608,Plan A,Rabies,0,0,0,0
+197510136133053,595eb747565e85d531de75828e954538,DE KOCK,FHULUFHEDZANI CHRISTOPHER,1975-10-13,Male,Black,Pharmacists,21 Ross street,Hanover,Northern Cape,0769342503,FHULUFHEDZANI CHRISTOPHER@gmail.com,,,,Rabies,0,0,0,0
+197511077571042,0b4e3b7b816c8243fe7c731933828981,COETZER,KAELO REMMOGO,1975-11-07,Male,White ,Pathology,50 Totius straat,,,0742962828,KAELO REMMOGO@gmail.com,FedHealth,530300127,Plan B,Ebola,0,0,0,0
+197512038195023,7b7172d6e0be22e2851eb7ab3bbf4c82,KOEKEMOER,DIRK,1975-12-03,Male,Indian,Government,26 Pretorius straat,,,0744973863,,,,,Measles,0,0,0,0
+197512135911099,0a0d0ed9f7d873410c5dab5f514685e0,KLOPPER,ANJA,1975-12-13,Male,Black,Pharmacists,39 Kwena street,,,0725116091,,Liberty,421762764,Plan E,Rabies,0,0,0,0
+197603296839037,83ef1ee03f5fcf78a21ee8c89b253aa4,SEROALO,XANDER,1976-03-29,Male,Indian,Government,14 Pretorius straat,Krugersdorp,Gauteng,0755122377,XANDER@gmail.com,MedShield,614536334,Plan A,,0,0,0,0
+197604159840090,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,FRANCOIS JOHANNES SAREL,1976-04-15,Male,Mixed-Race,Patient,7 Spruit straat,,,0725694327,FRANCOIS JOHANNES SAREL@gmail.com,,,,Cholera,0,0,0,0
+197604232899063,bf924cdda782b84023253b125596a7e6,MCGEER,JACQUES,1976-04-23,Female,Black,Patient,20 Pretorius straat,Durban,Kwazulu-Natal,0741345789,JACQUES@gmail.com,Liberty Health,235725738,Plan C,Measles,0,0,0,0
+197608081711085,46e0e326c665a06a3865d29a46df6ecb,VAN DEVENTER,ABRAHAM JOHANNES,1976-08-08,Female,Black,Pharmacists,51 Ross street,,,0745282274,,,,,Dengue Fever,0,0,0,0
+197609128254064,3cef6a20642592a9ad4bac6d0d09722f,SHARP,BRETT KEVIN,1976-09-12,Male,Indian,Pharmacists,81 James Moroka drive,,,,BRETT KEVIN@gmail.com,,,,Covid-19,0,0,0,0
+197610035485014,fd739067cd4a78d2b1459819bc41501c,KHUMALO,MARIUS JACOBUS,1976-10-03,Male,Latino,Pathology,67 Louwstraat,Richardsbaai,Kwazulu-Natal,0790980138,MARIUS JACOBUS@gmail.com,,,,Cholera,0,0,0,0
+197610223458028,af4de4c1479b0f3a5f7477c3d86d1e38,MATUMBA,DAMIAN COLE,1976-10-22,Female,Asian,Pathology,20 Jeppe street,,,0821551469,DAMIAN COLE@gmail.com,,,,Rabies,0,0,0,0
+197611103232039,46e0e326c665a06a3865d29a46df6ecb,VAN DEVENTER,CARLA,1976-11-10,Female,Indian,Pathology,79 Grimbeeck straat,Pietermaritzburg,Kwazulu-Natal,0810685273,CARLA@gmail.com,,,,,0,0,0,0
+197701116530075,b1287ef18d7dd25ad9e6e0e05f85b288,DU TOIT,JACOBA MAGRIETHA,1977-01-11,Male,White ,Pharmacists,96 Maphongo street,,,0786207670,JACOBA MAGRIETHA@gmail.com,Anglo medical,242252255,Plan A,Rabies,0,0,0,0
+197702279319064,712713e067f952f809f439a56a03b401,POGGENPOEL,MARCO CORNELIUS,1977-02-27,Male,White ,Pharmacists,28 Jeppe street,Musina,Limpopo,0793288415,MARCO CORNELIUS@gmail.com,,,,Cholera,0,0,0,0
+197706222996099,7e691e9a752a4732313e4551c4891026,GOOSEN,PIETER LUDWIG,1977-06-22,Female,Black,Pathology,80 Louwstraat,Mahikeng,North-West,,PIETER LUDWIG@gmail.com,,,,,0,0,0,0
+197710261467097,57af049efe357c60cb6b3d36240779cc,HUMAN,MARIUS LUCAS,1977-10-26,Female,Mixed-Race,Patient,35 Pitso street,Kuruman,Northern Cape,,MARIUS LUCAS@gmail.com,Medihelp,178132585,Plan B,Dengue Fever,0,0,0,0
+197711081334050,b8af2ccdf02681c3332c7dcd8693c7bf,COETZEE,SEVANNAH DANELL,1977-11-08,Female,Other,Government,53 Ross street,,,0828278924,SEVANNAH DANELL@gmail.com,,,,Dengue Fever,0,0,0,0
+197711288884023,dbc58f7d44245b4788753d76a33bd624,NAUDE,PHILIPPUS STEFANUS,1977-11-28,Male,Other,Patient,37 Maphongo street,,,0795718008,PHILIPPUS STEFANUS@gmail.com,CAMAF,243029125,Plan D,,0,0,0,0
+197801027388083,843561eb47a810d179108c8fecd148a9,WALKER,ANÉ,1978-01-02,Male,Indian,Medical,55 Mosidi street,,,0736771932,ANÉ@gmail.com,Compcare,921619838,Plan B,Rabies,0,0,0,0
+197801185382090,46e0e326c665a06a3865d29a46df6ecb,VAN DEVENTER,JUSTIN PAUL MICHAEL,1978-01-18,Male,Black,Pharmacists,51 Ross street,,,0816942555,JUSTIN PAUL MICHAEL@gmail.com,,,,Dengue Fever,0,0,0,0
+197802075319018,1ea4c1e2d6619c03f3a59a7c6666724e,VAN JAARSVELDT,GIDEON JOHANNES JACOBUS,1978-02-07,Male,Latino,Patient,26 Jeppe street,,,0751451290,GIDEON JOHANNES JACOBUS@gmail.com,Genesis,122903074,Plan B,Cholera,0,0,0,0
+197804026114025,47f26733f7b58c7938a136641ca9883e,SCHULTZ,THOMAS JOHN,1978-04-02,Male,Other,Medical,36 Ross street,Ulundi,Kwazulu-Natal,,THOMAS JOHN@gmail.com,,,,Dengue Fever,0,0,0,0
+197809093128061,c770bbbaf33956e3809338ada378fe80,PRINSLOO,AKABONGWE SIBUSISO JUNIOR,1978-09-09,Female,Other,Pharmacists,53 Jeppe street,Kroonstad,Vrystaat,0773949875,AKABONGWE SIBUSISO JUNIOR@gmail.com,,,,Dengue Fever,0,0,0,0
+197809275147060,2be57c2b4460ad832e9dbee76db6f1b4,OOSTHUIZEN,MARIE-TINKA,1978-09-27,Male,White ,Pathology,3 Kwena street,,,0781673051,MARIE-TINKA@gmail.com,,,,Cholera,0,0,0,0
+197902246386039,8932728d89a8a714804fb497da1eba0b,WIID,EDRICH,1979-02-24,Male,Latino,Pharmacists,39 James Moroka drive,Kimberley,Northern Cape,0802144816,EDRICH@gmail.com,,,,Covid-19,0,0,0,0
+197902284676081,6e91212e254deb83fac5165ded7c084f,OLIVIER,JACQUES,1979-02-28,Female,Other,Patient,16 Maphongo street,,,0730065297,,,,,,0,0,0,0
+197904048476075,be5996236c66d268d2517c3e788010a5,LOUW,ANÉ,1979-04-04,Male,Asian,Government,62 Mosidi street,Durban,Kwazulu-Natal,0807644284,ANÉ@gmail.com,,,,Measles,0,0,0,0
+197904116825096,1222a25459fdddf2d3f6dc1b60514025,GOUS,IAN,1979-04-11,Male,American,Pathology,32 James Moroka drive,Middelburg,Mpumalanga,0783280049,IAN@gmail.com,,,,Rabies,0,0,0,0
+197904238635053,ea27c5878cef3618806443f4398d8ebb,VAN DER MERWE,JUSTICE,1979-04-23,Male,Indian,Patient,37 Jeppe street,Richardsbaai,Kwazulu-Natal,,JUSTICE@gmail.com,,,,Dengue Fever,0,0,0,0
+197904287995076,6e91212e254deb83fac5165ded7c084f,OLIVIER,STEVE,1979-04-28,Male,Latino,Medical,7 Pretorius straat,Pofadder,Northern Cape,0777344877,STEVE@gmail.com,,,,,0,0,0,0
+197909078959023,6f7787d7b9c07511142c842c04e60735,BOTHA,NOKO ELVIS,1979-09-07,Male,Latino,Government,82 Goetz straat,,,,NOKO ELVIS@gmail.com,Compcare,856248040,Plan E,Ebola,0,0,0,0
+197911116408084,54bac677f7cedcfba91178e10e948bf8,RHEEDER,PETRUS CORNELIUS,1979-11-11,Male,Indian,Pathology,2 Totius straat,Hanover,Northern Cape,0726160986,PETRUS CORNELIUS@gmail.com,,,,Cholera,0,0,0,0
+198001239243090,85c3eb64c2f8460e7cef687561dc8f57,JANSE VAN RENSBURG,HUGO,1980-01-23,Male,Black,Patient,95 Ross street,,,0781420179,,Liberty Health,220552636,Plan D,Rabies,0,0,0,0
+198004245776020,e320f45a989e4ead44caaca2a8258036,RAPHALALANI,PHILIPPUS JACOBUS,1980-04-24,Male,Indian,Government,45 Eleazer straat,Worcester,Western Cape,0740925093,PHILIPPUS JACOBUS@gmail.com,,,,Ebola,0,0,0,0
+198007263012044,eb8983a636c9cf520964f444991c75d9,MARX,ADRIAAN JACOBUS THEODORUS,1980-07-26,Female,Black,Pharmacists,92 Jeppe street,,,0815188999,ADRIAAN JACOBUS THEODORUS@gmail.com,,,,Dengue Fever,0,0,0,0
+198008173852034,447aa9932bff6043cd1db94da291db72,LE ROUX,RUAN,1980-08-17,Female,Latino,Pharmacists,9 Spruit straat,,,0759164159,,Fish-med,590155342,Plan D,Dengue Fever,0,0,0,0
+198009112929010,85c3eb64c2f8460e7cef687561dc8f57,JANSE VAN RENSBURG,IAN,1980-09-11,Female,White ,Patient,59 Louwstraat,,,0771252910,IAN@gmail.com,,,,Rabies,0,0,0,0
+198009277898061,ce46e92cdc256a2740dcf44a74090dde,SEAKHOA,BRONWYN,1980-09-27,Male,Black,Medical,10 Pretorius straat,,,,BRONWYN@gmail.com,,,,Rabies,0,0,0,0
+198010261768027,447aa9932bff6043cd1db94da291db72,LE ROUX,STEFANIE,1980-10-26,Female,Latino,Pharmacists,9 Spruit straat,Britstown,Northern Cape,,STEFANIE@gmail.com,Fish-med,590155342,Plan D,Dengue Fever,0,0,0,0
+198011112432090,d9b31c6e38a5797d75ce18015432459a,OBISI,NERENE,1980-11-11,Female,Asian,Medical,95 Mosidi street,Kimberley,Northern Cape,0768502986,,,,,Cholera,0,0,0,0
+198012183100078,6e91212e254deb83fac5165ded7c084f,OLIVIER,MARINUS,1980-12-18,Female,Indian,Medical,23 Maphongo street,,,0748069807,MARINUS@gmail.com,,,,Measles,0,0,0,0
+198103216229072,32e0e006c3ef44ee038ac21816171df1,VERMAAK,CHRISTIAAN JACOBUS,1981-03-21,Male,American,Pharmacists,55 Goetz straat,Musina,Limpopo,0745693130,CHRISTIAAN JACOBUS@gmail.com,SelfMed,479680038,Plan E,,0,0,0,0
+198105019806071,447aa9932bff6043cd1db94da291db72,LE ROUX,COENRAAD JACOBUS,1981-05-01,Male,Asian,Patient,32 Kwena street,George,Western Cape,0821230541,COENRAAD JACOBUS@gmail.com,CAMAF,200956370,Plan C,Covid-19,0,0,0,0
+198105205388051,16ad46588a68e860e1e1f3796c8831e6,KRIEK,JANÉ ELIZE,1981-05-20,Male,Asian,Pathology,7 Ross street,Klerksdorp,North-West,0779149301,JANÉ ELIZE@gmail.com,,,,,0,0,0,0
+198107308981026,454b581e0f3f2011b07cbd3fafab71d0,BORNMAN,CHARLES REINHART,1981-07-30,Male,Indian,Patient,43 Pretorius straat,Bloemfontein,Vrystaat,0750307181,CHARLES REINHART@gmail.com,,,,Ebola,0,0,0,0
+198108109982045,bebf7460ec5adba6bcf21724ec677063,PODGES,MIKA,1981-08-10,Male,Other,Pharmacists,38 Totius straat,Plokwane,Limpopo,0740773209,MIKA@gmail.com,,,,,0,0,0,0
+198110042200095,1a6f7ceef06a15b0479463dc7d9e290b,CHAMBERS,STEPHANUS HELGAARDT,1981-10-04,Female,Latino,Pathology,56 Maphongo street,,,0807191981,,Compcare,311213583,Plan D,Cholera,0,0,0,0
+198111052741037,843561eb47a810d179108c8fecd148a9,WALKER,LEON JOHAN,1981-11-05,Female,Asian,Pathology,74 Grimbeeck straat,Krugersdorp,Gauteng,0790129203,,,,,Cholera,0,0,0,0
+198111065409059,9405eb9ed99b5e6f7a13860776dc78e1,TSHEHLA,MARCO CORNELIUS,1981-11-06,Male,Asian,Pathology,99 Pitso street,Pretoria,Gauteng,0791828076,MARCO CORNELIUS@gmail.com,FedHealth,496162578,Plan C,Covid-19,0,0,0,0
+198112229116085,4a4c8fda6142717b67b9fe6831427fc5,BRITZ,RYNO,1981-12-22,Male,Mixed-Race,Pharmacists,79 Kwena street,,,0742525619,RYNO@gmail.com,,,,Rabies,0,0,0,0
+198201213676090,1a6f7ceef06a15b0479463dc7d9e290b,CHAMBERS,JOHAN CHRISTIAAN,1982-01-21,Female,Asian,Government,1 Albert Luthuli drive,,,,JOHAN CHRISTIAAN@gmail.com,Bonitas,488923359,Plan D,Covid-19,0,0,0,0
+198202063637097,1db648c85615d34475c30e6a1b269eae,HOLTZHAUSEN,STEFAN,1982-02-06,Female,White ,Medical,2 Jeppe street,,,0794617808,,,,,,0,0,0,0
+198204227517022,204deaa6013413ba37a765f6884a5c2e,GRIESEL,ZANDER,1982-04-22,Male,Asian,Patient,61 Louwstraat,Durban,Kwazulu-Natal,0829472756,ZANDER@gmail.com,,,,Rabies,0,0,0,0
+198206043778040,1db648c85615d34475c30e6a1b269eae,HOLTZHAUSEN,MICHAEL ERNEST,1982-06-04,Female,White ,Medical,2 Jeppe street,Port Shepstone,Kwazulu-Natal,0835070510,MICHAEL ERNEST@gmail.com,,,,,0,0,0,0
+198206093728036,d8c7ba952787d28d8cc473f50f946896,FLEISCHMANN,DYLAN,1982-06-09,Female,Black,Pharmacists,63 Maphongo street,Welkom,Vrystaat,0771806107,DYLAN@gmail.com,,,,,0,0,0,0
+198206283076058,ccebbd979b66291a53d92f7668f3b2c9,VISSER,LEON DIRK,1982-06-28,Female,Latino,Government,82 James Moroka drive,,,0802285857,LEON DIRK@gmail.com,,,,Dengue Fever,0,0,0,0
+198208267173052,df8c4228f96fe211961d78fd7cfe1c5f,WASSERMAN,LLEWELLYN,1982-08-26,Male,Asian,Pharmacists,94 Goetz straat,Mosselbaai,Western Cape,,LLEWELLYN@gmail.com,,,,,0,0,0,0
+198212304614096,c86b311682b3f5dea1caa088d4439686,MOSETLHA,STEFAN,1982-12-30,Female,Asian,Medical,93 Spruit straat,,,0793135825,STEFAN@gmail.com,,,,,0,0,0,0
+198305286489054,ce46e92cdc256a2740dcf44a74090dde,SEAKHOA,SEAN CAREW,1983-05-28,Male,Black,Medical,10 Pretorius straat,Middelburg,Mpumalanga,0813991460,SEAN CAREW@gmail.com,,,,Rabies,0,0,0,0
+198306094981039,da14c4500bbafc6efb51bad295244933,STRUWIG,MOROAKGADI KERATILWE,1983-06-09,Female,American,Pharmacists,67 Totius straat,Hanover,Northern Cape,0743113211,,Pharos,447377376,Plan C,,0,0,0,0
+198306192829056,3f84d88cf544ced285aaadf11df68cae,JANSEN VAN VUUREN,CARLA,1983-06-19,Female,American,Patient,97 Maphongo street,Ulundi,Kwazulu-Natal,0751999170,CARLA@gmail.com,SAMWUMED,095765978,Plan B,Measles,0,0,0,0
+198306249431051,196298e88278ac73649d7d65edd901d0,MEINTJIES,LEANDER,1983-06-24,Male,Black,Pharmacists,100 Goetz straat,Kroonstad,Vrystaat,,LEANDER@gmail.com,,,,Cholera,0,0,0,0
+198309256384060,83f0f2567929ffdeacf54c7bd74eaab8,MOKHASINYANE,NICOLAAS JOHANNES LOUW,1983-09-25,Male,White ,Pharmacists,3 Ross street,,,0818466510,NICOLAAS JOHANNES LOUW@gmail.com,Keyhealth,308278559,Plan C,,0,0,0,0
+198311155279035,c6e4dae67a88545edaed102ff0c4eba9,MADALANE,GARRETT JOSHUA,1983-11-15,Male,Black,Pathology,20 Goetz straat,,,0833368722,GARRETT JOSHUA@gmail.com,CAMAF,498767965,Plan D,,0,0,0,0
+198402135323028,be5996236c66d268d2517c3e788010a5,LOUW,FHULUFHEDZANI CHRISTOPHER,1984-02-13,Male,American,Pathology,74 Jeppe street,Randfontein,Gauteng,0804818276,FHULUFHEDZANI CHRISTOPHER@gmail.com,,,,Measles,0,0,0,0
+198403278784040,1dde044074d4a7baefdc0b9c331f76c8,MAPFEKA,DUNCAN,1984-03-27,Male,Other,Medical,32 Albert Luthuli drive,Mahikeng,North-West,0797084547,,Discovery,825632969,Plan C,,0,0,0,0
+198405024394037,34014d934b546452f78be98a104b1941,SCHILLACK,KIAN,1984-05-02,Female,American,Pharmacists,58 Eleazer straat,Kroonstad,Vrystaat,0768396259,KIAN@gmail.com,,,,Measles,0,0,0,0
+198405193902070,4bbf5885bb0a624aa19dad6fdbb5cd8c,DE VRIES,HELEEN ERLIN,1984-05-19,Female,Black,Medical,84 Pitso street,Bloemfontein,Vrystaat,0803869207,HELEEN ERLIN@gmail.com,SasolMed,268772234,Plan A,,0,0,0,0
+198407173043025,1a475083716d706859efdb4e0faf3aac,THOMSON,VICTOR,1984-07-17,Female,White ,Government,39 Clark street,Rustenburg,North-West,0822900779,VICTOR@gmail.com,,,,Cholera,0,0,0,0
+198408131475066,ea27c5878cef3618806443f4398d8ebb,VAN DER MERWE,REINHARDT REGARDT,1984-08-13,Female,Indian,Patient,37 Jeppe street,,,0751274712,REINHARDT REGARDT@gmail.com,,,,Dengue Fever,0,0,0,0
+198408236385056,16ad46588a68e860e1e1f3796c8831e6,KRIEK,THABANG,1984-08-23,Male,White ,Government,10 Ross street,,,0737291041,THABANG@gmail.com,,,,Measles,0,0,0,0
+198408296114085,7b7172d6e0be22e2851eb7ab3bbf4c82,KOEKEMOER,VEENAN REECE,1984-08-29,Male,Indian,Government,26 Pretorius straat,Upington,Northern Cape,,,,,,Measles,0,0,0,0
+198410235392033,f6e81560d541c4c9a3fa3b3857b7dc87,NKOMO,JACQUES,1984-10-23,Male,Asian,Pathology,82 Grimbeeck straat,Ermelo,Mpumalanga,,JACQUES@gmail.com,,,,,0,0,0,0
+198411233252056,6f7787d7b9c07511142c842c04e60735,BOTHA,MORNÉ JASPER,1984-11-23,Female,Latino,Government,82 Goetz straat,Musina,Limpopo,0727475152,MORNÉ JASPER@gmail.com,Compcare,856248040,Plan E,Ebola,0,0,0,0
+198411306913011,b8117871f9bf72e0aad0f8576eaf1fb5,MOHAMED DAULATH,GUGULETHU LESLEY,1984-11-30,Male,Asian,Patient,35 Totius straat,,,0797927015,GUGULETHU LESLEY@gmail.com,,,,Ebola,0,0,0,0
+198412134238018,8932728d89a8a714804fb497da1eba0b,WIID,REMANDO,1984-12-13,Female,Black,Medical,74 Louwstraat,Nelspruit,Mpumalanga,0836991080,REMANDO@gmail.com,,,,Cholera,0,0,0,0
+198501256714086,908ab205be84fbcdce84feb7af2db793,NGOASHENG,MINNEKE,1985-01-25,Male,Black,Pharmacists,21 Goetz straat,Springbok,Northern Cape,0760572827,MINNEKE@gmail.com,,,,,0,0,0,0
+198502157919075,e9f2ed07c7f69c283c709f894a534312,DLADLA,JOSHUA,1985-02-15,Male,Latino,Government,25 Kwena street,Zeerust,North-West,0726941523,,Liberty,605614321,Plan C,,0,0,0,0
+198503207515032,f76b751b80995af86d3b4a56f6d56a62,FORSYTH,WYNAND,1985-03-20,Male,Indian,Pathology,38 Albert Luthuli drive,,,0786097767,WYNAND@gmail.com,Commed,910233921,Plan A,Rabies,0,0,0,0
+198504035251015,fcd3c2fd3062dca63301b2e4150dab23,VISAGIE,RUAN,1985-04-03,Male,Black,Patient,25 Pitso street,,,0789782687,RUAN@gmail.com,,,,Measles,0,0,0,0
+198504151249017,fcd3c2fd3062dca63301b2e4150dab23,VISAGIE,SUNÉ,1985-04-15,Female,White ,Pathology,75 Pitso street,Nelspruit,Mpumalanga,0767566616,,Barloworld medical,321126740,Plan B,Rabies,0,0,0,0
+198504235895038,a7753f4820d8936e3d97b56a1292c3d9,LEPADILE,CHRISTIAAN CHRISTOFFEL,1985-04-23,Male,Other,Patient,24 Totius straat,,,0838993223,CHRISTIAAN CHRISTOFFEL@gmail.com,,,,,0,0,0,0
+198504292244037,e65975e3ba4fd77e70b7150f0987d4af,MOKGOSI,LIZÉ,1985-04-29,Female,Mixed-Race,Pathology,28 Jeppe street,Potchefstroom,North-West,0785136178,LIZÉ@gmail.com,,,,Covid-19,0,0,0,0
+198601289030011,2ab53d8524ad69725aaf83fb021395a3,MUNIAN,ANDREAS JOHANNES,1986-01-28,Male,Black,Government,63 Kwena street,,,0727862340,ANDREAS JOHANNES@gmail.com,,,,,0,0,0,0
+198603011749010,b7317b50693bac59880346cfb7d051ee,JOUBERT,MICHAEL RICHARD,1986-03-01,Female,White ,Government,39 Grimbeeck straat,,,0721636458,MICHAEL RICHARD@gmail.com,,,,Measles,0,0,0,0
+198604077410070,a7753f4820d8936e3d97b56a1292c3d9,LEPADILE,ANRI,1986-04-07,Male,Indian,Medical,15 Mosidi street,Mosselbaai,Western Cape,0781632469,ANRI@gmail.com,,,,Rabies,0,0,0,0
+198607291742057,f5d5494626d9d0684e8a2f4b13d236cc,LANDSBERG,ERWIN ANDREAS,1986-07-29,Female,White ,Medical,38 Jeppe street,Cape Town,Western Cape,0764583926,ERWIN ANDREAS@gmail.com,,,,Cholera,0,0,0,0
+198607309608040,515a53bbc188bd57bc47250cfb159da6,JORDAAN,DEWALD,1986-07-30,Male,Mixed-Race,Pharmacists,94 Albert Luthuli drive,,,0723876018,DEWALD@gmail.com,,,,Measles,0,0,0,0
+198608186370080,a85dea2937f53039735e4ddbdc65a9c9,BURGER,HENRIETTE,1986-08-18,Male,White ,Government,80 Kwena street,Bethlehem,Vrystaat,0757785572,,,,,Ebola,0,0,0,0
+198609092557046,bebf7460ec5adba6bcf21724ec677063,PODGES,FERDINAND CHRISTIAAN,1986-09-09,Female,Asian,Medical,71 Mosidi street,,,0828791048,FERDINAND CHRISTIAAN@gmail.com,,,,Measles,0,0,0,0
+198609158715073,57e3c48091a7897d91eadde3dd3de4bf,KRUGER,CORNELIUS WALTER,1986-09-15,Male,Mixed-Race,Government,76 Maphongo street,Vryburg,North-West,,CORNELIUS WALTER@gmail.com,Genesis,240388085,Plan E,Measles,0,0,0,0
+198611143809088,46e0e326c665a06a3865d29a46df6ecb,VAN DEVENTER,ABRAHAM FERDINAND,1986-11-14,Female,Indian,Pathology,79 Grimbeeck straat,,,0748070833,ABRAHAM FERDINAND@gmail.com,,,,,0,0,0,0
+198612217510051,449d06f127bd243e58541b10fe5d14f2,SMITH,RYAN,1986-12-21,Male,Mixed-Race,Government,15 Grimbeeck straat,,,0812155872,,,,,,0,0,0,0
+198612261308054,583b7af526c8880677f74982dcad85e1,STADLER,LOUWRENS MARTHINUS,1986-12-26,Female,Black,Government,72 Totius straat,,,0768641992,LOUWRENS MARTHINUS@gmail.com,,,,,0,0,0,0
+198703134272027,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,GERRIT LOUIS,1987-03-13,Female,Mixed-Race,Patient,30 Pitso street,Kuruman,Northern Cape,0785495462,GERRIT LOUIS@gmail.com,BestMed,253299990,Plan B,Dengue Fever,0,0,0,0
+198704168406016,449d06f127bd243e58541b10fe5d14f2,SMITH,JANCO STEFAN,1987-04-16,Male,Mixed-Race,Government,15 Grimbeeck straat,Pietermaritzburg,Kwazulu-Natal,0831230994,JANCO STEFAN@gmail.com,,,,,0,0,0,0
+198707029341038,81b5f74021c613e4ddeee163a799f9a1,NKHWASHU,WIAN,1987-07-02,Male,American,Pharmacists,85 Jeppe street,,,0813545035,WIAN@gmail.com,,,,Cholera,0,0,0,0
+198708187309022,0bf2cdea7a3dc7e84f5bd17320c787dd,KEAMEDITSE,MORNÉ JAN,1987-08-18,Male,Mixed-Race,Pathology,47 Maphongo street,Cape Town,Western Cape,0779384740,MORNÉ JAN@gmail.com,,,,Ebola,0,0,0,0
+198708273753079,8b5b069b54b94e64688aaeb51642b4ff,VAN DER WALT,STEVE,1987-08-27,Female,Other,Patient,75 Louwstraat,Port Elizabeth,Eastern Cape,0799637524,STEVE@gmail.com,,,,,0,0,0,0
+198709288717050,583b7af526c8880677f74982dcad85e1,STADLER,NICOLE LUISE,1987-09-28,Male,Mixed-Race,Patient,38 Louwstraat,Nelspruit,Mpumalanga,0826574374,,,,,,0,0,0,0
+198711268990023,d64364af94e0fd8dd869b5c727ff81c4,TSIWANA,ADRIAAN,1987-11-26,Male,Other,Government,80 Goetz straat,,,0779332589,,,,,Cholera,0,0,0,0
+198711308050076,b2577ff48334fa18836586ec5cbf32fe,MOSTERT,WILLEM DANIËL,1987-11-30,Male,Latino,Pharmacists,86 Ross street,Potchefstroom,North-West,0745820082,,,,,Ebola,0,0,0,0
+198712087357061,6705d2d6ec50a1b9f1ffe1bbe2bb2a8f,LUUS,JOSHUA,1987-12-08,Male,Mixed-Race,Government,67 Totius straat,,,0755721557,JOSHUA@gmail.com,,,,Measles,0,0,0,0
+198712316948090,78e80cb593c448a25a13212eb4694ddd,SWART,ROCHELLE SUNÉ,1987-12-31,Male,Mixed-Race,Pathology,72 Maphongo street,Kuruman,Northern Cape,0800048602,ROCHELLE SUNÉ@gmail.com,,,,,0,0,0,0
+198802124799035,56cd487ca69b345f2b1f658537203607,VAN DEN BERG,OLWAM LESEDI KHAYA,1988-02-12,Female,Asian,Pathology,92 Eleazer straat,Vryburg,North-West,0788190079,,,,,Measles,0,0,0,0
+198802254234049,b6fc028fc5350b6c46553c6c8779765f,NIEMANDT,JOHN ANTON,1988-02-25,Female,White ,Medical,81 Eleazer straat,Musina,Limpopo,0761436777,JOHN ANTON@gmail.com,,,,Dengue Fever,0,0,0,0
+198804017488073,bbeb706e7d68b686a22bffd8bdb6e89d,DU PLOOY,LOUIS JACOBUS,1988-04-01,Male,American,Pharmacists,4 Pretorius straat,Musina,Limpopo,0814981793,,Medimed,029393377,Plan E,Dengue Fever,0,0,0,0
+198804234376014,447aa9932bff6043cd1db94da291db72,LE ROUX,MALAN,1988-04-23,Female,Latino,Pharmacists,9 Spruit straat,,,0768948857,MALAN@gmail.com,Fish-med,590155342,Plan D,Dengue Fever,0,0,0,0
+198804264883055,c4b514b2860e01d9a7c5c8a6390519f7,ALLAN,MINNEKE,1988-04-26,Female,White ,Medical,16 Goetz straat,,,0819812814,,,,,Covid-19,0,0,0,0
+198807117201011,78e80cb593c448a25a13212eb4694ddd,SWART,ESTIAN,1988-07-11,Male,Indian,Pharmacists,73 Spruit straat,Worcester,Western Cape,0754076127,ESTIAN@gmail.com,Liberty,340196662,Plan C,,0,0,0,0
+198807283027073,af4de4c1479b0f3a5f7477c3d86d1e38,MATUMBA,MARCEL HERMAN,1988-07-28,Female,Asian,Pathology,20 Jeppe street,Cape Town,Western Cape,0820340675,MARCEL HERMAN@gmail.com,,,,Rabies,0,0,0,0
+198808225667058,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,JEAN-PIERRE,1988-08-22,Male,Mixed-Race,Medical,12 Ross street,Durban,Kwazulu-Natal,0771321352,JEAN-PIERRE@gmail.com,Alliance-midmed,709935149,Plan B,Cholera,0,0,0,0
+198812045343052,b10082df18f05bdf811e9fc890ba3013,VICTOR,PHILLIP,1988-12-04,Male,White ,Government,53 Spruit straat,Upington,Northern Cape,0836074506,PHILLIP@gmail.com,,,,,0,0,0,0
+198812184987044,78e80cb593c448a25a13212eb4694ddd,SWART,HERMÉ,1988-12-18,Female,Mixed-Race,Pathology,72 Maphongo street,,,0747441705,HERMÉ@gmail.com,,,,,0,0,0,0
+198903152126048,6d427a48416fb79385df215420073042,GROBLER,GIDEON JOHANNES JACOBUS,1989-03-15,Female,Latino,Government,56 Louwstraat,Pretoria,Gauteng,0750508442,,,,,,0,0,0,0
+198905175040043,06df0b1d2e0fb40009ea78dc7b937079,STRIPP,THABANG,1989-05-17,Male,White ,Patient,29 Spruit straat,,,0721386023,THABANG@gmail.com,,,,Covid-19,0,0,0,0
+198906229321017,85aca7f21631e3ddc2bf6dac404afb49,VAN ASWEGEN,ARNOLD,1989-06-22,Male,Indian,Patient,37 Albert Luthuli drive,Springbok,Northern Cape,0789923549,,,,,,0,0,0,0
+198910053507090,f17b8251a78d69c927b70714fc84b8ca,KRIEL,THOMAS JOHN,1989-10-05,Female,Black,Patient,11 Kwena street,Randfontein,Gauteng,,THOMAS JOHN@gmail.com,,,,,0,0,0,0
+199002147263085,1ffef13a69bf063f76bed8d7488b5dd9,GROENEWALD,HANDRO,1990-02-14,Male,Other,Pharmacists,27 Albert Luthuli drive,Pretoria,Gauteng,0745702068,HANDRO@gmail.com,Bankmed,266359497,Plan E,Ebola,0,0,0,0
+199002169939015,3cef6a20642592a9ad4bac6d0d09722f,SHARP,WILLEM FREDERIK,1990-02-16,Male,Indian,Pharmacists,81 James Moroka drive,,,0812365665,WILLEM FREDERIK@gmail.com,,,,Covid-19,0,0,0,0
+199002223620033,f7bc7694fd8d9855e65108c54e4a2562,GARESEITSE,ANDRÉ GEORGE,1990-02-22,Female,Other,Pathology,15 Louwstraat,,,0809616679,,Momentum,124286130,Plan C,,0,0,0,0
+199003294884080,c0e4904dc230ebb628caac4759497d74,MOTHIBE,PIETER ANDRIES,1990-03-29,Female,Asian,Pharmacists,87 James Moroka drive,Mosselbaai,Western Cape,0750477083,PIETER ANDRIES@gmail.com,,,,,0,0,0,0
+199004207699019,6baa07f638cb3b1b26eed6225db767d3,GREYLING,CHRISNA,1990-04-20,Male,Mixed-Race,Medical,22 Jeppe street,,,0790092045,CHRISNA@gmail.com,Bankmed,623429664,Plan B,Cholera,0,0,0,0
+199004274274072,9583a57cb3a8affe4e978892dbd9615a,BESTER,KRISTINE JOHANNA,1990-04-27,Female,Other,Pathology,60 Jeppe street,Pofadder,Northern Cape,0742468577,KRISTINE JOHANNA@gmail.com,,,,Ebola,0,0,0,0
+199006161331048,9583a57cb3a8affe4e978892dbd9615a,BESTER,WILLIAM DAVID,1990-06-16,Female,American,Government,22 James Moroka drive,Port Elizabeth,Eastern Cape,0749324377,WILLIAM DAVID@gmail.com,,,,Rabies,0,0,0,0
+199012083868051,5ed8d8f8b4e79deb74fca7f58abb2661,STOLS,NICO DAWID,1990-12-08,Female,Mixed-Race,Pharmacists,51 Kwena street,Hanover,Northern Cape,0789790395,NICO DAWID@gmail.com,Pharos,592004170,Plan C,Dengue Fever,0,0,0,0
+199012226411014,4a7c93154d083602dbeb2c9fb4a53117,MAKGALE,HUGO,1990-12-22,Male,Indian,Medical,32 Grimbeeck straat,Kuruman,Northern Cape,0766222168,HUGO@gmail.com,,,,,0,0,0,0
+199102258583020,1a6f7ceef06a15b0479463dc7d9e290b,CHAMBERS,PETRUS JACOB,1991-02-25,Male,Latino,Pathology,56 Maphongo street,East London,Eastern Cape,0767675936,PETRUS JACOB@gmail.com,Compcare,311213583,Plan D,Cholera,0,0,0,0
+199106072680038,774ff69368bef1b32f8d156ecbd4ea06,RAUBENHEIMER,REMANDO,1991-06-07,Female,Black,Medical,55 Louwstraat,,,0751760598,REMANDO@gmail.com,Profmed,805439518,Plan E,Rabies,0,0,0,0
+199106165574080,aef0f01c38315a1c1d2970173a3d1649,HAVENGA,MARCO CORNELIUS,1991-06-16,Male,American,Government,91 Maphongo street,Kroonstad,Vrystaat,0789777865,MARCO CORNELIUS@gmail.com,,,,,0,0,0,0
+199108292800094,38b4a62c541e83538404c069d6b626bd,AHMED,VEENAN REECE,1991-08-29,Female,Other,Government,41 Ross street,Hanover,Northern Cape,0780656031,VEENAN REECE@gmail.com,,,,Measles,0,0,0,0
+199110201061031,2d94160e679a9f102d1e28056bb4e692,HAYES,CHRISTIAAN JACOBUS,1991-10-20,Female,Indian,Medical,20 Maphongo street,Ulundi,Kwazulu-Natal,0789220929,CHRISTIAAN JACOBUS@gmail.com,,,,Dengue Fever,0,0,0,0
+199111023300018,b7884a949042f9eeaff9937ef9f6918d,ODENDAAL,DAMIAN COLE,1991-11-02,Female,Mixed-Race,Government,3 Pretorius straat,,,0810875395,,,,,Cholera,0,0,0,0
+199203056717013,4356f971f02aa038350bf6e2af4faee7,CLOETE,ALRI,1992-03-05,Male,Latino,Patient,81 James Moroka drive,Welkom,Vrystaat,0784621553,ALRI@gmail.com,,,,Cholera,0,0,0,0
+199203069147073,38b76774174c7de6ae0aae1f1a217fd3,MARIRI,SCHALK,1992-03-06,Male,Indian,Medical,88 Albert Luthuli drive,Johannesburg,Gauteng,0754363235,SCHALK@gmail.com,Liberty Health,858591584,Plan B,Ebola,0,0,0,0
+199204157630067,d08d08c7b1f7091b2ff4555660e58e25,VAN DER BERG,DAVID SIMBARASHE,1992-04-15,Male,Latino,Pharmacists,32 Albert Luthuli drive,Zeerust,North-West,,,,,,Cholera,0,0,0,0
+199205232323072,156abcc351aba71adb63161e8880cb68,VORSTER,JEAN PAUL,1992-05-23,Female,White ,Government,74 Eleazer straat,Johannesburg,Gauteng,0771573726,JEAN PAUL@gmail.com,,,,Dengue Fever,0,0,0,0
+199208268774024,1db648c85615d34475c30e6a1b269eae,HOLTZHAUSEN,RUAN WILLEM,1992-08-26,Male,Other,Pathology,10 Jeppe street,,,0735012901,RUAN WILLEM@gmail.com,Bonitas,031454298,Plan C,Rabies,0,0,0,0
+199209161012020,be5996236c66d268d2517c3e788010a5,LOUW,STEVE,1992-09-16,Female,American,Patient,29 Spruit straat,Johannesburg,Gauteng,0760371214,,,,,Rabies,0,0,0,0
+199209275650044,b71faea208ee1b9fe732beb3d3360fad,STREICHER,NANET,1992-09-27,Male,Indian,Medical,98 Maphongo street,,,0728504087,NANET@gmail.com,,,,Covid-19,0,0,0,0
+199212114446020,48d7b33c40bc166786405b74d223326e,MOSIKARE,DAWID JACOBUS,1992-12-11,Female,Asian,Pharmacists,17 Eleazer straat,Mosselbaai,Western Cape,0755281277,DAWID JACOBUS@gmail.com,,,,Rabies,0,0,0,0
+199304127469077,eb8983a636c9cf520964f444991c75d9,MARX,ABRAHAM JOHANNES,1993-04-12,Male,Black,Pharmacists,92 Jeppe street,Vryburg,North-West,0754341488,ABRAHAM JOHANNES@gmail.com,,,,Dengue Fever,0,0,0,0
+199304239135085,da14c4500bbafc6efb51bad295244933,STRUWIG,LEANN,1993-04-23,Male,Other,Government,25 Grimbeeck straat,,,0729589976,LEANN@gmail.com,,,,Ebola,0,0,0,0
+199304307195024,da14c4500bbafc6efb51bad295244933,STRUWIG,DANIKA,1993-04-30,Male,Mixed-Race,Government,21 Pretorius straat,Mosselbaai,Western Cape,0770121499,,,,,Ebola,0,0,0,0
+199305136579099,4887c0483683f44a09673bd0c7927cf1,NEL,MORENA ANDY,1993-05-13,Male,White ,Medical,54 Clark street,Britstown,Northern Cape,0742569658,,Medimed,395488594,Plan B,,0,0,0,0
+199305283385016,0b4e3b7b816c8243fe7c731933828981,COETZER,GUDANI JUSTICE,1993-05-28,Female,Indian,Pathology,80 Pitso street,,,0833567397,GUDANI JUSTICE@gmail.com,Bonitas,643110427,Plan E,Cholera,0,0,0,0
+199306113956019,c74d77f0abec126d4f067e14cf2faa89,KLOPPERS,JAN-DANIËL,1993-06-11,Female,Asian,Patient,87 Mosidi street,,,0727747833,JAN-DANIËL@gmail.com,,,,,0,0,0,0
+199307137157087,843561eb47a810d179108c8fecd148a9,WALKER,RYAN JAMES,1993-07-13,Male,White ,Government,47 Spruit straat,Ermelo,Mpumalanga,0725361033,,Liberty,094785180,Plan E,Dengue Fever,0,0,0,0
+199307309766080,78e80cb593c448a25a13212eb4694ddd,SWART,CHINEAD,1993-07-30,Male,Black,Pharmacists,95 Louwstraat,,,0833441375,,,,,Cholera,0,0,0,0
+199312099155081,e39a0a8e59e5c0463dec7af08ee01008,KRYNAUW,DARIUS HENNING,1993-12-09,Male,Asian,Patient,6 Maphongo street,Port Shepstone,Kwazulu-Natal,0825264994,DARIUS HENNING@gmail.com,,,,Cholera,0,0,0,0
+199312316092041,85c3eb64c2f8460e7cef687561dc8f57,JANSE VAN RENSBURG,LEANN,1993-12-31,Male,American,Government,75 Eleazer straat,Springbok,Northern Cape,0833267079,LEANN@gmail.com,Anglo medical,150969219,Plan B,Covid-19,0,0,0,0
+199402249957096,d064ce1d9f1718b2c0a2dfd5843f9c7f,BLOM,CAREL WILHELM,1994-02-24,Male,White ,Pharmacists,93 Ross street,East London,Eastern Cape,0749584523,CAREL WILHELM@gmail.com,Liberty,938850570,Plan B,Covid-19,0,0,0,0
+199409014037046,6ae7f5d1c0db67d43b94f8141d66df63,SCHUTTE,PAULUS STEPHANUS,1994-09-01,Female,Asian,Pathology,1 Pretorius straat,,,0759146660,PAULUS STEPHANUS@gmail.com,Profmed,173166461,Plan E,,0,0,0,0
+199409071663085,4887c0483683f44a09673bd0c7927cf1,NEL,EDWARD MOLAPISI,1994-09-07,Female,Other,Pathology,66 Jeppe street,,,0762580677,EDWARD MOLAPISI@gmail.com,,,,Dengue Fever,0,0,0,0
+199410306309069,3e151694da285b1cac40752b6731cab3,MALAN,DYLAN,1994-10-30,Male,Latino,Government,76 Mosidi street,Kimberley,Northern Cape,,DYLAN@gmail.com,SelfMed,620250454,Plan E,Covid-19,0,0,0,0
+199503167504016,23639f1070045159fb60fd659e061023,VAN SCHALKWYK,DIRK JOHANNES,1995-03-16,Male,Latino,Patient,63 Grimbeeck straat,,,0760455230,DIRK JOHANNES@gmail.com,,,,Cholera,0,0,0,0
+199503173735068,22d2d2068f4b0360d914ffa059f2219b,LEKOLOANE,SUFIYAN,1995-03-17,Female,Latino,Medical,33 Jeppe street,Richardsbaai,Kwazulu-Natal,0835569582,SUFIYAN@gmail.com,,,,,0,0,0,0
+199507146433098,c86b311682b3f5dea1caa088d4439686,MOSETLHA,JACOBUS JOHANNES,1995-07-14,Male,Asian,Medical,93 Spruit straat,,,0720409324,JACOBUS JOHANNES@gmail.com,,,,,0,0,0,0
+199507221454061,5d766cd85e630e67f7170d659d0a79ad,BRITS,FRANCOIS PETRUS,1995-07-22,Female,Indian,Medical,5 Clark street,Kimberley,Northern Cape,0787539892,FRANCOIS PETRUS@gmail.com,,,,Measles,0,0,0,0
+199507319431072,3f84d88cf544ced285aaadf11df68cae,JANSEN VAN VUUREN,DANIELLE,1995-07-31,Male,Asian,Pharmacists,18 Goetz straat,,,0824100401,DANIELLE@gmail.com,,,,Rabies,0,0,0,0
+199508133657070,3109c705988b2e0c0a8a987cf623ab9d,BRIEL,NICO DAWID,1995-08-13,Female,Asian,Pathology,26 Louwstraat,Richardsbaai,Kwazulu-Natal,0808165862,NICO DAWID@gmail.com,,,,Dengue Fever,0,0,0,0
+199509079276081,ad8a0a2e5db8102636fa8e8e074ba47f,BAIRD,PAULUS STEPHANUS,1995-09-07,Male,White ,Government,45 Ross street,Kroonstad,Vrystaat,0755019300,PAULUS STEPHANUS@gmail.com,,,,Cholera,0,0,0,0
+199509259401051,a7753f4820d8936e3d97b56a1292c3d9,LEPADILE,JACQUES,1995-09-25,Male,Other,Patient,24 Totius straat,Durban,Kwazulu-Natal,0779145947,JACQUES@gmail.com,,,,,0,0,0,0
+199509274321081,5e58a0afc1cc17faf8b0dc5fdb2e94de,ELIFAS,DARCIO,1995-09-27,Female,Indian,Pathology,21 Ross street,Hanover,Northern Cape,0776114458,,,,,Rabies,0,0,0,0
+199509282040094,46e0e326c665a06a3865d29a46df6ecb,VAN DEVENTER,HENDRIK PETRUS,1995-09-28,Female,White ,Pharmacists,94 Jeppe street,Port Elizabeth,Eastern Cape,0735468550,HENDRIK PETRUS@gmail.com,,,,Measles,0,0,0,0
+199601313208033,62c8be3101a8741cba5e80a675e1e24b,VAN ZYL,JOHAN,1996-01-31,Female,American,Medical,83 Spruit straat,Springbok,Northern Cape,0765998266,JOHAN@gmail.com,,,,Measles,0,0,0,0
+199602238186048,c2645208a769208080d50bc49d347d33,GILFILLAN,VICTOR ANDRÉ,1996-02-23,Male,Indian,Pharmacists,42 Ross street,Kuruman,Northern Cape,0810143773,VICTOR ANDRÉ@gmail.com,Medihelp,201133276,Plan D,Covid-19,0,0,0,0
+199604173732033,7e691e9a752a4732313e4551c4891026,GOOSEN,MARNUS,1996-04-17,Female,Black,Pharmacists,90 Albert Luthuli drive,Worcester,Western Cape,0816290505,,Medimed,716106347,Plan A,Measles,0,0,0,0
+199604182151086,37bf20d13eaa3c837d63046588501dc9,DAMBHA,FREDERIK JACOBUS,1996-04-18,Female,Latino,Medical,61 Maphongo street,Port Shepstone,Kwazulu-Natal,0774397825,,,,,Covid-19,0,0,0,0
+199605111131025,b7a5c126a12cae270ac10399b32e63af,WEAKLEY,ENRICO,1996-05-11,Female,White ,Medical,74 Ross street,,,0784531557,ENRICO@gmail.com,Genesis,054256998,Plan C,Dengue Fever,0,0,0,0
+199607311730077,2cfac200176f7ebb0a408e9fdc7bd595,VENTER,EMILE,1996-07-31,Female,Asian,Government,26 Kwena street,Bloemfontein,Vrystaat,0836403033,EMILE@gmail.com,Compcare,383680381,Plan C,,0,0,0,0
+199609065731018,b7a5c126a12cae270ac10399b32e63af,WEAKLEY,SUFIYAN,1996-09-06,Male,Mixed-Race,Government,7 Spruit straat,,,0773927914,SUFIYAN@gmail.com,,,,Measles,0,0,0,0
+199610171702095,0e32ce877c244307c2a72f30ad468d26,FOUCHE,REMANDO,1996-10-17,Female,White ,Patient,89 Totius straat,,,0787286298,,,,,Ebola,0,0,0,0
+199610257992088,eddb7d4e1ca5f770f508e2401a507c13,VAN DER WESTHUIZEN,RYAN JAMES,1996-10-25,Male,Mixed-Race,Pharmacists,77 Goetz straat,,,,RYAN JAMES@gmail.com,,,,,0,0,0,0
+199610278375057,6d427a48416fb79385df215420073042,GROBLER,PHILANI NTANDO,1996-10-27,Male,Indian,Patient,43 James Moroka drive,,,0801672335,PHILANI NTANDO@gmail.com,,,,Dengue Fever,0,0,0,0
+199612053601026,2f84aa21de7cf3b0b2466019ae762e74,MAREE,PIETER ANDRIES,1996-12-05,Female,Other,Medical,92 Eleazer straat,George,Western Cape,0790168556,,,,,,0,0,0,0
+199701299830048,f93a5e831cf93cc99b8fdbbe248806ac,TAGGART,ELIAS GOITSEMODIMO,1997-01-29,Male,Latino,Pharmacists,19 Kwena street,,,0751361765,,,,,Ebola,0,0,0,0
+199704119131011,4a82bbb773d05e329b988d04c0a811f0,VAN STRATEN,BRETT KEVIN,1997-04-11,Male,Latino,Patient,100 James Moroka drive,Ulundi,Kwazulu-Natal,0811177886,,,,,Rabies,0,0,0,0
+199705165476089,908ab205be84fbcdce84feb7af2db793,NGOASHENG,DINEO MARIA,1997-05-16,Male,White ,Patient,29 Pitso street,Plokwane,Limpopo,0757768230,,Liberty Health,090527403,Plan B,Covid-19,0,0,0,0
+199710106872054,7e691e9a752a4732313e4551c4891026,GOOSEN,MARTHINUS PETRUS,1997-10-10,Male,Black,Pharmacists,90 Albert Luthuli drive,,,0745489748,MARTHINUS PETRUS@gmail.com,Medimed,716106347,Plan A,Measles,0,0,0,0
+199801127803038,46e0e326c665a06a3865d29a46df6ecb,VAN DEVENTER,PIETER,1998-01-12,Male,American,Pathology,15 Maphongo street,Plokwane,Limpopo,0758488417,PIETER@gmail.com,Liberty,060016852,Plan D,,0,0,0,0
+199801168089033,741926b99f164a292ecb5129def13386,VAN DER MESCHT,ENRICO,1998-01-16,Male,Latino,Patient,3 Totius straat,Port Shepstone,Kwazulu-Natal,0767378355,ENRICO@gmail.com,Compcare,183028058,Plan E,Cholera,0,0,0,0
+199802288328012,7b7172d6e0be22e2851eb7ab3bbf4c82,KOEKEMOER,MPHO-MPHO,1998-02-28,Male,Asian,Patient,91 Spruit straat,Port Shepstone,Kwazulu-Natal,0775384014,MPHO-MPHO@gmail.com,,,,,0,0,0,0
+199805231621079,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,ZANDRÉ,1998-05-23,Female,Other,Pharmacists,3 Jeppe street,,,0788015484,,,,,Covid-19,0,0,0,0
+199806231623024,15cfb6effe1318d4bcab055e9133fbb7,SMIT,KAELO REMMOGO,1998-06-23,Female,Indian,Pharmacists,39 Pretorius straat,,,0804027221,KAELO REMMOGO@gmail.com,,,,,0,0,0,0
+199806249096027,1a87a751ca02a364334889be831b41fe,PIETERSE,CARLA,1998-06-24,Male,Indian,Government,16 Goetz straat,,,0785169050,CARLA@gmail.com,,,,Cholera,0,0,0,0
+199810293357094,8245d6193b534ef19d29d1b3ac240033,THULO,RENIEL JAKOB,1998-10-29,Female,Black,Medical,82 Goetz straat,,,0734070898,RENIEL JAKOB@gmail.com,SelfMed,462137774,Plan A,Covid-19,0,0,0,0
+199812113122082,965bfaf578f3c798c0d2f1331dcccc45,DE LA HARPE,WIANN WIKUS,1998-12-11,Female,Asian,Pharmacists,40 Eleazer straat,Beaufort West,Western Cape,0761669121,WIANN WIKUS@gmail.com,Commed,648381354,Plan A,Measles,0,0,0,0
+199903269950062,8245d6193b534ef19d29d1b3ac240033,THULO,MARCO JOHANNES,1999-03-26,Male,Black,Medical,82 Goetz straat,Zeerust,North-West,0764737151,MARCO JOHANNES@gmail.com,SelfMed,462137774,Plan A,Covid-19,0,0,0,0
+199904225286080,46e0e326c665a06a3865d29a46df6ecb,VAN DEVENTER,DAMIAN COLE,1999-04-22,Male,Mixed-Race,Medical,62 Spruit straat,,,0749815687,,,,,Ebola,0,0,0,0
+199905195498030,a8596e0820889f80f3b39878421246ea,VAN RHEEDE VAN OUDTSHOORN,MARKO CORNELIUS,1999-05-19,Male,American,Pharmacists,45 Louwstraat,,,0738799296,MARKO CORNELIUS@gmail.com,,,,,0,0,0,0
+199908141622025,0e32ce877c244307c2a72f30ad468d26,FOUCHE,JOHN ANTON,1999-08-14,Female,Mixed-Race,Pharmacists,6 Kwena street,,,0834877712,JOHN ANTON@gmail.com,,,,,0,0,0,0
+199908231291065,9683b715df97bb254929d13d8c2dd389,FERREIRA,XANDER CAROLUS,1999-08-23,Female,Other,Patient,35 Pretorius straat,,,0817932447,XANDER CAROLUS@gmail.com,,,,Covid-19,0,0,0,0
+199909053166091,6f7787d7b9c07511142c842c04e60735,BOTHA,JEANDRE FRANS,1999-09-05,Female,White ,Pathology,43 Kwena street,Durban,Kwazulu-Natal,0732797342,JEANDRE FRANS@gmail.com,Profmed,681895918,Plan E,,0,0,0,0
+199909279558065,0bce9fc12ad0b929848b2085b96db023,NAUDÉ,PHILIPPUS JACOBUS,1999-09-27,Male,Mixed-Race,Pharmacists,78 Jeppe street,Klerksdorp,North-West,0746161162,,,,,Measles,0,0,0,0
+199911098892013,f7bc7694fd8d9855e65108c54e4a2562,GARESEITSE,PAUL JACOBUS,1999-11-09,Male,American,Patient,9 Pretorius straat,Plokwane,Limpopo,0803783377,,,,,Covid-19,0,0,0,0
+200006176457038,c770bbbaf33956e3809338ada378fe80,PRINSLOO,ROWAN,2000-06-17,Male,Other,Pharmacists,53 Jeppe street,,,0726978418,ROWAN@gmail.com,,,,Dengue Fever,0,0,0,0
+200007061639077,85e77664d148fe8e1af677ccbc695f90,VAN ROOYEN,SEAN CAREW,2000-07-06,Female,Asian,Pathology,25 Goetz straat,Pofadder,Northern Cape,0748226145,,,,,Measles,0,0,0,0
+200008083469057,b9aa6fd5fc4a69e0f94713a1198d4691,SEWAKGA,ALBERTUS,2000-08-08,Female,American,Patient,90 Goetz straat,Klerksdorp,North-West,,,GEMS,764561532,Plan C,Rabies,0,0,0,0
+200008153504081,058c5882718f40764d9f0d7427e1791a,SWANEPOEL,CHEREÉ,2000-08-15,Female,American,Pathology,100 Kwena street,Richardsbaai,Kwazulu-Natal,0773908558,,,,,,0,0,0,0
+200008162584034,a3337e4f0e408b2ce01a763702f7b0c2,VAN NIEKERK,DARCIO,2000-08-16,Female,Asian,Medical,66 Ross street,,,0819813476,,Compcare,868357867,Plan E,Rabies,0,0,0,0
+200009208185030,7e691e9a752a4732313e4551c4891026,GOOSEN,RENIER,2000-09-20,Male,Black,Pharmacists,90 Albert Luthuli drive,,,0797601576,RENIER@gmail.com,Medimed,716106347,Plan A,Measles,0,0,0,0
+200011255406023,c770bbbaf33956e3809338ada378fe80,PRINSLOO,SUNÉ,2000-11-25,Male,Other,Government,30 Maphongo street,Upington,Northern Cape,0808394165,SUNÉ@gmail.com,,,,,0,0,0,0
+200107029400084,843561eb47a810d179108c8fecd148a9,WALKER,GARRETT JOSHUA,2001-07-02,Male,Indian,Medical,16 Totius straat,Kroonstad,Vrystaat,0783206128,,Bonitas,923791177,Plan D,Dengue Fever,0,0,0,0
+200107091689041,f5d5494626d9d0684e8a2f4b13d236cc,LANDSBERG,RUDINÉ,2001-07-09,Female,American,Medical,64 Jeppe street,Potchefstroom,North-West,0797809075,,Anglo medical,755899248,Plan B,Measles,0,0,0,0
+200107318841014,dbc58f7d44245b4788753d76a33bd624,NAUDE,KATINKA,2001-07-31,Male,Mixed-Race,Government,66 Albert Luthuli drive,Bela-bela,Limpopo,0772171745,KATINKA@gmail.com,,,,Rabies,0,0,0,0
+200108043515025,8bc619bf16ab148059e5c72020d62ac8,SEKHUTE,CHRISTIAAN,2001-08-04,Female,Other,Medical,3 Spruit straat,,,0789832821,,Barloworld medical,052771028,Plan C,Measles,0,0,0,0
+200109021310038,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,CONRAD,2001-09-02,Female,Mixed-Race,Patient,7 Spruit straat,,,0811268654,CONRAD@gmail.com,,,,Cholera,0,0,0,0
+200109193275030,a8596e0820889f80f3b39878421246ea,VAN RHEEDE VAN OUDTSHOORN,ALBERTUS,2001-09-19,Female,Asian,Pathology,21 Spruit straat,Bethlehem,Vrystaat,0796663174,ALBERTUS@gmail.com,,,,Cholera,0,0,0,0
+200110163013036,e65975e3ba4fd77e70b7150f0987d4af,MOKGOSI,NATASHA,2001-10-16,Female,Mixed-Race,Pathology,55 Pretorius straat,Bloemfontein,Vrystaat,0830157927,,,,,Dengue Fever,0,0,0,0
+200110275828037,bc3598031eca29f2213b233a1bc96f7b,BROODRYK,TAVONGA HANI,2001-10-27,Male,Asian,Government,56 Maphongo street,Plokwane,Limpopo,0828900598,TAVONGA HANI@gmail.com,Liberty,469573211,Plan C,Rabies,0,0,0,0
+200111102634055,78e80cb593c448a25a13212eb4694ddd,SWART,STEPHANUS BUISINNE,2001-11-10,Female,Asian,Medical,86 Spruit straat,Klerksdorp,North-West,0777336981,STEPHANUS BUISINNE@gmail.com,,,,,0,0,0,0
+200111273227066,46e0e326c665a06a3865d29a46df6ecb,VAN DEVENTER,CHRISTOFF,2001-11-27,Female,American,Government,29 Pretorius straat,,,0778053199,CHRISTOFF@gmail.com,,,,,0,0,0,0
+200112103382013,d08d08c7b1f7091b2ff4555660e58e25,VAN DER BERG,JOSHUA,2001-12-10,Female,Black,Pathology,24 Kwena street,,,0805426205,JOSHUA@gmail.com,Profmed,916970297,Plan E,Rabies,0,0,0,0
+200203317748040,6dce7f33af080684521f0460d67dd841,QUSHEGA,LEANN,2002-03-31,Male,American,Medical,49 Totius straat,,,0817938898,LEANN@gmail.com,,,,Ebola,0,0,0,0
+200204176353057,85aca7f21631e3ddc2bf6dac404afb49,VAN ASWEGEN,ADRIAAN,2002-04-17,Male,Indian,Government,75 Kwena street,Welkom,Vrystaat,0751580491,ADRIAAN@gmail.com,,,,Cholera,0,0,0,0
+200205088823035,9d8c9bfc9f8d9566ad82abfc444e82da,DE WET,AKABONGWE SIBUSISO JUNIOR,2002-05-08,Male,Asian,Government,72 Spruit straat,Krugersdorp,Gauteng,0836177393,AKABONGWE SIBUSISO JUNIOR@gmail.com,Barloworld medical,586837851,Plan D,Ebola,0,0,0,0
+200205089793052,5c49cf3bf6a5819135de34d329d5d00f,SCHOLTZ,NEHAL,2002-05-08,Male,Indian,Medical,98 Totius straat,Mahikeng,North-West,0828500800,NEHAL@gmail.com,,,,Cholera,0,0,0,0
+200208127897074,6ae7f5d1c0db67d43b94f8141d66df63,SCHUTTE,TIAAN,2002-08-12,Male,Other,Pathology,98 Eleazer straat,Randfontein,Gauteng,0752056641,,Genesis,795042702,Plan A,Ebola,0,0,0,0
+200209012010072,9683b715df97bb254929d13d8c2dd389,FERREIRA,SEVANNAH DANELL,2002-09-01,Female,Other,Patient,35 Pretorius straat,Zeerust,North-West,,SEVANNAH DANELL@gmail.com,,,,Covid-19,0,0,0,0
+200209019314073,2be57c2b4460ad832e9dbee76db6f1b4,OOSTHUIZEN,JACOB,2002-09-01,Male,White ,Pharmacists,6 Goetz straat,Kimberley,Northern Cape,0820838009,JACOB@gmail.com,,,,Measles,0,0,0,0
+200209194990048,8b5b069b54b94e64688aaeb51642b4ff,VAN DER WALT,MATTHYS MICHAEL,2002-09-19,Female,Latino,Pathology,52 Spruit straat,,,0827434340,,Compcare,627741394,Plan C,Measles,0,0,0,0
+200210117728061,be5996236c66d268d2517c3e788010a5,LOUW,SALMA,2002-10-11,Male,Black,Pathology,91 Clark street,Worcester,Western Cape,0772842780,SALMA@gmail.com,,,,Rabies,0,0,0,0
+200210126874014,204deaa6013413ba37a765f6884a5c2e,GRIESEL,JOHANNES STEFANUS,2002-10-12,Male,Other,Medical,53 Ross street,Mahikeng,North-West,0739077024,JOHANNES STEFANUS@gmail.com,SAMWUMED,824625807,Plan E,Dengue Fever,0,0,0,0
+200211235759035,3168ad59e7dd6c3d2ca39563e7c9b0bc,MABASO,OLWAM LESEDI KHAYA,2002-11-23,Male,Mixed-Race,Pathology,87 Maphongo street,Bethlehem,Vrystaat,0779366523,OLWAM LESEDI KHAYA@gmail.com,Anglo medical,274621467,Plan B,Covid-19,0,0,0,0
+200212259436030,ea27c5878cef3618806443f4398d8ebb,VAN DER MERWE,HENDRIK JOHANNES,2002-12-25,Male,Mixed-Race,Government,97 Albert Luthuli drive,Durban,Kwazulu-Natal,0803166754,HENDRIK JOHANNES@gmail.com,,,,Measles,0,0,0,0
+200301075583021,b0013b4ef88a77c10177a73a76014aa8,FOURIE,JONATHAN,2003-01-07,Male,Mixed-Race,Medical,33 Jeppe street,Richardsbaai,Kwazulu-Natal,0766381074,,,,,Ebola,0,0,0,0
+200301088291074,1ee59e1ab01f909c428b6353e86dc8ac,DE VOS,JAN ERASMUS,2003-01-08,Male,Black,Pathology,31 Ross street,Mosselbaai,Western Cape,0797714034,JAN ERASMUS@gmail.com,,,,Measles,0,0,0,0
+200303075262024,d64364af94e0fd8dd869b5c727ff81c4,TSIWANA,WIAN,2003-03-07,Male,Latino,Pathology,71 Albert Luthuli drive,Bloemfontein,Vrystaat,0724260983,WIAN@gmail.com,,,,,0,0,0,0
+200303093769085,ea27c5878cef3618806443f4398d8ebb,VAN DER MERWE,RUBEN,2003-03-09,Female,Latino,Medical,35 Mosidi street,,,0736073058,RUBEN@gmail.com,,,,,0,0,0,0
+200304152186095,02ff6cdbb06dda80c345dde5ceffea34,SEVENSTER,EDRICH,2003-04-15,Female,Black,Patient,44 Ross street,Musina,Limpopo,0833578746,EDRICH@gmail.com,FedHealth,712066832,Plan B,Ebola,0,0,0,0
+200309157507047,7b7172d6e0be22e2851eb7ab3bbf4c82,KOEKEMOER,DANIKA,2003-09-15,Male,Black,Pharmacists,37 Grimbeeck straat,,,0737430084,DANIKA@gmail.com,,,,Rabies,0,0,0,0
+200402029712055,5c49cf3bf6a5819135de34d329d5d00f,SCHOLTZ,JOSHUA,2004-02-02,Male,Indian,Patient,10 Grimbeeck straat,East London,Eastern Cape,0755409009,JOSHUA@gmail.com,,,,,0,0,0,0
+200402272848078,dbc58f7d44245b4788753d76a33bd624,NAUDE,SIPHO JERRY,2004-02-27,Female,Other,Patient,37 Maphongo street,Bloemfontein,Vrystaat,0771025318,SIPHO JERRY@gmail.com,CAMAF,243029125,Plan D,,0,0,0,0
+200403123525051,56cd487ca69b345f2b1f658537203607,VAN DEN BERG,LUKE,2004-03-12,Female,Mixed-Race,Pharmacists,92 Mosidi street,Port Shepstone,Kwazulu-Natal,0834641890,LUKE@gmail.com,,,,,0,0,0,0
+200403231522053,0170d2b5cb2477245f08ce6d27c3ee25,GREEFF,JOHANNES PETRUS,2004-03-23,Female,Mixed-Race,Patient,39 Pretorius straat,Pietermaritzburg,Kwazulu-Natal,0797449798,JOHANNES PETRUS@gmail.com,,,,Ebola,0,0,0,0
+200403296308061,a056521bb1e65f922097182bab70e7a3,SEREO,LOUWRENS MARTHINUS,2004-03-29,Male,Latino,Government,33 Goetz straat,Hanover,Northern Cape,0778435956,,,,,Measles,0,0,0,0
+200405125993070,384af3242725bdad05a1d3acc96458b7,HENNING,RUAN WILLEM,2004-05-12,Male,Other,Patient,77 Albert Luthuli drive,Kimberley,Northern Cape,0800039502,RUAN WILLEM@gmail.com,Keyhealth,681541198,Plan D,Ebola,0,0,0,0
+200409201897084,f647ee5be9ec84b220973045a43f95c3,MAARTENS,HERMAN ALBERT,2004-09-20,Female,American,Government,10 Maphongo street,Britstown,Northern Cape,0733862321,HERMAN ALBERT@gmail.com,Liberty,000219808,Plan E,Measles,0,0,0,0
+200409234204081,76e9a9b6564ed4b715f9342ca01c5276,GROBBELAAR,ABRAHAM JOHANNES,2004-09-23,Female,Asian,Medical,51 Albert Luthuli drive,Musina,Limpopo,0725227173,,,,,Cholera,0,0,0,0
+200409269633074,4a4c8fda6142717b67b9fe6831427fc5,BRITZ,JÉAN,2004-09-26,Male,Mixed-Race,Pharmacists,79 Kwena street,Zeerust,North-West,0782980074,JÉAN@gmail.com,,,,Rabies,0,0,0,0
+200410204262042,2be57c2b4460ad832e9dbee76db6f1b4,OOSTHUIZEN,ANDRÉ GEORGE,2004-10-20,Female,Latino,Pharmacists,16 Jeppe street,Kroonstad,Vrystaat,0796384439,ANDRÉ GEORGE@gmail.com,,,,Measles,0,0,0,0
+200412181735069,5c49cf3bf6a5819135de34d329d5d00f,SCHOLTZ,JEANINE BIANCA,2004-12-18,Female,Asian,Pathology,28 Totius straat,Port Shepstone,Kwazulu-Natal,0806257201,JEANINE BIANCA@gmail.com,Compcare,069043933,Plan E,,0,0,0,0
+200412235031070,0fcccf521c19b8e216f016b608d80ac5,KRUGEL,INGE,2004-12-23,Male,Latino,Patient,38 James Moroka drive,Welkom,Vrystaat,0732058486,INGE@gmail.com,Barloworld medical,765591204,Plan D,Cholera,0,0,0,0
+200412283545015,f1d9fec7153463a3233510532effea52,SCHOEMAN,HOPEWELL,2004-12-28,Female,Latino,Patient,32 Pretorius straat,Kroonstad,Vrystaat,0737924365,HOPEWELL@gmail.com,,,,Cholera,0,0,0,0
+200504028566051,78e80cb593c448a25a13212eb4694ddd,SWART,ENRICO,2005-04-02,Male,White ,Pharmacists,84 Clark street,Pofadder,Northern Cape,0747566136,ENRICO@gmail.com,Profmed,627982235,Plan B,Dengue Fever,0,0,0,0
+200505249703065,dc4bcb9fa7ea0883700d37d6dec57cde,MOTSATSE,CARLA,2005-05-24,Male,American,Pharmacists,68 Maphongo street,Ulundi,Kwazulu-Natal,0803384289,CARLA@gmail.com,,,,Cholera,0,0,0,0
+200508121084098,83f0f2567929ffdeacf54c7bd74eaab8,MOKHASINYANE,ARIADNE HELENE,2005-08-12,Female,Other,Pathology,10 Pretorius straat,Bethlehem,Vrystaat,0756101419,ARIADNE HELENE@gmail.com,,,,,0,0,0,0
+200508147046014,83f0f2567929ffdeacf54c7bd74eaab8,MOKHASINYANE,JACOBUS,2005-08-14,Male,White ,Pharmacists,3 Ross street,,,0760211024,JACOBUS@gmail.com,Keyhealth,308278559,Plan C,,0,0,0,0
+200509177201050,c86e522b2ef8c7715cd1a2e60085d821,RANKIN,VICTOR,2005-09-17,Male,Other,Medical,45 Maphongo street,Johannesburg,Gauteng,0834137973,VICTOR@gmail.com,,,,Covid-19,0,0,0,0
+200512115728015,f6bdc0ad47edb89416df4d25dab9c351,DEYSEL,ANDRIES JOHANNES,2005-12-11,Male,Black,Pathology,70 Totius straat,Rustenburg,North-West,0753768563,,,,,Covid-19,0,0,0,0
+200603085634055,b1287ef18d7dd25ad9e6e0e05f85b288,DU TOIT,JOHANNES STEFANUS,2006-03-08,Male,Mixed-Race,Patient,71 Louwstraat,,,0786608476,JOHANNES STEFANUS@gmail.com,,,,Covid-19,0,0,0,0
+200604232117043,4887c0483683f44a09673bd0c7927cf1,NEL,RENÉE,2006-04-23,Female,Other,Pathology,52 James Moroka drive,Bloemfontein,Vrystaat,0786086502,RENÉE@gmail.com,,,,Covid-19,0,0,0,0
+200605111676019,6e91212e254deb83fac5165ded7c084f,OLIVIER,JEANINE BIANCA,2006-05-11,Female,Indian,Medical,23 Maphongo street,,,,JEANINE BIANCA@gmail.com,,,,Measles,0,0,0,0
+200605294654092,10f9ce62f956003192050274617ff8c5,LABUSCHAGNE,JACQUES,2006-05-29,Female,American,Pharmacists,96 Pretorius straat,Ulundi,Kwazulu-Natal,,JACQUES@gmail.com,Anglo medical,316434494,Plan E,Dengue Fever,0,0,0,0
+200606072645098,6f7787d7b9c07511142c842c04e60735,BOTHA,DU PREEZ,2006-06-07,Female,White ,Patient,48 Louwstraat,Worcester,Western Cape,0839898679,DU PREEZ@gmail.com,Momentum,380616143,Plan A,Covid-19,0,0,0,0
+200606229304011,a056521bb1e65f922097182bab70e7a3,SEREO,NEHAL,2006-06-22,Male,Asian,Medical,35 Eleazer straat,Richardsbaai,Kwazulu-Natal,0806592472,,,,,Measles,0,0,0,0
+200607077446097,56cd487ca69b345f2b1f658537203607,VAN DEN BERG,NEHAL,2006-07-07,Male,White ,Patient,56 Totius straat,Ermelo,Mpumalanga,0772549948,NEHAL@gmail.com,,,,Measles,0,0,0,0
+200609068928072,1ed2af096b50be59a14883c11d72240f,ESTERHUYSE,LOUIS,2006-09-06,Male,Latino,Patient,12 Goetz straat,,,0768922819,LOUIS@gmail.com,,,,Dengue Fever,0,0,0,0
+200610211183077,447aa9932bff6043cd1db94da291db72,LE ROUX,CHADLEE LUKE,2006-10-21,Female,Asian,Patient,32 Kwena street,,,0764219099,CHADLEE LUKE@gmail.com,CAMAF,200956370,Plan C,Covid-19,0,0,0,0
+200612029221024,6d427a48416fb79385df215420073042,GROBLER,JUSTIN PAUL MICHAEL,2006-12-02,Male,Black,Pathology,74 Eleazer straat,Hanover,Northern Cape,0748592577,JUSTIN PAUL MICHAEL@gmail.com,Momentum,544381812,Plan E,,0,0,0,0
+200612174890014,f062feecbafbeeed2b9bb9b95af9b603,FREY,KARABO,2006-12-17,Female,Other,Pharmacists,46 Grimbeeck straat,,,0754167235,KARABO@gmail.com,,,,Cholera,0,0,0,0
+200701134410064,be5996236c66d268d2517c3e788010a5,LOUW,NEIL WYNAND,2007-01-13,Female,Other,Medical,81 James Moroka drive,Mahikeng,North-West,0742233311,NEIL WYNAND@gmail.com,,,,Covid-19,0,0,0,0
+200701255063061,81b5f74021c613e4ddeee163a799f9a1,NKHWASHU,DAVID JUSTIN,2007-01-25,Male,Other,Pharmacists,38 Pretorius straat,,,0800114929,,,,,Dengue Fever,0,0,0,0
+200702132361077,1ffef13a69bf063f76bed8d7488b5dd9,GROENEWALD,CHARLES PETER,2007-02-13,Female,Other,Government,96 Eleazer straat,Rustenburg,North-West,,CHARLES PETER@gmail.com,,,,Measles,0,0,0,0
+200702281305097,aef0f01c38315a1c1d2970173a3d1649,HAVENGA,HELEEN ERLIN,2007-02-28,Female,Other,Patient,54 Louwstraat,Pretoria,Gauteng,0744764660,,,,,Ebola,0,0,0,0
+200704303318070,a85dea2937f53039735e4ddbdc65a9c9,BURGER,MORNÉ JAN,2007-04-30,Female,Mixed-Race,Government,67 Albert Luthuli drive,Plokwane,Limpopo,0802116746,MORNÉ JAN@gmail.com,,,,Cholera,0,0,0,0
+200706098787022,1a6f7ceef06a15b0479463dc7d9e290b,CHAMBERS,ELÖISE,2007-06-09,Male,Latino,Pathology,56 Maphongo street,,,0737434598,,Compcare,311213583,Plan D,Cholera,0,0,0,0
+200707038942074,9d8c9bfc9f8d9566ad82abfc444e82da,DE WET,TIAAN,2007-07-03,Male,Asian,Government,72 Spruit straat,,,0773284401,TIAAN@gmail.com,Barloworld medical,586837851,Plan D,Ebola,0,0,0,0
+200707164661041,5aca1dedcd0531885ce7e5cca5417354,ROSSOUW,WILLEM MICHIEL,2007-07-16,Female,White ,Pharmacists,99 Eleazer straat,George,Western Cape,0758012689,,,,,Covid-19,0,0,0,0
+200707178405089,b1287ef18d7dd25ad9e6e0e05f85b288,DU TOIT,JÉAN,2007-07-17,Male,White ,Pharmacists,96 Maphongo street,Plokwane,Limpopo,0790215654,JÉAN@gmail.com,Anglo medical,242252255,Plan A,Rabies,0,0,0,0
+200710219518083,7b7172d6e0be22e2851eb7ab3bbf4c82,KOEKEMOER,KYLE ALOIS,2007-10-21,Male,Black,Pharmacists,37 Grimbeeck straat,Springbok,Northern Cape,0767063004,,,,,Rabies,0,0,0,0
+200711158070086,712713e067f952f809f439a56a03b401,POGGENPOEL,CHANDRI,2007-11-15,Male,Indian,Medical,10 Pitso street,Middelburg,Mpumalanga,0764858815,CHANDRI@gmail.com,SAMWUMED,439483586,Plan D,Dengue Fever,0,0,0,0
+200711239048014,5c49cf3bf6a5819135de34d329d5d00f,SCHOLTZ,ALBERTUS BRINK,2007-11-23,Male,Indian,Pathology,48 Jeppe street,Port Shepstone,Kwazulu-Natal,,,SelfMed,876175721,Plan C,Ebola,0,0,0,0
+200802085381034,c770bbbaf33956e3809338ada378fe80,PRINSLOO,ALBERTUS,2008-02-08,Male,Other,Pharmacists,53 Jeppe street,,,0722541942,ALBERTUS@gmail.com,,,,Dengue Fever,0,0,0,0
+200804067041087,1a6f7ceef06a15b0479463dc7d9e290b,CHAMBERS,DIVAN,2008-04-06,Male,Asian,Government,1 Albert Luthuli drive,Cape Town,Western Cape,0733471470,DIVAN@gmail.com,Bonitas,488923359,Plan D,Covid-19,0,0,0,0
+200806154657055,2f84aa21de7cf3b0b2466019ae762e74,MAREE,PASEKA PADRICK,2008-06-15,Female,Other,Medical,92 Eleazer straat,,,0775210222,PASEKA PADRICK@gmail.com,,,,,0,0,0,0
+200806186508080,d9b31c6e38a5797d75ce18015432459a,OBISI,RULEEN,2008-06-18,Male,Indian,Pathology,64 Grimbeeck straat,East London,Eastern Cape,0804220973,RULEEN@gmail.com,Bonitas,663470762,Plan C,,0,0,0,0
+200806295305045,8bc619bf16ab148059e5c72020d62ac8,SEKHUTE,JUAN-JACQUES JUANDRÉ,2008-06-29,Male,Indian,Pathology,51 Clark street,Welkom,Vrystaat,0797072355,JUAN-JACQUES JUANDRÉ@gmail.com,,,,Ebola,0,0,0,0
+200809091129031,32c3f4eca571927f313e5dba970bb278,NYAKUTSE,PETRUS,2008-09-09,Female,Indian,Patient,40 Spruit straat,,,0790308332,PETRUS@gmail.com,,,,Ebola,0,0,0,0
+200811019557013,843561eb47a810d179108c8fecd148a9,WALKER,PHILANI NTANDO,2008-11-01,Male,Latino,Medical,58 Kwena street,Nelspruit,Mpumalanga,0723676927,PHILANI NTANDO@gmail.com,Anglo medical,689595697,Plan E,Cholera,0,0,0,0
+200812156280035,d08d08c7b1f7091b2ff4555660e58e25,VAN DER BERG,PAUL,2008-12-15,Male,Black,Pathology,24 Kwena street,Welkom,Vrystaat,0826796910,PAUL@gmail.com,Profmed,916970297,Plan E,Rabies,0,0,0,0
+200901015898016,3e151694da285b1cac40752b6731cab3,MALAN,MARCO,2009-01-01,Male,Mixed-Race,Pathology,49 Totius straat,Pietermaritzburg,Kwazulu-Natal,0765088228,,,,,,0,0,0,0
+200901079804031,07b84fb6177878d832a42f0d4400350b,GRANT,JANCO STEFAN,2009-01-07,Male,Mixed-Race,Patient,21 Clark street,,,,JANCO STEFAN@gmail.com,,,,Ebola,0,0,0,0
+200901186041013,81b5f74021c613e4ddeee163a799f9a1,NKHWASHU,XANDER CAROLUS,2009-01-18,Male,Other,Pharmacists,38 Pretorius straat,Mosselbaai,Western Cape,,XANDER CAROLUS@gmail.com,,,,Dengue Fever,0,0,0,0
+200901191185012,e65975e3ba4fd77e70b7150f0987d4af,MOKGOSI,DAVID TIM,2009-01-19,Female,Asian,Government,36 Ross street,Cape Town,Western Cape,0835116723,DAVID TIM@gmail.com,Cape medical plan,282806065,Plan D,Covid-19,0,0,0,0
+200901311470013,4887c0483683f44a09673bd0c7927cf1,NEL,JUANITA,2009-01-31,Female,Asian,Medical,54 Grimbeeck straat,Durban,Kwazulu-Natal,,JUANITA@gmail.com,,,,Measles,0,0,0,0
+200903284093039,1a6f7ceef06a15b0479463dc7d9e290b,CHAMBERS,TRISTEN,2009-03-28,Female,Latino,Pathology,56 Maphongo street,,,0735086727,TRISTEN@gmail.com,Compcare,311213583,Plan D,Cholera,0,0,0,0
+200904122473068,7b50409ab5413b8a42f2441b25f38862,BEUKE,HENDRIK PETRUS,2009-04-12,Female,Latino,Pathology,73 Grimbeeck straat,Springbok,Northern Cape,0814769640,HENDRIK PETRUS@gmail.com,,,,Measles,0,0,0,0
+200907142045082,10f9ce62f956003192050274617ff8c5,LABUSCHAGNE,STEFAN,2009-07-14,Female,Black,Medical,70 Albert Luthuli drive,Potchefstroom,North-West,0737021390,,,,,Cholera,0,0,0,0
+200907269027064,85c3eb64c2f8460e7cef687561dc8f57,JANSE VAN RENSBURG,WILLEM MICHIEL,2009-07-26,Male,Black,Patient,95 Ross street,Zeerust,North-West,0743201087,WILLEM MICHIEL@gmail.com,Liberty Health,220552636,Plan D,Rabies,0,0,0,0
+200909204066023,d4cefce65645a39bb266f710cf2b6c1a,LUCAS,HANNO JOUBERT,2009-09-20,Female,American,Medical,81 Totius straat,Bethlehem,Vrystaat,,,,,,Cholera,0,0,0,0
+200911125654074,1db648c85615d34475c30e6a1b269eae,HOLTZHAUSEN,PIETER,2009-11-12,Male,American,Patient,43 Goetz straat,Bela-bela,Limpopo,0781471922,PIETER@gmail.com,Bankmed,065493760,Plan B,Cholera,0,0,0,0
+200911306470098,df8c4228f96fe211961d78fd7cfe1c5f,WASSERMAN,PEARL-ANN,2009-11-30,Male,Mixed-Race,Pharmacists,72 Pretorius straat,George,Western Cape,0770120573,PEARL-ANN@gmail.com,Fish-med,324452473,Plan C,Cholera,0,0,0,0
+201001123518074,37bf20d13eaa3c837d63046588501dc9,DAMBHA,MPHO GIFT,2010-01-12,Female,Mixed-Race,Pharmacists,80 Grimbeeck straat,Bloemfontein,Vrystaat,0798707773,MPHO GIFT@gmail.com,,,,,0,0,0,0
+201005176298079,18c7353c63b67c2298162caf060c31db,DE VILLIERS,BRETT KEVIN,2010-05-17,Male,Black,Medical,11 Clark street,Pretoria,Gauteng,0733807270,BRETT KEVIN@gmail.com,,,,,0,0,0,0
+201007057256028,c0e4904dc230ebb628caac4759497d74,MOTHIBE,FAITH BOIKARABELO,2010-07-05,Male,Asian,Pharmacists,87 James Moroka drive,,,0834208200,FAITH BOIKARABELO@gmail.com,,,,,0,0,0,0
+201007083145035,3599af7f7ea3afaedef1f6e878462a04,SITHOLE,NIEL,2010-07-08,Female,American,Pharmacists,14 Albert Luthuli drive,Port Elizabeth,Eastern Cape,0725989947,,,,,Measles,0,0,0,0
+201007108728020,df8c4228f96fe211961d78fd7cfe1c5f,WASSERMAN,ZINELLE,2010-07-10,Male,Indian,Pharmacists,89 Pitso street,,,0755362178,ZINELLE@gmail.com,,,,Covid-19,0,0,0,0
+201008197208094,4356f971f02aa038350bf6e2af4faee7,CLOETE,MONIQUE,2010-08-19,Male,American,Medical,18 Kwena street,,,0721572249,MONIQUE@gmail.com,,,,Measles,0,0,0,0
+201009011748087,6f7787d7b9c07511142c842c04e60735,BOTHA,DIAN,2010-09-01,Female,Black,Pathology,18 Kwena street,Springbok,Northern Cape,0823927688,DIAN@gmail.com,,,,,0,0,0,0
+201011186886068,b7317b50693bac59880346cfb7d051ee,JOUBERT,NANET,2010-11-18,Male,Mixed-Race,Pathology,57 James Moroka drive,,,0811168496,NANET@gmail.com,,,,Rabies,0,0,0,0
+201102172579027,3227a48f5fb09586ea4bd17255262f5b,HAMMAN,NICOLAAS JOHANNES LOUW,2011-02-17,Female,Mixed-Race,Pharmacists,61 Kwena street,,,0787078055,NICOLAAS JOHANNES LOUW@gmail.com,,,,Measles,0,0,0,0
+201104264941073,3e151694da285b1cac40752b6731cab3,MALAN,HELEEN ERLIN,2011-04-26,Female,Mixed-Race,Pathology,49 Totius straat,,,0736833088,,,,,,0,0,0,0
+201105072485026,10f9ce62f956003192050274617ff8c5,LABUSCHAGNE,RINUS JOHAN,2011-05-07,Female,Mixed-Race,Government,37 Pitso street,Hanover,Northern Cape,0808283173,RINUS JOHAN@gmail.com,Discovery,292074767,Plan D,Covid-19,0,0,0,0
+201105132070072,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,JOHANNES DU PREEZ,2011-05-13,Female,Latino,Government,29 Eleazer straat,Hanover,Northern Cape,0734725844,JOHANNES DU PREEZ@gmail.com,,,,Ebola,0,0,0,0
+201110127151036,1a87a751ca02a364334889be831b41fe,PIETERSE,DANIEL JOHANNES,2011-10-12,Male,Indian,Government,16 Goetz straat,Randfontein,Gauteng,0828947763,DANIEL JOHANNES@gmail.com,,,,Cholera,0,0,0,0
+201111057448091,23639f1070045159fb60fd659e061023,VAN SCHALKWYK,LINDOKUHLE GODSLOVE,2011-11-05,Male,Latino,Patient,63 Grimbeeck straat,Nelspruit,Mpumalanga,0820328672,LINDOKUHLE GODSLOVE@gmail.com,,,,Cholera,0,0,0,0
+201112288405084,454b581e0f3f2011b07cbd3fafab71d0,BORNMAN,DAVID HENDRIK,2011-12-28,Male,Mixed-Race,Pharmacists,6 Louwstraat,Kuruman,Northern Cape,0728870757,DAVID HENDRIK@gmail.com,,,,Rabies,0,0,0,0
+201201311164017,b7128409a672f84a5c9ae1e4fb62f03c,MOTLHAKO,DIMPHO,2012-01-31,Female,Black,Pharmacists,8 Kwena street,Upington,Northern Cape,,DIMPHO@gmail.com,,,,Measles,0,0,0,0
+201201314588099,80e533604efb3c3072fd300dc4205f10,MARUPING,DANIEL ANDREAS,2012-01-31,Female,White ,Medical,15 Pitso street,Nelspruit,Mpumalanga,0798263708,DANIEL ANDREAS@gmail.com,Bonitas,023621612,Plan B,Dengue Fever,0,0,0,0
+201203176620029,550072dcd48a658a083e609a0c2eb3cd,MOCUMI,MICHAEL RICHARD,2012-03-17,Male,White ,Pharmacists,79 Clark street,Pofadder,Northern Cape,0782572109,MICHAEL RICHARD@gmail.com,,,,Ebola,0,0,0,0
+201203313722045,9d8c9bfc9f8d9566ad82abfc444e82da,DE WET,ANDREAS JOHANNES,2012-03-31,Female,Latino,Pathology,45 Ross street,Zeerust,North-West,0813634941,ANDREAS JOHANNES@gmail.com,Pharos,311875363,Plan A,Cholera,0,0,0,0
+201204103430016,3e151694da285b1cac40752b6731cab3,MALAN,MARNUS,2012-04-10,Female,White ,Patient,94 Ross street,East London,Eastern Cape,0825200918,MARNUS@gmail.com,,,,Rabies,0,0,0,0
+201204244004015,ea27c5878cef3618806443f4398d8ebb,VAN DER MERWE,MARIUS JACOBUS,2012-04-24,Female,Other,Pharmacists,94 Spruit straat,,,0753382290,MARIUS JACOBUS@gmail.com,Medimed,619042138,Plan B,,0,0,0,0
+201205064289026,bba046664fb0aa8322f459b3052116f5,RABIE,MANDLA PATRICK JUNIOR,2012-05-06,Female,White ,Government,25 Spruit straat,Richardsbaai,Kwazulu-Natal,0749436198,MANDLA PATRICK JUNIOR@gmail.com,,,,Rabies,0,0,0,0
+201205101716015,3e151694da285b1cac40752b6731cab3,MALAN,HOPEWELL,2012-05-10,Female,Black,Patient,58 Albert Luthuli drive,,,0733648838,,,,,Rabies,0,0,0,0
+201207091530046,df8c4228f96fe211961d78fd7cfe1c5f,WASSERMAN,ALMERI ZURIKA,2012-07-09,Female,Asian,Pharmacists,94 Goetz straat,,,0762115567,,,,,,0,0,0,0
+201207101572068,6f7787d7b9c07511142c842c04e60735,BOTHA,HENRO,2012-07-10,Female,Other,Patient,22 James Moroka drive,Cape Town,Western Cape,0787919215,HENRO@gmail.com,Genesis,479744891,Plan D,Measles,0,0,0,0
+201207106867066,a3337e4f0e408b2ce01a763702f7b0c2,VAN NIEKERK,MIRESCHEN,2012-07-10,Male,Black,Government,27 Pitso street,Bela-bela,Limpopo,0779017660,MIRESCHEN@gmail.com,,,,Cholera,0,0,0,0
+201211096175018,12bc6a0f50bcee68661ab4ca4f4e0f6e,KOWAHANE,WOUTER,2012-11-09,Male,White ,Medical,49 Pitso street,Bloemfontein,Vrystaat,0783939784,WOUTER@gmail.com,,,,Covid-19,0,0,0,0
+201301255256071,62c8be3101a8741cba5e80a675e1e24b,VAN ZYL,LOUIS,2013-01-25,Male,American,Medical,83 Spruit straat,,,0731658445,,,,,Measles,0,0,0,0
+201304306200071,48bcf3d44084d524c72e1e405c175e89,VAN DYK,RUDOLF JOHANNES,2013-04-30,Male,Indian,Pharmacists,49 Pitso street,,,0798337050,RUDOLF JOHANNES@gmail.com,Keyhealth,886669461,Plan B,Cholera,0,0,0,0
+201309143638025,3e151694da285b1cac40752b6731cab3,MALAN,TRISTAN MICHIEL,2013-09-14,Female,Indian,Patient,94 Mosidi street,,,0830303281,,Pharos,608402990,Plan E,Ebola,0,0,0,0
+201310104527024,78e80cb593c448a25a13212eb4694ddd,SWART,JOVAN,2013-10-10,Female,White ,Government,36 Eleazer straat,,,0758904648,JOVAN@gmail.com,Barloworld medical,478185450,Plan B,Dengue Fever,0,0,0,0
+201311157263051,a85dea2937f53039735e4ddbdc65a9c9,BURGER,CHEREÉ,2013-11-15,Male,White ,Patient,38 Pitso street,,,0826009092,CHEREÉ@gmail.com,CAMAF,820824403,Plan E,Measles,0,0,0,0
+201401029833053,6f7787d7b9c07511142c842c04e60735,BOTHA,MARINUS,2014-01-02,Male,Black,Pathology,18 Kwena street,,,0753784439,,,,,,0,0,0,0
+201402075212058,85aa7de9a9ac807f6294cc5b2abc79cf,BARNARD,JONATHAN,2014-02-07,Male,Mixed-Race,Government,34 Kwena street,Welkom,Vrystaat,0778996328,,,,,Rabies,0,0,0,0
+201402079099048,37bf20d13eaa3c837d63046588501dc9,DAMBHA,MARCO CORNELIUS,2014-02-07,Male,Other,Pathology,56 Pretorius straat,George,Western Cape,0771298230,,,,,Measles,0,0,0,0
+201403061152096,b7317b50693bac59880346cfb7d051ee,JOUBERT,MICHAEL IAN,2014-03-06,Female,Mixed-Race,Pathology,57 James Moroka drive,Ermelo,Mpumalanga,0831915406,MICHAEL IAN@gmail.com,,,,Rabies,0,0,0,0
+201404097235055,a0de1296c78389dd40f32ea6675e2bc7,KOK,OWEN,2014-04-09,Male,Mixed-Race,Pathology,55 Albert Luthuli drive,Ermelo,Mpumalanga,0737721674,OWEN@gmail.com,,,,,0,0,0,0
+201404172580025,595eb747565e85d531de75828e954538,DE KOCK,WERNICH,2014-04-17,Female,Black,Pharmacists,21 Ross street,,,0738870547,WERNICH@gmail.com,,,,Rabies,0,0,0,0
+201405302720036,8245d6193b534ef19d29d1b3ac240033,THULO,JAN-HENDRIK,2014-05-30,Female,Mixed-Race,Pharmacists,27 Maphongo street,Mosselbaai,Western Cape,0751057138,JAN-HENDRIK@gmail.com,,,,Rabies,0,0,0,0
+201406276934016,3ce493283b944aef48809bded2cad172,SELOGILWE,STEPHANUS HELGAARDT,2014-06-27,Male,Black,Pathology,93 Louwstraat,,,0759486227,STEPHANUS HELGAARDT@gmail.com,,,,Ebola,0,0,0,0
+201406295861049,ebc5d12802637ef3204fcd33de9f8015,MHLONGO,STEPHANUS BUISINNE,2014-06-29,Male,Indian,Government,18 Eleazer straat,,,,STEPHANUS BUISINNE@gmail.com,,,,Cholera,0,0,0,0
+201407012407059,46c6dcc9a19553146f430a87a60a2bde,SOLOMON,RUAN WILLEM,2014-07-01,Female,Indian,Patient,54 Jeppe street,,,0723369730,RUAN WILLEM@gmail.com,,,,Dengue Fever,0,0,0,0
+201408023356047,0e32ce877c244307c2a72f30ad468d26,FOUCHE,KARABO GLADYS,2014-08-02,Female,White ,Patient,89 Totius straat,Bloemfontein,Vrystaat,,KARABO GLADYS@gmail.com,,,,Ebola,0,0,0,0
+201409201491059,27742948737167c174c05cce73518df1,MULLER,JOHANNES STEPHANUS KAREL,2014-09-20,Female,Other,Patient,23 James Moroka drive,Beaufort West,Western Cape,,,,,,Measles,0,0,0,0
+201411236169018,f6bdc0ad47edb89416df4d25dab9c351,DEYSEL,MAIAR MAMDUH MOSTAFA,2014-11-23,Male,Black,Pathology,70 Totius straat,,,0838746106,,,,,Covid-19,0,0,0,0
+201411294821079,1db648c85615d34475c30e6a1b269eae,HOLTZHAUSEN,JACOBA MAGRIETHA,2014-11-29,Female,Other,Pathology,10 Jeppe street,,,0777006682,,Bonitas,031454298,Plan C,Rabies,0,0,0,0
+201504156289035,85aca7f21631e3ddc2bf6dac404afb49,VAN ASWEGEN,PHILLIP,2015-04-15,Male,American,Pharmacists,59 Jeppe street,Pietermaritzburg,Kwazulu-Natal,0813583999,PHILLIP@gmail.com,,,,Cholera,0,0,0,0
+201506134788099,f5d5494626d9d0684e8a2f4b13d236cc,LANDSBERG,GJ,2015-06-13,Female,American,Pharmacists,17 Goetz straat,Nelspruit,Mpumalanga,,GJ@gmail.com,,,,,0,0,0,0
+201508201794026,eb8983a636c9cf520964f444991c75d9,MARX,CHRISTIAAN JACOBUS,2015-08-20,Female,Black,Pharmacists,92 Jeppe street,,,0789513166,CHRISTIAAN JACOBUS@gmail.com,,,,Dengue Fever,0,0,0,0
+201509213098018,a3337e4f0e408b2ce01a763702f7b0c2,VAN NIEKERK,ERHARD FREDERIK,2015-09-21,Female,Asian,Government,8 Albert Luthuli drive,East London,Eastern Cape,0722456354,ERHARD FREDERIK@gmail.com,,,,Measles,0,0,0,0
+201510092633039,f76b751b80995af86d3b4a56f6d56a62,FORSYTH,STEFAN,2015-10-09,Female,Indian,Pathology,38 Albert Luthuli drive,Bloemfontein,Vrystaat,0769665892,,Commed,910233921,Plan A,Rabies,0,0,0,0
+201510159048045,de3bbbaff3630e63eafad7155963aed1,MATIBIDI,FREDERIK JACOBUS,2015-10-15,Male,Other,Government,19 Jeppe street,Kuruman,Northern Cape,0838382593,,,,,,0,0,0,0
+201512211484047,9e8a0d8787dbbed11bcb10028ee78642,DU PLESSIS,CARLA,2015-12-21,Female,Indian,Government,34 Maphongo street,,,0808592701,,,,,Covid-19,0,0,0,0
+201606046053026,c30c8078f527f885cfc152e977b76bf4,MLAMBO,KAYLA,2016-06-04,Male,Black,Pathology,33 James Moroka drive,Bloemfontein,Vrystaat,0818587791,KAYLA@gmail.com,Pharos,011844559,Plan C,Measles,0,0,0,0
+201607094229045,6f7787d7b9c07511142c842c04e60735,BOTHA,JOHANNES STEFANUS,2016-07-09,Female,Indian,Medical,24 Totius straat,Kroonstad,Vrystaat,0740708471,JOHANNES STEFANUS@gmail.com,,,,,0,0,0,0
+201607244571034,b7317b50693bac59880346cfb7d051ee,JOUBERT,SEVANNAH DANELL,2016-07-24,Female,Black,Pharmacists,70 Grimbeeck straat,George,Western Cape,0805022062,SEVANNAH DANELL@gmail.com,FedHealth,082618790,Plan A,Dengue Fever,0,0,0,0
+201607312524018,4deeac71e86455f3eb6608d0a957506b,MOKOENA,JEANDRE FRANS,2016-07-31,Female,Mixed-Race,Pathology,44 Kwena street,Bloemfontein,Vrystaat,0782351631,JEANDRE FRANS@gmail.com,,,,,0,0,0,0
+201609042011076,df8c4228f96fe211961d78fd7cfe1c5f,WASSERMAN,HENDRIK JOHANNES,2016-09-04,Female,Indian,Pharmacists,89 Pitso street,,,,HENDRIK JOHANNES@gmail.com,,,,Covid-19,0,0,0,0
+201612207477087,5f20c48951748c5b5d85d57fec505a49,MAGUBANE,FERDINAND CHRISTIAAN,2016-12-20,Male,Indian,Pharmacists,31 James Moroka drive,Johannesburg,Gauteng,0738858476,FERDINAND CHRISTIAAN@gmail.com,,,,Dengue Fever,0,0,0,0
+201701124357046,85c3eb64c2f8460e7cef687561dc8f57,JANSE VAN RENSBURG,MARTHINUS PETRUS,2017-01-12,Female,Black,Pharmacists,11 Jeppe street,Ermelo,Mpumalanga,0824512836,MARTHINUS PETRUS@gmail.com,Liberty Health,906965531,Plan B,Rabies,0,0,0,0
+201701274236034,38b4a62c541e83538404c069d6b626bd,AHMED,TERTIUS,2017-01-27,Female,Latino,Medical,75 Mosidi street,Pretoria,Gauteng,0834400152,TERTIUS@gmail.com,,,,Rabies,0,0,0,0
+201705168991071,4356f971f02aa038350bf6e2af4faee7,CLOETE,DANIËL WILHELMUS,2017-05-16,Male,Indian,Government,96 Totius straat,Rustenburg,North-West,0818187773,DANIËL WILHELMUS@gmail.com,,,,Cholera,0,0,0,0
+201705202739048,7c41cc5c30a5b99543e303228c01cdc4,MAKHUVELE,SUNÉ,2017-05-20,Female,White ,Patient,15 Totius straat,Ermelo,Mpumalanga,0749633140,SUNÉ@gmail.com,,,,,0,0,0,0
+201706192254048,f5d5494626d9d0684e8a2f4b13d236cc,LANDSBERG,MONIQUE,2017-06-19,Female,American,Pharmacists,17 Goetz straat,,,0803320223,MONIQUE@gmail.com,,,,,0,0,0,0
+201706254328038,85c3eb64c2f8460e7cef687561dc8f57,JANSE VAN RENSBURG,DYLAN,2017-06-25,Female,Indian,Government,90 Jeppe street,Plokwane,Limpopo,0804253852,DYLAN@gmail.com,,,,,0,0,0,0
+201709013590040,78e80cb593c448a25a13212eb4694ddd,SWART,SELLO,2017-09-01,Female,Asian,Pharmacists,49 Louwstraat,Plokwane,Limpopo,0759628311,SELLO@gmail.com,,,,Dengue Fever,0,0,0,0
+201709113460037,454b581e0f3f2011b07cbd3fafab71d0,BORNMAN,TSHIRELETSO BLESSING,2017-09-11,Female,Mixed-Race,Pharmacists,6 Louwstraat,,,0729712398,TSHIRELETSO BLESSING@gmail.com,,,,Rabies,0,0,0,0
+201709167340074,10f9ce62f956003192050274617ff8c5,LABUSCHAGNE,HEYSTEK,2017-09-16,Male,Latino,Patient,6 Totius straat,Zeerust,North-West,0738066375,,,,,Measles,0,0,0,0
+201712271641064,46e0e326c665a06a3865d29a46df6ecb,VAN DEVENTER,DARCIO,2017-12-27,Female,American,Government,29 Pretorius straat,Klerksdorp,North-West,0761408461,,,,,,0,0,0,0
+201802174921041,6d427a48416fb79385df215420073042,GROBLER,MULLER SAMUAL,2018-02-17,Female,Indian,Patient,43 James Moroka drive,Nelspruit,Mpumalanga,0819686860,MULLER SAMUAL@gmail.com,,,,Dengue Fever,0,0,0,0
+201803275125092,0c57254b271c446e47186c94a5cde7fc,MONAISA,ALBERTUS,2018-03-27,Male,Indian,Medical,47 Mosidi street,Pretoria,Gauteng,0813496376,,Fish-med,198202571,Plan E,Dengue Fever,0,0,0,0
+201804025486050,4a1ace8c8b993aa5ff7857064ddab7d1,VAN EEDEN,MORNÉ WEYERS,2018-04-02,Male,Latino,Government,65 Goetz straat,Zeerust,North-West,0804397902,MORNÉ WEYERS@gmail.com,,,,Covid-19,0,0,0,0
+201806117835043,b1287ef18d7dd25ad9e6e0e05f85b288,DU TOIT,CAREL WILHELM,2018-06-11,Male,Other,Medical,47 James Moroka drive,,,0793648489,CAREL WILHELM@gmail.com,,,,Dengue Fever,0,0,0,0
+201806265389088,5f20c48951748c5b5d85d57fec505a49,MAGUBANE,SUFIYAN,2018-06-26,Male,Mixed-Race,Pharmacists,65 Grimbeeck straat,Springbok,Northern Cape,0735123661,SUFIYAN@gmail.com,Commed,618393180,Plan C,Cholera,0,0,0,0
+201807169446054,15539a3da074eb6989eeee1130102c4d,BALOYI,PATRICK HENDRIK,2018-07-16,Male,Latino,Pharmacists,77 Grimbeeck straat,Randfontein,Gauteng,0727828938,PATRICK HENDRIK@gmail.com,,,,Cholera,0,0,0,0
+201812219815017,b1287ef18d7dd25ad9e6e0e05f85b288,DU TOIT,PAUL JACOBUS,2018-12-21,Male,Mixed-Race,Patient,71 Louwstraat,George,Western Cape,,PAUL JACOBUS@gmail.com,,,,Covid-19,0,0,0,0
+201901163819012,b7317b50693bac59880346cfb7d051ee,JOUBERT,MORGAN,2019-01-16,Female,White ,Government,39 Grimbeeck straat,Mosselbaai,Western Cape,0770387650,MORGAN@gmail.com,,,,Measles,0,0,0,0
+201902031671059,6dce7f33af080684521f0460d67dd841,QUSHEGA,SIYABONGA JOHANNES,2019-02-03,Female,American,Medical,49 Totius straat,Klerksdorp,North-West,0749613376,SIYABONGA JOHANNES@gmail.com,,,,Ebola,0,0,0,0
+201902032641053,46e0e326c665a06a3865d29a46df6ecb,VAN DEVENTER,SIBONISO,2019-02-03,Female,Latino,Medical,60 Totius straat,Musina,Limpopo,,SIBONISO@gmail.com,,,,Cholera,0,0,0,0
+201902152268091,1dde044074d4a7baefdc0b9c331f76c8,MAPFEKA,PAUL,2019-02-15,Female,Asian,Pathology,44 Totius straat,Ulundi,Kwazulu-Natal,0749375893,,Liberty,838263034,Plan A,,0,0,0,0
+201903025248033,0527c37b181bccce6fc2f6a80a71324b,KOORNHOF,PAUL JACOBUS,2019-03-02,Male,Latino,Patient,46 Albert Luthuli drive,Beaufort West,Western Cape,0752394220,PAUL JACOBUS@gmail.com,,,,,0,0,0,0
+201903089183038,c8a2c1bd2655c9f46d08cad521973894,BEUKES,BENJAMIN FRANCOIS,2019-03-08,Male,American,Pathology,89 Ross street,,,0754354426,BENJAMIN FRANCOIS@gmail.com,Genesis,290102312,Plan D,Measles,0,0,0,0
+201903161814058,1a87a751ca02a364334889be831b41fe,PIETERSE,ANNIKA,2019-03-16,Female,Latino,Pathology,86 Albert Luthuli drive,Hanover,Northern Cape,0759580381,ANNIKA@gmail.com,,,,Ebola,0,0,0,0
+201903201306057,46a30db39243336718fdd5deddfaf355,GERBER,THATAYAONE KATLEHO,2019-03-20,Female,Asian,Pharmacists,10 Mosidi street,,,0743272307,THATAYAONE KATLEHO@gmail.com,,,,Cholera,0,0,0,0
+201903262505077,f93a5e831cf93cc99b8fdbbe248806ac,TAGGART,DIMAKATSO THATOYAKA,2019-03-26,Female,Latino,Pharmacists,19 Kwena street,Kimberley,Northern Cape,0820570240,DIMAKATSO THATOYAKA@gmail.com,,,,Ebola,0,0,0,0
+201904094417035,6ae7f5d1c0db67d43b94f8141d66df63,SCHUTTE,NIEL,2019-04-09,Female,Asian,Pathology,1 Pretorius straat,Zeerust,North-West,0773557869,,Profmed,173166461,Plan E,,0,0,0,0
+201906061400021,57e3c48091a7897d91eadde3dd3de4bf,KRUGER,THABO,2019-06-06,Female,Indian,Pharmacists,44 Ross street,Beaufort West,Western Cape,0780410202,THABO@gmail.com,,,,,0,0,0,0
+201908049842019,1ed2af096b50be59a14883c11d72240f,ESTERHUYSE,MARELIZE,2019-08-04,Male,Black,Patient,11 Ross street,,,0830949155,MARELIZE@gmail.com,,,,Dengue Fever,0,0,0,0
+201908092850056,b4a1893d010c63a484130e7dbc648454,OTTO,MARILETTE,2019-08-09,Female,Mixed-Race,Medical,38 Clark street,Port Shepstone,Kwazulu-Natal,0794890387,,,,,,0,0,0,0
